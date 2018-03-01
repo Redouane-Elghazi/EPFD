@@ -42,6 +42,7 @@ int N;
 int T;
 int F;
 int B;
+long long totalScore;
 vector<Ride> rides;
 vector<Vehicle> vehicles;
 set<int> remainingRides;
@@ -64,16 +65,26 @@ void getInput(const string& filename){
 int bestride(int v){
     int res = -1;
     double obj = 0;
+    long long newScore = 0;
     Vehicle& V = vehicles[v];
     for(int r:remainingRides){
         int finish = max(V.releaseTime + d(V.x, V.y, rides[r].startX, rides[r].startY), rides[r].startTime) +
             d(rides[r].startX, rides[r].startY, rides[r].endX, rides[r].endY);
-        double new_obj = (double)rides[r].score/(finish - V.releaseTime);
+        double new_obj;
+        if(V.releaseTime + d(V.x, V.y, rides[r].startX, rides[r].startY)<=rides[r].startTime){
+            new_obj = (double)(rides[r].score+B)/(finish - V.releaseTime);
+            newScore = rides[r].score+B;
+        }
+        else{
+            new_obj = (double)rides[r].score/(finish - V.releaseTime);
+            newScore = rides[r].score;
+        }
         if(finish <= rides[r].deadline and new_obj > obj){
             obj = new_obj;
             res = r;
         }
     }
+    totalScore += newScore;
     return res;
 }
 
@@ -82,7 +93,7 @@ void findrides(){//màj remaining ride
 }
 
 int main(int argc, const char * argv[]) {
-
+    totalScore = 0;
 	if (argc != 2){
 		std::cout << "Erreur: nb Param" << std::endl;
 		return 1;
