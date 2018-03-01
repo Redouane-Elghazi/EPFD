@@ -5,6 +5,7 @@
 #	include <algorithm>
 #	include <set>
 #	include <queue>
+#	include <cmath>
 #else
 #	include <bits/stdc++.h>
 #endif
@@ -66,6 +67,8 @@ vector<Vehicle> vehicles;
 set<int> remainingRides;
 vector<vector<int> > result;
 
+double alpha;
+
 void getInput(const string& filename){
 
 	ifstream in(filename.c_str());
@@ -122,7 +125,7 @@ int bestride(int v, int& newRelease){
             d(rides[r].startX, rides[r].startY, rides[r].endX, rides[r].endY);
         double new_obj;
         int denom = finish - V.releaseTime;// + d(rides[r].endX, rides[r].endY, barX, barY);
-        denom = pow(denom,1.5);
+        denom = pow(denom,alpha);
         if(V.releaseTime + d(V.x, V.y, rides[r].startX, rides[r].startY)<=rides[r].startTime)
             new_obj = (double)(rides[r].score+B)/denom;
         else
@@ -179,10 +182,12 @@ void findrides(){//maj remaining ride
 int main(int argc, const char * argv[]) {
 
     totalScore = 0;
-	if (argc != 2){
+	if (argc != 3){
 		std::cout << "Erreur: nb Param" << std::endl;
 		return 1;
 	}
+	
+	alpha = atof(argv[2]);
 
 	getInput(argv[1]);// "/Users/lois/Documents/Projet Perso/Hashcode/EPFD/Qualif/input/a_example.in"); //
 
