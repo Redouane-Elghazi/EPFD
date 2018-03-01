@@ -24,15 +24,34 @@ public:
 	int endY;
 	int startTime;
 	int deadline;
+	int score;
+	Ride(){}
 };
+
+istream& operator>> (istream& in, Ride& r){
+	
+	in >> r.startY;
+	in >> r.startX;
+	in >> r.endY;
+	in >> r.endX;
+	in >> r.startTime;
+	in >> r.deadline;
+	
+	r.score = abs(r.startX - r.endX) + abs(r.startY - r.endY);
+	
+	return in;
+}
 
 class Vehicle{
 public:
 	int x;
 	int y;
 	int releaseTime;
-	bool operator<(Vehicle other) const{
-		return releaseTime < other.releaseTime;
+	
+	Vehicle(){
+		x = 0;
+		y = 0;
+		releaseTime = 0;
 	}
 };
 
@@ -58,6 +77,13 @@ void getInput(const string& filename){
 	in >> N;
 	in >> B;
 	in >> T;
+	
+	vehicles.resize(F);
+	rides.resize(N);
+	
+	for (int i = 0; i < N; ++i){
+		in >> rides[i];
+	}
 
 }
 
@@ -98,9 +124,9 @@ int main(int argc, const char * argv[]) {
 		std::cout << "Erreur: nb Param" << std::endl;
 		return 1;
 	}
-
-	getInput(argv[1]);
-
+	
+	getInput(argv[1]);// "/Users/lois/Documents/Projet Perso/Hashcode/EPFD/Qualif/input/a_example.in"); //
+	
 	std::cout << "Hello, World!\n";
     return 0;
 
