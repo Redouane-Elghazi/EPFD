@@ -28,7 +28,7 @@ public:
 	int y;
 	int releaseTime;
 	bool operator<(Vehicle other) const{
-		return releaseTime < other.releaseTime;
+		return releaseTime > other.releaseTime;
 	}
 };
 
@@ -40,7 +40,6 @@ int F;
 int B;
 vector<Ride> rides;
 vector<Vehicle> vehicles;
-
 
 void getInput(const string& filename){
 
@@ -56,17 +55,34 @@ void getInput(const string& filename){
 }
 
 
-int bestride(int v){
+int bestride(Vehicle v){
 
 	return 0;
 }
 
-void findrides(){//màj remaining ride
-	priority_queue<Vehicle> q_vehicle(vehicles.begin(),vehicles.end()); /**TODO check si en place**/
+void findrides(){//maj remaining ride
+
+	priority_queue<Vehicle> q_vehicle(vehicles.begin(),vehicles.end()); /* check si en place. Seems ok*/
+
+
+	int mini = 0;
+
+	while(mini < T){
+		Vehicle veh_updated = q_vehicle.top();
+		q_vehicle.pop();
+		int new_ride = bestride(veh_updated);
+
+		//update veh_updated
+
+		//insert it back in queue
+
+		mini = q_vehicle.top().releaseTime;
+	}
 }
 
 int main(int argc, const char * argv[]) {
 
+	findrides();
 	if (argc != 2){
 		std::cout << "Erreur: nb Param" << std::endl;
 		return 1;
