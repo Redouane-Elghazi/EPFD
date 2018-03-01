@@ -108,16 +108,24 @@ int bestride(int v, int& newRelease){
     long long newScore = 0;
     newRelease = T+1;
     Vehicle& V = vehicles[v];
+    long barX = 0, barY;
+    for(int r:remainingRides){
+        barX += rides[r].startX;
+        barY += rides[r].startY;
+    }
+    barX /= remainingRides.size();
+    barY /= remainingRides.size();
     for(int r:remainingRides){
         int finish = max(V.releaseTime + d(V.x, V.y, rides[r].startX, rides[r].startY), rides[r].startTime) +
             d(rides[r].startX, rides[r].startY, rides[r].endX, rides[r].endY);
         double new_obj;
+        int denom = finish - V.releaseTime + d(rides[r].endX, rides[r].endY, barX, barY);
         if(V.releaseTime + d(V.x, V.y, rides[r].startX, rides[r].startY)<=rides[r].startTime){
-            new_obj = (double)(rides[r].score+B)/(finish - V.releaseTime);
+            new_obj = (double)(rides[r].score+B)/denom;
             newScore = rides[r].score+B;
         }
         else{
-            new_obj = (double)rides[r].score/(finish - V.releaseTime);
+            new_obj = (double)rides[r].score/denom;
             newScore = rides[r].score;
         }
         if(finish <= rides[r].deadline and new_obj > obj){
