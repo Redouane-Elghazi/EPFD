@@ -86,13 +86,14 @@ void getInput(const string& filename){
 }
 
 
-int bestride(int v){
+int bestride(int v, int& newRelease){
     int res = -1;
     double obj = 0;
     long long newScore = 0;
+    newRelease = T+1;
     Vehicle& V = vehicles[v];
     for(int r:remainingRides){
-        int finish = max(V.releaseTime + d(V.x, V.y, rides[r].startX, rides[r].startY), rides[r].startTime) +
+        finish = max(V.releaseTime + d(V.x, V.y, rides[r].startX, rides[r].startY), rides[r].startTime) +
             d(rides[r].startX, rides[r].startY, rides[r].endX, rides[r].endY);
         double new_obj;
         if(V.releaseTime + d(V.x, V.y, rides[r].startX, rides[r].startY)<=rides[r].startTime){
@@ -106,6 +107,7 @@ int bestride(int v){
         if(finish <= rides[r].deadline and new_obj > obj){
             obj = new_obj;
             res = r;
+            new_Release = finish;
         }
     }
     totalScore += newScore;
