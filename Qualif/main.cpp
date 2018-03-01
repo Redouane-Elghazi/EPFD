@@ -27,6 +27,9 @@ public:
 	int x;
 	int y;
 	int releaseTime;
+	bool operator<(Vehicle other) const{
+		return releaseTime < other.releaseTime;
+	}
 };
 
 int R;
@@ -42,7 +45,7 @@ vector<Vehicle> vehicles;
 void getInput(const string& filename){
 
 	ifstream in(filename);
-	
+
 	in >> R;
 	in >> C;
 	in >> F;
@@ -58,19 +61,19 @@ int bestride(int v){
 	return 0;
 }
 
-void findrides(){
-
+void findrides(){//màj remaining ride
+	priority_queue<Vehicle> q_vehicle(vehicles.begin(),vehicles.end()); /**TODO check si en place**/
 }
 
 int main(int argc, const char * argv[]) {
-	
+
 	if (argc != 2){
 		std::cout << "Erreur: nb Param" << std::endl;
 		return 1;
 	}
-	
+
 	getInput(argv[1]);
-	
+
 	std::cout << "Hello, World!\n";
     return 0;
 
