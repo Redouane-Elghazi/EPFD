@@ -91,7 +91,7 @@ void getInput(const string& filename){
 
 void printRides(vector<vector<int> > &results){
 	std::vector<int>::size_type sz;
-	for (int i=0; i<N; ++i){
+	for (int i=0; i<F; ++i){
 		sz = results[i].size();
 		cout << sz;
 		for (int j=0; j<sz; ++j){
