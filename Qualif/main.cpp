@@ -84,7 +84,7 @@ void getInput(const string& filename){
 		in >> rides[i];
 		remainingRides.insert(i);
 	}
-	
+
 	result.resize(F);
 
 }
@@ -109,7 +109,7 @@ int bestride(int v, int& newRelease){
     newRelease = T+1;
     Vehicle& V = vehicles[v];
     for(int r:remainingRides){
-        finish = max(V.releaseTime + d(V.x, V.y, rides[r].startX, rides[r].startY), rides[r].startTime) +
+        int finish = max(V.releaseTime + d(V.x, V.y, rides[r].startX, rides[r].startY), rides[r].startTime) +
             d(rides[r].startX, rides[r].startY, rides[r].endX, rides[r].endY);
         double new_obj;
         if(V.releaseTime + d(V.x, V.y, rides[r].startX, rides[r].startY)<=rides[r].startTime){
@@ -123,7 +123,7 @@ int bestride(int v, int& newRelease){
         if(finish <= rides[r].deadline and new_obj > obj){
             obj = new_obj;
             res = r;
-            new_Release = finish;
+            newRelease = finish;
         }
     }
     totalScore += newScore;
@@ -135,7 +135,7 @@ void findrides(){//maj remaining ride
 
 	priority_queue<pair<int,int> > q_vehicle; /* check si en place. Seems ok*/
 	for(int v = 0; v < F; ++v){
-		q_vehicle.push(make_pair(-vehicles[v].releaseTime,v));
+		q_vehicle.emplace(-vehicles[v].releaseTime,v);
 	}
 
 	int mini = 0;
@@ -152,7 +152,7 @@ void findrides(){//maj remaining ride
 			vehicles[veh_updated.second].x = rides[new_ride].endX;
 			vehicles[veh_updated.second].y = rides[new_ride].endY;
 			vehicles[veh_updated.second].releaseTime = new_time;
-			q_vehicle.push(-new_time,veh_updated.second);
+			q_vehicle.emplace(-new_time,veh_updated.second);
 
 			remainingRides.erase(new_ride);
 			result[veh_updated.second].push_back(new_ride);
