@@ -67,7 +67,7 @@ set<int> remainingRides;
 
 void getInput(const string& filename){
 
-	ifstream in(filename);
+	ifstream in(filename.c_str());
 
 	in >> R;
 	in >> C;
