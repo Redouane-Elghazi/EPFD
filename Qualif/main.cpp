@@ -82,6 +82,7 @@ void getInput(const string& filename){
 
 	for (int i = 0; i < N; ++i){
 		in >> rides[i];
+		remainingRides.insert(i);
 	}
 
 }
