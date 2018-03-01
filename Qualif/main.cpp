@@ -17,6 +17,10 @@ public:
 	int x;
 	int y;
 	int releaseTime;
+
+	bool operator<(Vehicle other) const{
+		return releaseTime > other.releaseTime;
+	}
 };
 
 int R;
