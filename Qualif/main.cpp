@@ -89,13 +89,13 @@ void getInput(const string& filename){
 
 }
 
-void printRides(vector<vector<int> > &results){
+void printRides(){
 	std::vector<int>::size_type sz;
 	for (int i=0; i<F; ++i){
-		sz = results[i].size();
+		sz = result[i].size();
 		cout << sz;
 		for (int j=0; j<sz; ++j){
-			cout << ' ' << results[i][j];
+			cout << ' ' << result[i][j];
 		}
 		cout << endl;
 	}
@@ -174,7 +174,9 @@ int main(int argc, const char * argv[]) {
 
 	getInput(argv[1]);// "/Users/lois/Documents/Projet Perso/Hashcode/EPFD/Qualif/input/a_example.in"); //
 
-	std::cout << "Hello, World!\n";
+	findrides();
+	printRides();
+
     return 0;
 
 }
