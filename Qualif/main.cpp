@@ -1,6 +1,13 @@
-#include <iostream>
-#include <fstream>
-#include <vector>
+#ifdef __APPLE__
+#   include <vector>
+#	include <iostream>
+#	include <fstream>
+#	include <algorithm>
+#	include <set>
+#	include <queue>
+#else
+#	include <bits/stdc++.h>
+#endif
 
 
 using namespace std;
@@ -46,6 +53,15 @@ void getInput(const string& filename){
 }
 
 
+int bestride(int v){
+
+	return 0;
+}
+
+void findrides(){
+
+}
+
 int main(int argc, const char * argv[]) {
 	
 	if (argc != 2){
@@ -57,5 +73,5 @@ int main(int argc, const char * argv[]) {
 	
 	std::cout << "Hello, World!\n";
     return 0;
-	
+
 }
