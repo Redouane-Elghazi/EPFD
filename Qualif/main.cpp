@@ -108,27 +108,30 @@ int bestride(int v, int& newRelease){
     long long newScore = 0;
     newRelease = T+1;
     Vehicle& V = vehicles[v];
-    long barX = 0, barY = 0;
+    long long barX = 0, barY = 0, tot = 0;
     for(int r:remainingRides){
-        barX += rides[r].startX;
-        barY += rides[r].startY;
+        long long coeff = pow(max(0, rides[r].deadline - V.releaseTime), 2);
+        barX += coeff*rides[r].startX;
+        barY += coeff*rides[r].startY;
+        tot += coeff;
     }
-    barX /= max((int)remainingRides.size(), 1);
-    barY /= max((int)remainingRides.size(), 1);
+    barX /= max(tot, (long long)1);
+    barY /= max(tot, (long long)1);
     for(int r:remainingRides){
         int finish = max(V.releaseTime + d(V.x, V.y, rides[r].startX, rides[r].startY), rides[r].startTime) +
             d(rides[r].startX, rides[r].startY, rides[r].endX, rides[r].endY);
         double new_obj;
-        int denom = finish - V.releaseTime + d(rides[r].endX, rides[r].endY, barX, barY);
-        if(V.releaseTime + d(V.x, V.y, rides[r].startX, rides[r].startY)<=rides[r].startTime){
+        int denom = finish - V.releaseTime;// + d(rides[r].endX, rides[r].endY, barX, barY);
+        denom = pow(denom,1.5);
+        if(V.releaseTime + d(V.x, V.y, rides[r].startX, rides[r].startY)<=rides[r].startTime)
             new_obj = (double)(rides[r].score+B)/denom;
-            newScore = rides[r].score+B;
-        }
-        else{
+        else
             new_obj = (double)rides[r].score/denom;
-            newScore = rides[r].score;
-        }
         if(finish <= rides[r].deadline and new_obj > obj){
+            if(V.releaseTime + d(V.x, V.y, rides[r].startX, rides[r].startY)<=rides[r].startTime)
+                newScore = rides[r].score+B;
+            else
+                newScore = rides[r].score;
             obj = new_obj;
             res = r;
             newRelease = finish;
@@ -185,7 +188,7 @@ int main(int argc, const char * argv[]) {
 
 	findrides();
 	printRides();
-
+    cerr << totalScore << endl;
     return 0;
 
 }
