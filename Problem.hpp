@@ -3,8 +3,5 @@
 
 #include <iostream>
 
-class Problem{
-	
-};
 
 #endif /* Problem_hpp */
