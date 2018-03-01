@@ -1,6 +1,20 @@
-#include <bits/stdc++.h>
+#ifdef __APPLE__
+#   include <vector>
+#	include <iostream>
+#	include <fstream>
+#	include <algorithm>
+#	include <set>
+#	include <queue>
+#else
+#	include <bits/stdc++.h>
+#endif
+
 
 using namespace std;
+
+int d(int x1, int y1, int x2, int y2){
+    return abs(x1 - x2) + abs(y1 - y2);
+}
 
 class Ride{
 public:
@@ -17,6 +31,9 @@ public:
 	int x;
 	int y;
 	int releaseTime;
+	bool operator<(Vehicle other) const{
+		return releaseTime < other.releaseTime;
+	}
 };
 
 int R;
@@ -24,13 +41,25 @@ int C;
 int N;
 int T;
 int F;
+int B;
 vector<Ride> rides;
 vector<Vehicle> vehicles;
 set<int> remainingRides;
 
-int d(int x1, int y1, int x2, int y2){
-    return abs(x1 - x2) + abs(y1 - y2);
+
+void getInput(const string& filename){
+
+	ifstream in(filename);
+
+	in >> R;
+	in >> C;
+	in >> F;
+	in >> N;
+	in >> B;
+	in >> T;
+
 }
+
 
 int bestride(int v){
     int res = -1;
@@ -48,14 +77,20 @@ int bestride(int v){
     return res;
 }
 
-void findrides(){
-
+void findrides(){//màj remaining ride
+	priority_queue<Vehicle> q_vehicle(vehicles.begin(),vehicles.end()); /**TODO check si en place**/
 }
 
 int main(int argc, const char * argv[]) {
 
-	// insert code here...
-	cout << "Hello, World!\n";
+	if (argc != 2){
+		std::cout << "Erreur: nb Param" << std::endl;
+		return 1;
+	}
+
+	getInput(argv[1]);
+
+	std::cout << "Hello, World!\n";
     return 0;
 
 }
