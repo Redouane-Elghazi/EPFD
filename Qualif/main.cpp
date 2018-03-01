@@ -44,6 +44,9 @@ istream& operator>> (istream& in, Ride& r){
 
 class Vehicle{
 public:
+	int x;
+	int y;
+	int releaseTime;
 	Vehicle(){
 		x = 0;
 		y = 0;
@@ -114,7 +117,7 @@ void findrides(){//maj remaining ride
 
 	priority_queue<pair<int,int>> q_vehicle; /* check si en place. Seems ok*/
 	for(int v = 0; v < F; ++v){
-		q_vehicle.push(make_pair(-vehicles[v].releaseTime,v))
+		q_vehicle.push(make_pair(-vehicles[v].releaseTime,v));
 	}
 
 	int mini = 0;
@@ -128,7 +131,7 @@ void findrides(){//maj remaining ride
 
 		//insert it back in queue
 
-		mini = -q_vehicle.top();
+		mini = -1*q_vehicle.top().first;
 	}
 }
 
