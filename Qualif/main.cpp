@@ -159,6 +159,7 @@ void findrides(){//maj remaining ride
 		}
 		else{
 			vehicles[veh_updated.second].releaseTime = T+1;
+			q_vehicle.emplace(-T-1, veh_updated.second);
 		}
 		mini = -q_vehicle.top().first;
 	}
