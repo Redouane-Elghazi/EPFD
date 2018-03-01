@@ -1,4 +1,14 @@
-#include <bits/stdc++.h>
+#ifdef __APPLE__
+#   include <vector>
+#	include <iostream>
+#	include <fstream>
+#	include <algorithm>
+#	include <set>
+#	include <queue>
+#else
+#	include <bits/stdc++.h>
+#endif
+
 
 using namespace std;
 
@@ -24,13 +34,28 @@ int C;
 int N;
 int T;
 int F;
+int B;
 vector<Ride> rides;
 vector<Vehicle> vehicles;
 
 
+void getInput(const string& filename){
+
+	ifstream in(filename);
+	
+	in >> R;
+	in >> C;
+	in >> F;
+	in >> N;
+	in >> B;
+	in >> T;
+
+}
+
 
 int bestride(int v){
 
+	return 0;
 }
 
 void findrides(){
@@ -38,8 +63,14 @@ void findrides(){
 }
 
 int main(int argc, const char * argv[]) {
-
-	// insert code here...
+	
+	if (argc != 2){
+		std::cout << "Erreur: nb Param" << std::endl;
+		return 1;
+	}
+	
+	getInput(argv[1]);
+	
 	std::cout << "Hello, World!\n";
     return 0;
 
