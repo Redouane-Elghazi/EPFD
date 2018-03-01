@@ -64,6 +64,7 @@ long long totalScore;
 vector<Ride> rides;
 vector<Vehicle> vehicles;
 set<int> remainingRides;
+vector<vector<int> > result;
 
 void getInput(const string& filename){
 
@@ -83,6 +84,8 @@ void getInput(const string& filename){
 		in >> rides[i];
 		remainingRides.insert(i);
 	}
+	
+	result.resize(F);
 
 }
 
@@ -99,13 +102,14 @@ void printRides(vector<vector<int> > &results){
 }
 
 
-int bestride(int v){
+int bestride(int v, int& newRelease){
     int res = -1;
     double obj = 0;
     long long newScore = 0;
+    newRelease = T+1;
     Vehicle& V = vehicles[v];
     for(int r:remainingRides){
-        int finish = max(V.releaseTime + d(V.x, V.y, rides[r].startX, rides[r].startY), rides[r].startTime) +
+        finish = max(V.releaseTime + d(V.x, V.y, rides[r].startX, rides[r].startY), rides[r].startTime) +
             d(rides[r].startX, rides[r].startY, rides[r].endX, rides[r].endY);
         double new_obj;
         if(V.releaseTime + d(V.x, V.y, rides[r].startX, rides[r].startY)<=rides[r].startTime){
@@ -119,6 +123,7 @@ int bestride(int v){
         if(finish <= rides[r].deadline and new_obj > obj){
             obj = new_obj;
             res = r;
+            new_Release = finish;
         }
     }
     totalScore += newScore;
@@ -128,7 +133,7 @@ int bestride(int v){
 
 void findrides(){//maj remaining ride
 
-	priority_queue<pair<int,int>> q_vehicle; /* check si en place. Seems ok*/
+	priority_queue<pair<int,int> > q_vehicle; /* check si en place. Seems ok*/
 	for(int v = 0; v < F; ++v){
 		q_vehicle.push(make_pair(-vehicles[v].releaseTime,v));
 	}
@@ -138,13 +143,24 @@ void findrides(){//maj remaining ride
 	while(mini < T){
 		pair<int,int> veh_updated = q_vehicle.top();
 		q_vehicle.pop();
-		int new_ride = bestride(veh_updated.second);
 
-		//update veh_updated
+		int new_time;
+		int new_ride = bestride(veh_updated.second, new_time);
 
-		//insert it back in queue
+		if(new_ride != -1){
+			//Update the vehicle
+			vehicles[veh_updated.second].x = rides[new_ride].endX;
+			vehicles[veh_updated.second].y = rides[new_ride].endY;
+			vehicles[veh_updated.second].releaseTime = new_time;
+			q_vehicle.push(-new_time,veh_updated.second);
 
-		mini = -1*q_vehicle.top().first;
+			remainingRides.erase(new_ride);
+			result[veh_updated.second].push_back(new_ride);
+		}
+		else{
+			vehicles[veh_updated.second].releaseTime = T+1;
+		}
+		mini = -q_vehicle.top().first;
 	}
 }
 
