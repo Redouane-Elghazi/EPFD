@@ -84,6 +84,8 @@ void getInput(const string& filename){
 		in >> rides[i];
 		remainingRides.insert(i);
 	}
+	
+	result.resize(F);
 
 }
 
