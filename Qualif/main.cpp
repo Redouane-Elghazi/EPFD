@@ -108,13 +108,13 @@ int bestride(int v, int& newRelease){
     long long newScore = 0;
     newRelease = T+1;
     Vehicle& V = vehicles[v];
-    long barX = 0, barY;
+    long barX = 0, barY = 0;
     for(int r:remainingRides){
         barX += rides[r].startX;
         barY += rides[r].startY;
     }
-    barX /= remainingRides.size();
-    barY /= remainingRides.size();
+    barX /= max((int)remainingRides.size(), 1);
+    barY /= max((int)remainingRides.size(), 1);
     for(int r:remainingRides){
         int finish = max(V.releaseTime + d(V.x, V.y, rides[r].startX, rides[r].startY), rides[r].startTime) +
             d(rides[r].startX, rides[r].startY, rides[r].endX, rides[r].endY);
