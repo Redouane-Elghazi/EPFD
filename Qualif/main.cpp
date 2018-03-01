@@ -1,4 +1,34 @@
 #include <iostream>
+#include <vector>
+
+using namespace std;
+
+class Ride{
+public:
+	int startX;
+	int startY;
+	int endX;
+	int endY;
+	int startTime;
+	int deadline;
+};
+
+class Vehicle{
+public:
+	int x;
+	int y;
+	int releaseTime;
+};
+
+int R;
+int C;
+int N;
+int T;
+int F;
+vector<Ride> rides;
+vector<Vehicle> vehicles;
+
+
 
 int main(int argc, const char * argv[]) {
 	
