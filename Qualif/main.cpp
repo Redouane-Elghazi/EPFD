@@ -12,6 +12,10 @@
 
 using namespace std;
 
+int d(int x1, int y1, int x2, int y2){
+    return abs(x1 - x2) + abs(y1 - y2);
+}
+
 class Ride{
 public:
 	int startX;
@@ -20,15 +24,33 @@ public:
 	int endY;
 	int startTime;
 	int deadline;
+	int score;
+	Ride(){}
 };
+
+istream& operator>> (istream& in, Ride& r){
+
+	in >> r.startY;
+	in >> r.startX;
+	in >> r.endY;
+	in >> r.endX;
+	in >> r.startTime;
+	in >> r.deadline;
+
+	r.score = abs(r.startX - r.endX) + abs(r.startY - r.endY);
+
+	return in;
+}
 
 class Vehicle{
 public:
 	int x;
 	int y;
 	int releaseTime;
-	bool operator<(Vehicle other) const{
-		return releaseTime < other.releaseTime;
+	Vehicle(){
+		x = 0;
+		y = 0;
+		releaseTime = 0;
 	}
 };
 
@@ -38,9 +60,10 @@ int N;
 int T;
 int F;
 int B;
+long long totalScore;
 vector<Ride> rides;
 vector<Vehicle> vehicles;
-
+set<int> remainingRides;
 
 void getInput(const string& filename){
 
@@ -52,6 +75,13 @@ void getInput(const string& filename){
 	in >> N;
 	in >> B;
 	in >> T;
+
+	vehicles.resize(F);
+	rides.resize(N);
+
+	for (int i = 0; i < N; ++i){
+		in >> rides[i];
+	}
 
 }
 
@@ -69,22 +99,63 @@ void printRides(vector<vector<int> > &results){
 
 
 int bestride(int v){
-
-	return 0;
+    int res = -1;
+    double obj = 0;
+    long long newScore = 0;
+    Vehicle& V = vehicles[v];
+    for(int r:remainingRides){
+        int finish = max(V.releaseTime + d(V.x, V.y, rides[r].startX, rides[r].startY), rides[r].startTime) +
+            d(rides[r].startX, rides[r].startY, rides[r].endX, rides[r].endY);
+        double new_obj;
+        if(V.releaseTime + d(V.x, V.y, rides[r].startX, rides[r].startY)<=rides[r].startTime){
+            new_obj = (double)(rides[r].score+B)/(finish - V.releaseTime);
+            newScore = rides[r].score+B;
+        }
+        else{
+            new_obj = (double)rides[r].score/(finish - V.releaseTime);
+            newScore = rides[r].score;
+        }
+        if(finish <= rides[r].deadline and new_obj > obj){
+            obj = new_obj;
+            res = r;
+        }
+    }
+    totalScore += newScore;
+    return res;
 }
 
-void findrides(){//màj remaining ride
-	priority_queue<Vehicle> q_vehicle(vehicles.begin(),vehicles.end()); /**TODO check si en place**/
+
+void findrides(){//maj remaining ride
+
+	priority_queue<pair<int,int>> q_vehicle; /* check si en place. Seems ok*/
+	for(int v = 0; v < F; ++v){
+		q_vehicle.push(make_pair(-vehicles[v].releaseTime,v));
+	}
+
+	int mini = 0;
+
+	while(mini < T){
+		pair<int,int> veh_updated = q_vehicle.top();
+		q_vehicle.pop();
+		int new_ride = bestride(veh_updated.second);
+
+		//update veh_updated
+
+		//insert it back in queue
+
+		mini = -1*q_vehicle.top().first;
+	}
 }
 
 int main(int argc, const char * argv[]) {
 
+    totalScore = 0;
 	if (argc != 2){
 		std::cout << "Erreur: nb Param" << std::endl;
 		return 1;
 	}
 
-	getInput(argv[1]);
+	getInput(argv[1]);// "/Users/lois/Documents/Projet Perso/Hashcode/EPFD/Qualif/input/a_example.in"); //
 
 	std::cout << "Hello, World!\n";
     return 0;
