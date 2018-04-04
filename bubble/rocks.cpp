@@ -1,11 +1,13 @@
 /* Copyright (C) Redouane ELGHAZI
  * TBD
  */
+#pragma GCC push_options
+#pragma GCC optimize ("O3")
 #include <bits/stdc++.h>
 #define ll long long
-#define p(i) i/2
-#define f1(i) i*2
-#define f2(i) i*2+1
+#define p(i) ((i)/2)
+#define f1(i) ((i)*2)
+#define f2(i) ((i)*2+1)
 using namespace std;
 
 class mini{
@@ -50,31 +52,29 @@ public:
         return query(0,n,1,a,b);
     }
 
-    ll replace(ll l, ll r, ll c, ll i, ll a){
-        if(l<=a and a<r){
-            if(l+1!=r){
-                S[i] = T::neutral();
-                S[i] = T::op(S[i], replace(l, (l+r)/2, c, f1(i), a));
-                S[i] = T::op(S[i], replace((l+r)/2, r, c, f2(i), a));
-            }
+    void actualize(ll i){
+        S[i] = T::op(S[f1(i)], S[f2(i)]);
+        if(i!=1){
+            actualize(p(i));
         }
-        return S[i];
     }
-    ll replace(ll a, ll c){
-        while(a>=n){
-            n=max(1LL, 2*n);
+    void replace(ll a, ll c){
+        if(n<=a){
+            while(n<=a){
+                n=max(1LL, 2*n);
+            }
             vector<ll> I;
             S.swap(I);
             S = vector<ll> (2*n,T::neutral());
-            for(ll i = I.size()/2; i<I.size(); ++i){
+            for(unsigned int i = I.size()/2; i<I.size(); ++i){
                 replace(i-I.size()/2,I[i]);
             }
         }
         S[a+n] = c;
-        replace(0, n, c, 1, a);
+        actualize(p(a+n));
     }
     void pr(){
-        for(ll i = 0; i<S.size(); ++i){
+        for(unsigned int i = 0; i<S.size(); ++i){
             cerr << i << ":" << S[i] << endl;
         }
     }
@@ -91,7 +91,7 @@ public:
             n*=2;
         }
         S = vector<ll> (2*n,T::neutral());
-        for(ll i = 0; i<I.size(); ++i){
+        for(unsigned int i = 0; i<I.size(); ++i){
             replace(i,I[i]);
         }
     }
@@ -99,20 +99,17 @@ private:
     ll n;
     vector<ll> S;
 };
-
 ll score(string& s){
-    ll res = 0;
-    for(char c:s){
-        res += c-'a'+1;
-    }
-    return res;
+    return accumulate(s.begin(), s.end(), 0) - s.size()*('a'-1);
 }
 
 int main(){
+    cin.sync_with_stdio(0);
+    cin.tie(0);
     int nb, n = 0;
     cin >> nb;
     fenwick<sum> row(10000);
-    map<string, ll> place;
+    unordered_map<string, pair<int, int> > place;
     for(int i = 0; i<nb; ++i){
         string a;
         cin >> a;
@@ -125,8 +122,9 @@ int main(){
                 cout << "Can't add " << s << endl;
             }
             else{
-                place[s] = n;
-                row.replace(n, score(s));
+                int sc = score(s);
+                place[s] = make_pair(n, sc);
+                row.replace(n, sc);
                 ++n;
             }
             break;
@@ -134,16 +132,16 @@ int main(){
         case 'S':{
             string s, t;
             cin >> s >> t;
-            int k = place[s], l = place[t];
-            place[s] = l, place[t] = k;
-            row.replace(l, score(s));
-            row.replace(k, score(t));
+            auto &p1 = place[s], &p2 = place[t];
+            row.replace(p1.first, p2.second);
+            row.replace(p2.first, p1.second);
+            swap(p1.first, p2.first);
             break;
         }
         case 'M':{
             string s, t;
             cin >> s >> t;
-            int k = place[s], l = place[t];
+            int k = place[s].first, l = place[t].first;
             if(k>l)
                 swap(k,l);
             cout << row.query(k, l+1) << endl;
@@ -152,9 +150,10 @@ int main(){
         case 'R':{
             string s, t;
             cin >> s >> t;
-            int k = place[s];
-            row.replace(k, score(t));
-            place[t] = k;
+            pair<int,int> p = place[s];
+            p.second = score(t);
+            row.replace(p.first, p.second);
+            place[t] = p;
             place.erase(s);
             break;
         }
@@ -162,6 +161,8 @@ int main(){
             cout << n << endl;
             break;
         }
+        default:
+            row.pr();
         }
     }
     return 0;
