@@ -41,71 +41,78 @@ int main(){
     FOR(t,T){
         int n, m;
         cin >> n >> m;
-        vector<vector<int> > adjo(n), adj(n);
-        vi d(n,0);
-        FOR(i,m){
-            int u, v;
-            cin >> u >> v;
-            --u, --v;
-            ++d[u];
-            --d[v];
-            adj[u].pb(v);
-            adjo[u].pb(v);
-            adj[v].pb(u);
-        }
-        int start = -1;
-        bool poss = true, done = false;
-        FOR(i,n){
-            if(d[i] == 1 and start == -1){
-                start = i;
+        if(m==0)
+            cout << "YES" << endl;
+        else{
+            vector<vector<int> > adjo(n), adj(n);
+            vi d(n,0);
+            set<int> alive;
+            FOR(i,m){
+                int u, v;
+                cin >> u >> v;
+                --u, --v;
+                alive.insert(u);
+                alive.insert(v);
+                ++d[u];
+                --d[v];
+                adj[u].pb(v);
+                adjo[u].pb(v);
+                adj[v].pb(u);
             }
-            else if(d[i]!=0 and d[i]!=-1){
-                poss = false;
-                break;
-            }
-        }
-        if(poss){
-            if(start == -1){
-                FOR(i,n){
-                    vector<bool> visited(n,false);
-                    if(parc(i, adjo, visited)==n){
-                        cout << "YES" << endl;
-                        done = true;
-                        break;
-                    }
-                }
-            }
-            else{
-                vector<bool> visited(n,false);
-                if(parc(start, adjo, visited)==n){
-                    cout << "YES" << endl;
-                    done = true;
-                }
-            }
-        }
-        if(!done){
-            int start1 = -1, start2 = -1;
-            poss = true;
+            int start = -1;
+            bool poss = true, done = false;
             FOR(i,n){
-                if((d[i]%2+2)%2 == 1 and start1 == -1){
-                    start1 = i;
-                    poss = false;
+                if(d[i] == 1 and start == -1){
+                    start = i;
                 }
-                else if((d[i]%2+2)%2 == 1 and start2 == -1){
-                    start2 = i;
-                    poss = true;
-                }
-                else if(d[i]%2!=0){
+                else if(d[i]!=0 and d[i]!=-1){
                     poss = false;
                     break;
                 }
             }
-            vector<bool> visited(n,false);
-            if(poss and parc(0, adj, visited) == n){
-                cout << "TRAFFIC STOPPING NEEDED" << endl;
+            if(poss){
+                if(start == -1){
+                    FOR(i,n){
+                        vector<bool> visited(n,false);
+                        if(parc(i, adjo, visited)==alive.size()){
+                            cout << "YES" << endl;
+                            done = true;
+                            break;
+                        }
+                    }
+                }
+                else{
+                    vector<bool> visited(n,false);
+                    if(parc(start, adjo, visited)==alive.size()){
+                        cout << "YES" << endl;
+                        done = true;
+                    }
+                }
             }
-            else{
-                cout << "WAKE UP EARLIER" << endl;
+            if(!done){
+                int start1 = -1, start2 = -1;
+                poss = true;
+                FOR(i,n){
+                    if((d[i]%2+2)%2 == 1 and start1 == -1){
+                        start1 = i;
+                        poss = false;
+                    }
+                    else if((d[i]%2+2)%2 == 1 and start2 == -1){
+                        start2 = i;
+                        poss = true;
+                    }
+                    else if(d[i]%2!=0){
+                        poss = false;
+                        break;
+                    }
+                }
+                vector<bool> visited(n,false);
+                if(poss and parc(*alive.begin(), adj, visited) == alive.size()){
+                    cout << "TRAFFIC STOPPING NEEDED" << endl;
+                }
+                else{
+                    cout << "WAKE UP EARLIER" << endl;
+                }
             }
         }
     }
