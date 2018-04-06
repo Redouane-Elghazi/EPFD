@@ -6,7 +6,7 @@ using namespace std;
 #define FOR(i,n) REP(i,0,int(n)-1)
 #define mp make_pair
 #define pb push_back
-#define pll pair<long, long>
+#define pll pair<long long, long long>
 #define vi vector<int>
 #define ll long long
 #define SZ(x) int((x).size())
@@ -60,7 +60,7 @@ double area(pll v_base, pll p1, pll p2, pll p3, pll p4){
 	ll longu = scal(v_base,v_long);
 
 	//cerr << larg << " " << longu << " " << (double)larg*longu/norm_carre << endl;
-	return (double)larg*longu/norm_carre;
+	return (double)larg*longu/double(norm_carre);
 }
 
 int main () {
@@ -130,8 +130,8 @@ int main () {
 			//cerr << "Sharp angle detected in " << i4 << endl;
 		}
 
-		//cerr << i0 << " " << i1 << " " << i2 << " " << i3 << " " << i4 << endl;
 		double new_area = area(v_base,p1,p2,p3,p4);
+		//cerr << i0 << " " << i1 << " " << i2 << " " << i3 << " " << i4 << " " << new_area << endl;
 		if(new_area < min_area){
 			min_area = new_area;
 		}
@@ -140,6 +140,6 @@ int main () {
 		i0 = i1-1;
 	}
 
-	cout << round(min_area) << endl;
+	cout << llround(min_area) << endl;
 	return 0;
 }
