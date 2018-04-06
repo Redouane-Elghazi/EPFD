@@ -22,122 +22,126 @@ using namespace std;
 #define FOREACH(i,t) for (auto i = t.begin(); i != t.end(); ++i)
 #define fi first
 #define se second
-#define v(i,j) (0<=i and i<n and 0<=j and j<n)
+#define v(i,j) (0<=i and i<s and 0<=j and j<s)
+#define INF -1
 
-int n;
-
-/*
+/* CONTRE-EXEMPLE
 1
-4
-##..
-###.
-.###
-..##
+6
+......
+.####.
+######
+##..##
+......
+......
  */
+#define MAXV 100005
+int n,m; vi adj[MAXV]; int p[MAXV], dist[MAXV];
+bool bfs() {
+deque<int> q;
+FORI(v,n) { if (!p[v]) { dist[v] = 0; q.pb(v); } else dist[v] = INF; }
+dist[0] = INF;
+while (!q.empty()) {
+int v = q.front(); q.pop_front();
+FOREACH(u,adj[v]) if (dist[p[*u]] == INF) {
+dist[p[*u]] = dist[v]+1;
+q.pb(p[*u]);
+}
+}
+return dist[0] != INF;
+} bool dfs (
+int v) {
+if (!v) return 1;
+FOREACH(u,adj[v]) if (dist[p[*u]] == dist[v]+1) {
+if (dfs(p[*u])) { p[*u] = v; p[v] = *u; return 1; }
+}
+dist[v] = INF;
+return 0;
+}
+// vertices on the left should have numbers 1..n, on the right - n+1..n+m
+// PRE: set n,m,adj (adj needs to be filled out only for vertices 1..n) (adj[0] must
+// be empty), and the constant MAXV = maximum n+m
+int matching () {
+FOR(i,n+m+1) p[i] = 0;
+int w = 0;
+while (bfs()) FORI(v,n) if (!p[v]) if (dfs(v)) ++w;
+return w;
+}
+// (i*n+j)/2
 int main(){
     int T;
     cin >> T;
     FOR(t,T){
-        cin >> n;
-        vector<string> M(n);
-        FOR(i,n){
+        int s;
+        cin >> s;
+        vector<string> M(s);
+        vector<vi> ind(s, vi(s, 0));
+
+        FOR(i,s){
             cin >> M[i];
         }
-        set<pair<int, pii> > O;
-        map<pii, int> NB;
-        FOR(i,n){
-            FOR(j,n){
+
+        n = 0;
+        m = 0;
+        FOR(i,s){
+            FOR(j,s){
                 if(M[i][j]=='#'){
-                    int nb = 0;
-                    if(v(i-1,j) and M[i-1][j]=='#')
-                        ++nb;
-                    if(v(i+1,j) and M[i+1][j]=='#')
-                        ++nb;
-                    if(v(i,j-1) and M[i][j-1]=='#')
-                        ++nb;
-                    if(v(i,j+1) and M[i][j+1]=='#')
-                        ++nb;
-                    O.insert(mp(nb, mp(i,j)));
-                    NB[mp(i,j)] = nb;
+                    if((i+j)%2==0){
+                        ++n;
+                        ind[i][j] = n;
+                    }
+                    else{
+                        ++m;
+                        ind[i][j] = -m;
+                    }
                 }
             }
         }
-        int res = 0;
-        while(!O.empty()){
-            int nb = O.begin()->fi;
-            int i = O.begin()->se.fi;
-            int j = O.begin()->se.se;
-            //cerr << i << " " << j << " " << nb << endl;
-            M[i][j] = '.';
-            O.erase(mp(NB[mp(i,j)], mp(i,j)));
-            NB.erase(mp(i,j));
-            if(v(i-1,j) and M[i-1][j]=='#'){
-                int k = i-1, l = j;
-                O.erase(mp(NB[mp(k,l)], mp(k,l)));
-                --NB[mp(k,l)];
-                O.insert(mp(NB[mp(k,l)], mp(k,l)));
-            }
-            if(v(i+1,j) and M[i+1][j]=='#'){
-                int k = i+1, l = j;
-                O.erase(mp(NB[mp(k,l)], mp(k,l)));
-                --NB[mp(k,l)];
-                O.insert(mp(NB[mp(k,l)], mp(k,l)));
-            }
-            if(v(i,j-1) and M[i][j-1]=='#'){
-                int k = i, l = j-1;
-                O.erase(mp(NB[mp(k,l)], mp(k,l)));
-                --NB[mp(k,l)];
-                O.insert(mp(NB[mp(k,l)], mp(k,l)));
-            }
-            if(v(i,j+1) and M[i][j+1]=='#'){
-                int k = i, l = j+1;
-                O.erase(mp(NB[mp(k,l)], mp(k,l)));
-                --NB[mp(k,l)];
-                O.insert(mp(NB[mp(k,l)], mp(k,l)));
-            }
 
-
-
-            if(nb!=0){
-                ++res;
-                if(v(i-1,j) and M[i-1][j]=='#')
-                    i = i-1, j = j;
-                else if(v(i+1,j) and M[i+1][j]=='#')
-                    i = i+1, j = j;
-                else if(v(i,j-1) and M[i][j-1]=='#')
-                    i = i, j = j-1;
-                else
-                    i = i, j = j+1;
-                M[i][j] = '.';
-                O.erase(mp(NB[mp(i,j)], mp(i,j)));
-                NB.erase(mp(i,j));
-                if(v(i-1,j) and M[i-1][j]=='#'){
+        FOR(i,s){
+            FOR(j,s){
+                if(ind[i][j]<0){
+                    ind[i][j] = n-ind[i][j];
+                }
+            }
+        }
+        FOR(i,s){
+            FOR(j,s){
+                if(M[i][j]=='#'){
+                    adj[ind[i][j]] = vi();
                     int k = i-1, l = j;
-                    O.erase(mp(NB[mp(k,l)], mp(k,l)));
-                    --NB[mp(k,l)];
-                    O.insert(mp(NB[mp(k,l)], mp(k,l)));
-                }
-                if(v(i+1,j) and M[i+1][j]=='#'){
-                    int k = i+1, l = j;
-                    O.erase(mp(NB[mp(k,l)], mp(k,l)));
-                    --NB[mp(k,l)];
-                    O.insert(mp(NB[mp(k,l)], mp(k,l)));
-                }
-                if(v(i,j-1) and M[i][j-1]=='#'){
-                    int k = i, l = j-1;
-                    O.erase(mp(NB[mp(k,l)], mp(k,l)));
-                    --NB[mp(k,l)];
-                    O.insert(mp(NB[mp(k,l)], mp(k,l)));
-                }
-                if(v(i,j+1) and M[i][j+1]=='#'){
-                    int k = i, l = j+1;
-                    O.erase(mp(NB[mp(k,l)], mp(k,l)));
-                    --NB[mp(k,l)];
-                    O.insert(mp(NB[mp(k,l)], mp(k,l)));
+                    if(v(k,l) and M[k][l]=='#'){
+                        adj[ind[i][j]].pb(ind[k][l]);
+                    }
+                    k = i+1, l = j;
+                    if(v(k,l) and M[k][l]=='#'){
+                        adj[ind[i][j]].pb(ind[k][l]);
+                    }
+                    k = i, l = j+1;
+                    if(v(k,l) and M[k][l]=='#'){
+                        adj[ind[i][j]].pb(ind[k][l]);
+                    }
+                    k = i, l = j-1;
+                    if(v(k,l) and M[k][l]=='#'){
+                        adj[ind[i][j]].pb(ind[k][l]);
+                    }
                 }
             }
         }
-        cout << "Case " << t+1 << ": " << res << endl;
+        /*FOR(i,s){
+        FOR(j,s){
+        cout << ind[i][j];
+        }
+        cout << endl;
+        }
+        FOR(i,n+m+1){
+            cout << i << ": ";
+            for(int j:adj[i]){
+                cout << j << " ";
+            }
+            cout << endl;
+        }*/
+        cout << "Case " << t+1 << ": " << matching() << endl;
     }
 	return 0;
 }
