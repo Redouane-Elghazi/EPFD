@@ -17,21 +17,26 @@ istream& operator>>(istream& in, Photo& p){
 vector<Slide> initial_random(vector<Photo>& photos){
     vector<Slide> ret;
     vector<Photo> verts;
-    for(photo x:photos){
-        if(photo.isHorizontal()){
-            ret.emplace_back(x);
+    for(Photo x:photos){
+        if(x.isHorizontal()){
+            ret.emplace_back(&x);
         }
         else{
             verts.pb(x);
         }
     }
     random_shuffle(verts.begin(), verts.end());
+    for(int i = 0; i+1<verts.size(); i+=2){
+        ret.emplace_back(&verts[i], &verts[i+1]);
+    }
+    random_shuffle(ret.begin(), ret.end());
+    return ret;
 }
 
 int main(){
 	cin.sync_with_stdio(0);
 	cin.tie(0);
-	seed(15);
+	srand(15);
 	int n;
 	vector<Photo> data(n);
 	FOR(i,n){
