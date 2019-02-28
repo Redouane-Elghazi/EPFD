@@ -168,7 +168,7 @@ vector<Slide> greedy_nul(vector<Photo>& photos){
 			}
 		}
 		seen[maxi_ind] = true;
-		nots.erase(nots.begin()+mi);
+		swap(nots[mi], nots.back());
 		ret[i+1] = init[maxi_ind];
 	}
 	return ret;
@@ -198,7 +198,7 @@ int main(){
 	int maxscore = 0;
 	vector<Slide> output;
 	srand(0);
-	for(int i = 0; i<5; ++i){
+	for(int i = 0; i<3; ++i){
         srand(rand());
         vector<Slide> t = greedy_nul(data);
         int S = score(t);
