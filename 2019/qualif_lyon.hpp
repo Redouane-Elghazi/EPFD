@@ -3,7 +3,14 @@
 
 #pragma GCC push_options
 #pragma GCC optimize ("O3")
-#include <bits/stdc++.h>
+#   include <vector>
+#	include <iostream>
+#	include <fstream>
+#	include <algorithm>
+#	include <set>
+#	include <map>
+#	include <queue>
+#	include <cmath>
 #define REP(i,a,b) for (int i = (a); i <= (b); ++i)
 #define REPD(i,a,b) for (int i = (a); i >= (b); --i)
 #define FORI(i,n) REP(i,1,n)
@@ -26,37 +33,32 @@ struct Photo{
 	char v_or_h;
 	int nb_tags;
 	std::vector<std::string> tags;
+	std::set<int> itags;
 	int index;
-
-	bool isVertical(){
-		return v_or_h == 'V';
-	}
-	bool isHorizontal(){
-		return v_or_h == 'H';
-	}
+	
+	bool isVertical();
+	bool isHorizontal();
 };
 
 struct Slide{
+private:
 	Photo* left;
 	Photo* right;
+	std::set<int>* tags;
 
-	Slide(){
-		left = nullptr;
-		right = nullptr;
-	}
-
-	Slide(Photo* l){
-		left = l;
-		right = nullptr;
-	}
-
-	Slide(Photo* l, Photo* r){
-		left = l;
-		right = r;
-	}
+public:
+	Slide();
+	Slide(Photo* l);
+	Slide(Photo* l, Photo* r);
+	
+	Photo* getLeft();
+	Photo* getRight();
+	
+	bool isDouble();
+	
+	friend int operator^(const Slide& s1, const Slide& s2);
 };
 
-int costInterSlide(Slide& s1, Slide& s2);
 
 
 #endif // QUALIF_LYON_HPP_INCLUDED
