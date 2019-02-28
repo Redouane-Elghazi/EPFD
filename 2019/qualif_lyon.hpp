@@ -35,7 +35,7 @@ struct Photo{
 	std::vector<std::string> tags;
 	std::set<int> itags;
 	int index;
-	
+
 	bool isVertical();
 	bool isHorizontal();
 };
@@ -50,13 +50,14 @@ public:
 	Slide();
 	Slide(Photo* l);
 	Slide(Photo* l, Photo* r);
-	
+
 	Photo* getLeft();
 	Photo* getRight();
-	
+
 	bool isDouble();
-	
+
 	friend int operator^(const Slide& s1, const Slide& s2);
+	friend std::ostream& operator<< (std::ostream& stream, const Slide& s);
 };
 
 

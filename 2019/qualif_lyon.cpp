@@ -88,7 +88,7 @@ int operator^(const Slide& s1, const Slide& s2){
 
 istream& operator>>(istream& in, Photo& p){
 	static map<string, int> dico;
-	
+
 	in >> p.v_or_h >> p.nb_tags;
 	p.tags.resize(p.nb_tags);
 	FOR(i,p.nb_tags){
@@ -103,7 +103,7 @@ istream& operator>>(istream& in, Photo& p){
 			p.itags.insert(res->second);
 		}
 	}
-	
+
 	return in;
 }
 
