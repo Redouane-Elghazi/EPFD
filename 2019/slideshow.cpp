@@ -6,7 +6,7 @@ using namespace std;
 //Vertical random
 //Horizontal linear
 vector<Slide> greedy_nul(vector<Photo>& photos){
-	init = initial_random(photos);
+	vector<Slide> init = initial_random(photos);
 
 	vector<Slide> ret(init.size());
 	vector<bool> seen(ret.size(),false);
