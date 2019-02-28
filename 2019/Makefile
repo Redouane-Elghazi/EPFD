@@ -1,6 +1,6 @@
 EXEC=qualif_lyon
 
-FILES = qualif_lyon slideshow
+FILES=qualif_lyon slideshow
 OBJECTS=$(FILES:=.o)
 CXXFLAGS=-O3 -std=c++14 -Wall
 OTHER_LDFLAGS = -L/usr/local/opt/llvm/lib -I/usr/local/opt/llvm/include
