@@ -1,3 +1,15 @@
 *.exe
 *.o
 *.out
+
+Hashcode2019/Hashcode2019.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+
+Hashcode2019/Hashcode2019.xcodeproj/project.pbxproj
+
+Hashcode2019/Hashcode2019.xcodeproj/xcuserdata/lois.xcuserdatad/xcschemes/Hashcode2019.xcscheme
+
+Hashcode2019/Hashcode2019.xcodeproj/project.xcworkspace/xcuserdata/lois.xcuserdatad/UserInterfaceState.xcuserstate
+
+Hashcode2019/Hashcode2019.xcodeproj/xcuserdata/lois.xcuserdatad/xcschemes/xcschememanagement.plist
+
+Hashcode2019/Hashcode2019/main.cpp
