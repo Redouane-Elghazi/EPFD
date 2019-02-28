@@ -42,9 +42,9 @@ int main(){
 	vector<Slide> output;
 	cout << output.size() << endl;
 	for(Slide s : output){
-		cout << s.fi->index;
-		if(s.se){
-			cout << " " << s.se->index;
+		cout << s.left->index;
+		if(s.right){
+			cout << " " << s.right->index;
 		}
 		cout << endl;
 	}
