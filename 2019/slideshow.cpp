@@ -26,8 +26,8 @@ vector<Slide> greedy_nul(vector<Photo>& photos){
 				maxi = chall_val;
 			}
 		}
-		seen[maxi] = true;
-		ret[i+1] = init[maxi];
+		seen[maxi_ind] = true;
+		ret[i+1] = init[maxi_ind];
 	}
 	return ret;
 }
