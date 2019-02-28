@@ -5,8 +5,9 @@ struct Photo{
 	char v_or_h;
 	int nb_tags;
 	vector<string> tags;
+	int index;
 };
-Slide = pair<int, pii>;
+Slide = pair<Photo*, Photo*>;
 
 
 #endif // QUALIF_LYON_HPP_INCLUDED
