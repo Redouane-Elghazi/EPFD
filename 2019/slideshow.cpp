@@ -16,11 +16,11 @@ vector<Slide> greedy_nul(vector<Photo>& photos){
 	FOR(i,ret.size()-1){
 		int maxi_ind = -1;
 		int maxi = -1;
-		for(j,init.size()){
+		FOR(j,init.size()){
 			if(seen[j]){
 				continue;
 			}
-			int chall_val = costInterSlide(ret[i],init[j]);
+			int chall_val = ret[i]^init[j];
 			if(chall_val > maxi){
 				maxi_ind = j;
 				maxi = chall_val;
