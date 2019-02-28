@@ -135,6 +135,41 @@ vector<Slide> initial_random(vector<Photo>& photos){
     return ret;
 }
 
+vector<Slide> greedy_nul(vector<Photo>& photos){
+	vector<Slide> init = initial_random(photos);
+
+	vector<Slide> ret(init.size());
+	vector<bool> seen(ret.size(),false);
+	ret[0] = init[0];
+	seen[0] = true;
+
+	vector<int> nots;
+	FOR(i,ret.size()-1)
+        nots.pb(i+1);
+
+	FOR(i,ret.size()-1){
+		int maxi_ind = -1;
+		int maxi = -1;
+		int mi = -1;
+		if(i%1000==0)
+            cerr << i << endl;
+		FOR(k,500){
+		    int ind = rand()%nots.size();
+		    int j = nots[ind];
+			int chall_val = ret[i]^init[j];
+			if(chall_val > maxi){
+				maxi_ind = j;
+				mi = ind;
+				maxi = chall_val;
+			}
+		}
+		seen[maxi_ind] = true;
+		nots.erase(nots.begin()+mi);
+		ret[i+1] = init[maxi_ind];
+	}
+	return ret;
+}
+
 int score(vector<Slide>& s){
     int res = 0;
     for(size_t i = 0; i+1<s.size(); ++i){
@@ -156,9 +191,9 @@ int main(){
     int maxscore = 0;
     vector<Slide> output;
 	srand(0);
-	for(int i = 0; i<100; ++i){
+	for(int i = 0; i<5; ++i){
         srand(rand());
-        vector<Slide> t = initial_random(data);
+        vector<Slide> t = greedy_nul(data);
         int S = score(t);
         if(maxscore<S){
             maxscore = S;
