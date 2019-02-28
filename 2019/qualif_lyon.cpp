@@ -2,6 +2,7 @@
  * TBD
  */
 #include "qualif_lyon.hpp"
+#include "slideshow.hpp"
 
 using namespace std;
 
@@ -46,7 +47,7 @@ int main(){
 
 	vector<Slide> output;
 	cout << output.size() << endl;
-	for(Slide s : output){
+	for(Slide& s : output){
 		cout << s.left->index;
 		if(s.right){
 			cout << " " << s.right->index;
