@@ -29,17 +29,18 @@ bool Photo::isHorizontal(){
 Slide::Slide(){
 	left = nullptr;
 	right = nullptr;
-	tags = nullptr;
 }
 
-//TODO: setTags
 Slide::Slide(Photo* l){
 	if (not l->isHorizontal()){
 		cerr << "Warning: Creating Mono picture Slide with vertical Photo" << endl;
 	}
 	left = l;
 	right = nullptr;
-	tags = &l->itags;
+	tags = l->itags;
+	if (tags.size() > 100){
+		cerr << tags.size() << " Create clone" << endl;
+	}
 }
 
 Slide::Slide(Photo* l, Photo* r){
@@ -48,33 +49,36 @@ Slide::Slide(Photo* l, Photo* r){
 	}
 	left = l;
 	right = r;
-	tags = new set<int>();
+	
 	set_union(left->itags.begin(),left->itags.end(),right->itags.begin(),right->itags.end(),
-			  std::inserter(*tags,tags->begin()));
+			  std::inserter(tags,tags.begin()));
+	if (tags.size() > 200){
+		cerr << tags.size() << " Create merge" << endl;
+	}
 }
 
 bool Slide::isDouble(){
 	return right!=nullptr;
 }
 
-Photo* Slide::getLeft(){
+const Photo* Slide::getLeft() const{
 	return left;
 }
-Photo* Slide::getRight(){
+const Photo* Slide::getRight() const{
 	return right;
 }
 
 int operator^(const Slide& s1, const Slide& s2){
 	set<int> intersect;
-	set_intersection(s1.tags->begin(),s1.tags->end(),s2.tags->begin(),s2.tags->end(),
+	set_intersection(s1.tags.begin(),s1.tags.end(),s2.tags.begin(),s2.tags.end(),
 					 std::inserter(intersect,intersect.begin()));
 	int interSize = int(intersect.size());
 	set<int> diff1;
-	set_difference(s1.tags->begin(),s1.tags->end(),s2.tags->begin(),s2.tags->end(),
+	set_difference(s1.tags.begin(),s1.tags.end(),s2.tags.begin(),s2.tags.end(),
 				   std::inserter(diff1,diff1.begin()));
 	int diff1Size = int(diff1.size());
 	set<int> diff2;
-	set_difference(s2.tags->begin(),s2.tags->end(),s1.tags->begin(),s1.tags->end(),
+	set_difference(s2.tags.begin(),s2.tags.end(),s1.tags.begin(),s1.tags.end(),
 				   std::inserter(diff2,diff2.begin()));
 	int diff2Size = int(diff2.size());
 	return min(interSize, min(diff1Size, diff2Size));
@@ -143,7 +147,10 @@ int score(vector<Slide>& s){
     return res;
 }
 
+
+
 int main(){
+	ifstream cin("/Users/lois/Documents/Projet Perso/Hashcode/EPFD/2019/statement/e_shiny_selfies.txt");
 	cin.sync_with_stdio(0);
 	cin.tie(0);
 	int n;
@@ -153,22 +160,22 @@ int main(){
 		cin >> data[i];
 		data[i].index = i;
 	}
-    int maxscore = 0;
-    vector<Slide> output;
+	int maxscore = 0;
+	vector<Slide> output;
 	srand(0);
 	for(int i = 0; i<100; ++i){
-        srand(rand());
-        vector<Slide> t = initial_random(data);
-        int S = score(t);
-        if(maxscore<S){
-            maxscore = S;
-            output = t;
-        }
+		srand(rand());
+		vector<Slide> t = initial_random(data);
+		int S = score(t);
+		if(maxscore<S){
+			maxscore = S;
+			output = t;
+		}
 	}
-    cerr << score(output) << endl;
-    cout << output.size() << endl;
-    for(Slide& s : output){
-        cout << s;
-    }
+	cerr << score(output) << endl;
+	cout << output.size() << endl;
+	for(Slide& s : output){
+		cout << s;
+	}
 	return 0;
 }
