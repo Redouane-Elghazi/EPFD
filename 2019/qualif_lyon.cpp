@@ -83,6 +83,9 @@ int operator^(const Slide& s1, const Slide& s2){
 	int diff2Size = int(diff2.size());
 	return min(interSize, min(diff1Size, diff2Size));
 }
+int chapeau(const Slide& s1, const Slide& s2){
+	return min((s1.booltag & ~s2.booltag).count(), min((~s1.booltag & s2.booltag).count(), (s1.booltag & s2.booltag).count()));
+}
 
 /********************
  OTHER
@@ -139,7 +142,7 @@ vector<Slide> initial_random(vector<Photo>& photos){
     return ret;
 }
 
-vector<Slide> greedy_nul(vector<Photo>& photos){
+/*vector<Slide> greedy_nul(vector<Photo>& photos){
 	vector<Slide> init = initial_random(photos);
 
 	vector<Slide> ret(init.size());
@@ -172,7 +175,7 @@ vector<Slide> greedy_nul(vector<Photo>& photos){
 		ret[i+1] = init[maxi_ind];
 	}
 	return ret;
-}
+}*/
 
 int score(vector<Slide>& s){
     int res = 0;
@@ -198,7 +201,7 @@ int main(){
 	int maxscore = 0;
 	vector<Slide> output;
 	srand(0);
-	for(int i = 0; i<5; ++i){
+	for(int i = 0; i<1; ++i){
         srand(rand());
         vector<Slide> t = greedy_nul(data);
         int S = score(t);
