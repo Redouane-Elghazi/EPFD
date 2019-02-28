@@ -58,11 +58,14 @@ def solve():
 	
 L = float('inf')
 d = 0
+nb = 0
 while time()-timer+d < 0.95:
+	nb+=1
 	d = time()
 	Lt,rest = solve()
 	d = time()-d
 	if Lt < L:
 		L,res = Lt,rest
+print(nb)
 print(L)
 print(" ".join(res))
