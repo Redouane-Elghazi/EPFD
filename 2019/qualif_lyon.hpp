@@ -3,7 +3,6 @@
 
 #pragma GCC push_options
 #pragma GCC optimize ("O3")
-<<<<<<< HEAD
 #   include <vector>
 #	include <iostream>
 #	include <fstream>
@@ -12,10 +11,6 @@
 #	include <map>
 #	include <queue>
 #	include <cmath>
-using namespace std;
-=======
-#include <bits/stdc++.h>
->>>>>>> origin/master
 #define REP(i,a,b) for (int i = (a); i <= (b); ++i)
 #define REPD(i,a,b) for (int i = (a); i >= (b); --i)
 #define FORI(i,n) REP(i,1,n)
