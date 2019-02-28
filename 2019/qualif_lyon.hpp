@@ -28,6 +28,13 @@ struct Photo{
 	int nb_tags;
 	std::vector<std::string> tags;
 	int index;
+	
+	bool isVertical(){
+		return v_or_h == 'V';
+	}
+	bool isHorizontal(){
+		return v_or_h == 'H';
+	}
 };
 
 struct Slide{
