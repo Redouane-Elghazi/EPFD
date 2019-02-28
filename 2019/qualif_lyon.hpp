@@ -40,19 +40,21 @@ struct Photo{
 	bool isHorizontal();
 };
 
+std::istream& operator>>(std::istream& in, Photo& p);
+
 struct Slide{
 private:
 	Photo* left;
 	Photo* right;
-	std::set<int>* tags;
+	std::set<int> tags;
 
 public:
 	Slide();
 	Slide(Photo* l);
 	Slide(Photo* l, Photo* r);
 
-	Photo* getLeft();
-	Photo* getRight();
+	const Photo* getLeft() const;
+	const Photo* getRight() const;
 
 	bool isDouble();
 
@@ -60,6 +62,8 @@ public:
 	friend std::ostream& operator<< (std::ostream& stream, const Slide& s);
 };
 
+
+int score(std::vector<Slide>& s);
 
 
 #endif // QUALIF_LYON_HPP_INCLUDED
