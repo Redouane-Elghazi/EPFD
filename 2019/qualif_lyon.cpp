@@ -83,6 +83,9 @@ int operator^(const Slide& s1, const Slide& s2){
 	int diff2Size = int(diff2.size());
 	return min(interSize, min(diff1Size, diff2Size));
 }
+int chapeau(const Slide& s1, const Slide& s2){
+	return min((s1.booltag & ~s2.booltag).count(), min((~s1.booltag & s2.booltag).count(), (s1.booltag & s2.booltag).count()));
+}
 
 /********************
  OTHER
@@ -160,7 +163,7 @@ vector<Slide> greedy_nul(vector<Photo>& photos){
 		FOR(k,500){
 		    int ind = rand()%nots.size();
 		    int j = nots[ind];
-			int chall_val = ret[i]^init[j];
+			int chall_val = chapeau(ret[i], init[j]);
 			if(chall_val > maxi){
 				maxi_ind = j;
 				mi = ind;

@@ -11,6 +11,7 @@
 #	include <map>
 #	include <queue>
 #	include <cmath>
+#	include <bitset>
 #define REP(i,a,b) for (int i = (a); i <= (b); ++i)
 #define REPD(i,a,b) for (int i = (a); i >= (b); --i)
 #define FORI(i,n) REP(i,1,n)
@@ -47,6 +48,7 @@ private:
 	Photo* left;
 	Photo* right;
 	std::set<int> tags;
+	std::bitset<220> booltag;
 
 public:
 	Slide();
@@ -58,6 +60,7 @@ public:
 
 	bool isDouble();
 
+	friend int chapeau(const Slide& s1, const Slide& s2);
 	friend int operator^(const Slide& s1, const Slide& s2);
 	friend std::ostream& operator<< (std::ostream& stream, const Slide& s);
 };
