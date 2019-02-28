@@ -135,11 +135,17 @@ vector<Slide> initial_random(vector<Photo>& photos){
     return ret;
 }
 
+int score(vector<Slide>& s){
+    int res = 0;
+    for(size_t i = 0; i+1<s.size(); ++i){
+        res += s[i]^s[i+1];
+    }
+    return res;
+}
 
 int main(){
 	cin.sync_with_stdio(0);
 	cin.tie(0);
-	srand(15456);
 	int n;
 	cin >> n;
 	vector<Photo> data(n);
@@ -147,11 +153,22 @@ int main(){
 		cin >> data[i];
 		data[i].index = i;
 	}
-
-	vector<Slide> output = initial_random(data);
-	cout << output.size() << endl;
-	for(Slide& s : output){
-        cout << s;
+    int maxscore = 0;
+    vector<Slide> output;
+	srand(0);
+	for(int i = 0; i<100; ++i){
+        srand(rand());
+        vector<Slide> t = initial_random(data);
+        int S = score(t);
+        if(maxscore<S){
+            maxscore = S;
+            output = t;
+        }
 	}
+    cerr << score(output) << endl;
+    cout << output.size() << endl;
+    for(Slide& s : output){
+        cout << s;
+    }
 	return 0;
 }
