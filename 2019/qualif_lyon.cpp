@@ -3,6 +3,8 @@
  */
 #include "qualif_lyon.hpp"
 
+using namespace std;
+
 istream& operator>>(istream& in, Photo& p){
 	in >> p.v_or_h >> p.nb_tags;
 	p.tags.resize(p.nb_tags);

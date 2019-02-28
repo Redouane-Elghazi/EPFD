@@ -4,7 +4,6 @@
 #pragma GCC push_options
 #pragma GCC optimize ("O3")
 #include <bits/stdc++.h>
-using namespace std;
 #define REP(i,a,b) for (int i = (a); i <= (b); ++i)
 #define REPD(i,a,b) for (int i = (a); i >= (b); --i)
 #define FORI(i,n) REP(i,1,n)
@@ -28,7 +27,7 @@ struct Photo{
 	int nb_tags;
 	std::vector<std::string> tags;
 	int index;
-	
+
 	bool isVertical(){
 		return v_or_h == 'V';
 	}
