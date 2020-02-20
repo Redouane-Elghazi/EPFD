@@ -17,7 +17,7 @@ void output(vector<int>& Y, vector<vector<int> >& K){
 
 int main() {
 
-    vector<vector<int>> librariesBooks;
+    vector <vector<int>> librariesBooks;
     vector<int> librariesDelay;
     vector<int> librariesShipment;
     vector<int> books;
@@ -26,26 +26,34 @@ int main() {
     int tmp, tmp_size, tmp_delay, tmp_ship;
 
     cin >> B >> L >> D;
-    
+
     books.reserve(B);
     librariesBooks.reserve(L);
     librariesDelay.reserve(L);
     librariesShipment.reserve(L);
-    
-    for(int b=0; b < B; b++){
-       cin >> tmp;
-       books.push_back(tmp);
+
+    for (int b = 0; b < B; b++) {
+        cin >> tmp;
+        books.push_back(tmp);
     }
-    
-    for(int l=0; l < L;l++){
+
+    for (int l = 0; l < L; l++) {
         cin >> tmp_size >> tmp_delay >> tmp_ship;
         librariesBooks.emplace_back(tmp_size);
         librariesDelay.push_back(tmp_delay);
         librariesShipment.push_back(tmp_ship);
-        for(int i=0; i < tmp_size; ++i){
+        for (int i = 0; i < tmp_size; ++i) {
             cin >> librariesBooks[l][i];
         }
     }
+
+    vector<int> Y;
+    vector <vector<int>> K;
+
+
     
+    output(Y, K);
+
     return 0;
+
 }
