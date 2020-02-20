@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+#include "greedy1.cpp"
 
 using namespace std;
 
@@ -50,8 +51,9 @@ int main() {
     vector<int> Y;
     vector <vector<int>> K;
 
+    greedy1::solve(librariesBooks, librariesDelay, librariesShipment,
+                   books, D, Y, K);
 
-    
     output(Y, K);
 
     return 0;
