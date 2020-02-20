@@ -3,6 +3,8 @@
 using namespace std;
 
 namespace greedy1{
+double ALPHA = 0.9;
+double BETA = 0;
 int solve(vector<vector<int>> &lB,
           vector<int> &lD,
           vector<int> &lS,
@@ -26,7 +28,7 @@ int solve(vector<vector<int>> &lB,
     }
     for(int i = 0; i<L; ++i){
         for(int b:lB[i]){
-            ordered_books[i].emplace(-books[b], b);
+            ordered_books[i].emplace(-(books[b]), b);
         }
     }
 
@@ -43,7 +45,8 @@ int solve(vector<vector<int>> &lB,
                 --remain;
                 cur += -b.first;
             }
-            cur /= lD[i];
+            cur -= BETA*remain;
+            cur /= std::pow(lD[i], ALPHA);
             if(cur>maxv){
                 maxi = i;
                 maxv = cur;
@@ -59,11 +62,12 @@ int solve(vector<vector<int>> &lB,
         //cerr << "r " << remain << endl;
         alive.erase(maxi);
         for(auto b:ordered_books[maxi]){
+            book2lib[b.second].erase(maxi);
             if(remain<=0){
-                book2lib[b.second].erase(maxi);
                 for(int i:book2lib[b.second]){
                     ordered_books[i].erase(b);
-                    ordered_books[i].emplace(-books[b.second], b.second);
+                    ordered_books[i].emplace(-(books[b.second]),
+                                             b.second);
                 }
             }
             else{
