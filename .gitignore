@@ -2,7 +2,7 @@
 *.o
 *.out
 2020/CMakeFiles/*
-
+2020/build
 Hashcode2019/Hashcode2019.xcodeproj/project.xcworkspace/contents.xcworkspacedata
 
 Hashcode2019/Hashcode2019.xcodeproj/project.pbxproj

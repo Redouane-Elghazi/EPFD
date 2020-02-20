@@ -33,23 +33,5 @@ int main() {
             cin >> librariesBooks[l][i];
         }
     }
-    
-    cout << B << " " << L << " " << D << endl;
-    
-    for(int b=0; b < B; b++){
-       cout << books[b] << " ";
-    }
-    cout << endl;
-    
-    for(int l=0; l < L;l++){
-        cout << librariesBooks[l].size() << " ";
-        cout << librariesDelay[l] << " ";
-        cout << librariesShipment[l] << " ";
-        cout << endl;
-        for(int i=0; i < librariesBooks[l].size(); ++i){
-            cout << librariesBooks[l][i] << " ";
-        }
-        cout << endl;
-    }
     return 0;
 }
