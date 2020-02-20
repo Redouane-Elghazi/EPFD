@@ -10,8 +10,46 @@ int main() {
     vector<int> books;
 
     int D, B, L;
+    int tmp, tmp_size, tmp_delay, tmp_ship;
 
-
-    std::cout << "Hello, World!" << std::endl;
+    cin >> B >> L >> D;
+    
+    books.reserve(B);
+    librariesBooks.reserve(L);
+    librariesDelay.reserve(L);
+    librariesShipment.reserve(L);
+    
+    for(int b=0; b < B; b++){
+       cin >> tmp;
+       books.push_back(tmp);
+    }
+    
+    for(int l=0; l < L;l++){
+        cin >> tmp_size >> tmp_delay >> tmp_ship;
+        librariesBooks.emplace_back(tmp_size);
+        librariesDelay.push_back(tmp_delay);
+        librariesShipment.push_back(tmp_ship);
+        for(int i=0; i < tmp_size; ++i){
+            cin >> librariesBooks[l][i];
+        }
+    }
+    
+    cout << B << " " << L << " " << D << endl;
+    
+    for(int b=0; b < B; b++){
+       cout << books[b] << " ";
+    }
+    cout << endl;
+    
+    for(int l=0; l < L;l++){
+        cout << librariesBooks[l].size() << " ";
+        cout << librariesDelay[l] << " ";
+        cout << librariesShipment[l] << " ";
+        cout << endl;
+        for(int i=0; i < librariesBooks[l].size(); ++i){
+            cout << librariesBooks[l][i] << " ";
+        }
+        cout << endl;
+    }
     return 0;
 }
