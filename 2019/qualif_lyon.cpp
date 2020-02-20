@@ -38,6 +38,9 @@ Slide::Slide(Photo* l){
 	left = l;
 	right = nullptr;
 	tags = l->itags;
+    for(int i:tags){
+        booltag.set(i);
+    }
 	if (tags.size() > 100){
 		cerr << tags.size() << " Create clone" << endl;
 	}
@@ -52,6 +55,9 @@ Slide::Slide(Photo* l, Photo* r){
 
 	set_union(left->itags.begin(),left->itags.end(),right->itags.begin(),right->itags.end(),
 			  std::inserter(tags,tags.begin()));
+    for(int i:tags){
+        booltag.set(i);
+    }
 	if (tags.size() > 200){
 		cerr << tags.size() << " Create merge" << endl;
 	}
@@ -70,16 +76,17 @@ const Photo* Slide::getRight() const{
 
 int operator^(const Slide& s1, const Slide& s2){
 	set<int> intersect;
-	set_intersection(s1.tags.begin(),s1.tags.end(),s2.tags.begin(),s2.tags.end(),
-					 std::inserter(intersect,intersect.begin()));
+	for(int i:s1.tags)
+        if(s2.tags.find(i)!=s2.tags.end())
+            intersect.insert(i);
 	int interSize = int(intersect.size());
-	set<int> diff1;
-	set_difference(s1.tags.begin(),s1.tags.end(),s2.tags.begin(),s2.tags.end(),
-				   std::inserter(diff1,diff1.begin()));
+	set<int> diff1=s1.tags;
+	for(int i:s2.tags)
+        diff1.erase(i);
 	int diff1Size = int(diff1.size());
-	set<int> diff2;
-	set_difference(s2.tags.begin(),s2.tags.end(),s1.tags.begin(),s1.tags.end(),
-				   std::inserter(diff2,diff2.begin()));
+	set<int> diff2=s2.tags;
+	for(int i:s1.tags)
+        diff2.erase(i);
 	int diff2Size = int(diff2.size());
 	return min(interSize, min(diff1Size, diff2Size));
 }
@@ -104,8 +111,8 @@ istream& operator>>(istream& in, Photo& p){
 	FOR(i,p.nb_tags){
 		auto res = dico.find(p.tags[i]);
 		if (res == dico.end()){
-			p.itags.insert(int(dico.size()));
-			dico[p.tags[i]] = int(dico.size());
+			dico[p.tags[i]] = int(dico.size())-1;
+			p.itags.insert(dico[p.tags[i]]);
 		}else{
 			p.itags.insert(res->second);
 		}
@@ -150,28 +157,23 @@ vector<Slide> greedy_nul(vector<Photo>& photos){
 	ret[0] = init[0];
 	seen[0] = true;
 
-	vector<int> nots;
-	FOR(i,ret.size()-1)
-        nots.pb(i+1);
-
 	FOR(i,ret.size()-1){
 		int maxi_ind = -1;
 		int maxi = -1;
-		int mi = -1;
-		if(i%1000==0)
-            cerr << i << endl;
-		FOR(k,500){
-		    int ind = rand()%nots.size();
-		    int j = nots[ind];
-			int chall_val = chapeau(ret[i], init[j]);
+		if(i%10 == 0){
+			cerr << i << endl;
+		}
+		FOR(j,init.size()){
+			if(seen[j]){
+				continue;
+			}
+			int chall_val = chapeau(ret[i],init[j]);
 			if(chall_val > maxi){
 				maxi_ind = j;
-				mi = ind;
 				maxi = chall_val;
 			}
 		}
 		seen[maxi_ind] = true;
-		swap(nots[mi], nots.back());
 		ret[i+1] = init[maxi_ind];
 	}
 	return ret;
@@ -180,7 +182,7 @@ vector<Slide> greedy_nul(vector<Photo>& photos){
 int score(vector<Slide>& s){
     int res = 0;
     for(size_t i = 0; i+1<s.size(); ++i){
-        res += s[i]^s[i+1];
+        res += chapeau(s[i],s[i+1]);
     }
     return res;
 }
@@ -201,7 +203,7 @@ int main(){
 	int maxscore = 0;
 	vector<Slide> output;
 	srand(0);
-	for(int i = 0; i<3; ++i){
+	for(int i = 0; i<1; ++i){
         srand(rand());
         vector<Slide> t = greedy_nul(data);
         int S = score(t);

@@ -48,7 +48,7 @@ private:
 	Photo* left;
 	Photo* right;
 	std::set<int> tags;
-	std::bitset<220> booltag;
+	std::bitset<2166> booltag;
 
 public:
 	Slide();
