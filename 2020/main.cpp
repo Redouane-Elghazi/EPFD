@@ -5,6 +5,12 @@
 using namespace std;
 
 void output(vector<int>& Y, vector<vector<int> >& K){
+    for(int i = 0; i<Y.size(); ++i){
+        if(K[i].size()==0){
+            K.erase(K.begin()+i);
+            Y.erase(Y.begin()+i);
+        }
+    }
     cout << Y.size() << endl;
 
     for (int i = 0; i < Y.size(); ++i){
@@ -52,8 +58,8 @@ int main() {
     vector<int> Y;
     vector <vector<int>> K;
 
-    //greedy1::solve(librariesBooks, librariesDelay, librariesShipment,
-    knapsack1::solve(librariesBooks, librariesDelay, librariesShipment,
+    greedy1::solve(librariesBooks, librariesDelay, librariesShipment,
+    //knapsack1::solve(librariesBooks, librariesDelay, librariesShipment,
                    books, D, Y, K);
 
     output(Y, K);

@@ -5,6 +5,7 @@ using namespace std;
 namespace greedy1{
 double ALPHA = 0.9;
 double BETA = 0;
+double GAMMA = 1.5;
 int solve(vector<vector<int>> &lB,
           vector<int> &lD,
           vector<int> &lS,
@@ -28,7 +29,7 @@ int solve(vector<vector<int>> &lB,
     }
     for(int i = 0; i<L; ++i){
         for(int b:lB[i]){
-            ordered_books[i].emplace(-(books[b]), b);
+            ordered_books[i].emplace(-double(books[b])/pow(book2lib[b].size(), BETA), b);
         }
     }
 
@@ -45,7 +46,7 @@ int solve(vector<vector<int>> &lB,
                 --remain;
                 cur += -b.first;
             }
-            cur -= BETA*remain;
+            cur *= pow(((D-lD[i])*lS[i]-remain)/double((D-lD[i])*lS[i]), GAMMA);
             cur /= std::pow(lD[i], ALPHA);
             if(cur>maxv){
                 maxi = i;
@@ -53,8 +54,29 @@ int solve(vector<vector<int>> &lB,
             }
 //cerr << i << " " << cur << " " << maxi << " " << maxv << endl;
         }
-        if(maxv <= 0)
-            break;
+        if(maxv <= 0){
+            maxi = -1;
+            maxv = -1;
+            for(int i:alive){
+                double cur = 0;
+                int remain = (D-lD[i])*lS[i];
+                //cerr << "r " << remain << endl;
+                for(auto b:ordered_books[i]){
+                    if(remain<=0)
+                        break;
+                    --remain;
+                    cur += -b.first;
+                }
+                cur /= std::pow(lD[i], ALPHA);
+                if(cur>maxv){
+                    maxi = i;
+                    maxv = cur;
+                }
+//cerr << i << " " << cur << " " << maxi << " " << maxv << endl;
+            }
+            if(maxv <= 0)
+                break;
+        }
 //cerr << maxi << endl;
         Y.push_back(maxi);
         K.emplace_back();
@@ -66,7 +88,7 @@ int solve(vector<vector<int>> &lB,
             if(remain<=0){
                 for(int i:book2lib[b.second]){
                     ordered_books[i].erase(b);
-                    ordered_books[i].emplace(-(books[b.second]),
+                    ordered_books[i].emplace(-double(books[b.second])/pow(book2lib[b.second].size(), BETA),
                                              b.second);
                 }
             }
