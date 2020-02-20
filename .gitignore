@@ -1,6 +1,7 @@
 *.exe
 *.o
 *.out
+2020/CMakeFiles/*
 
 Hashcode2019/Hashcode2019.xcodeproj/project.xcworkspace/contents.xcworkspacedata
 
@@ -15,3 +16,7 @@ Hashcode2019/Hashcode2019.xcodeproj/xcuserdata/lois.xcuserdatad/xcschemes/xcsche
 Hashcode2019/Hashcode2019/main.cpp
 
 Hashcode2019/Hashcode2019.xcodeproj/xcuserdata/lois.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+2020/CMakeCache.txt
+2020/cmake_install.cmake
+2020/2020
+2020/Makefile
