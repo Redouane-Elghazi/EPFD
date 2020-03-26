@@ -35,6 +35,7 @@ int main() {
 
     cin >> B >> L >> D;
 
+
     books.reserve(B);
     librariesBooks.reserve(L);
     librariesDelay.reserve(L);
