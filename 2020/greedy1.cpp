@@ -5,7 +5,7 @@ using namespace std;
 namespace greedy1{
 double ALPHA = 0.9;
 double BETA = 0;
-double GAMMA = 1.5;
+double GAMMA = 10;
 int solve(vector<vector<int>> &lB,
           vector<int> &lD,
           vector<int> &lS,
