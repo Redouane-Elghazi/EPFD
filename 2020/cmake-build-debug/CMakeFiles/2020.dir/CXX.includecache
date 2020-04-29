@@ -6,7 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/home/eprebet/EPFD/2020/main.cpp
-iostream
+/home/eprebet/CLionProjects/EPFD/2020/greedy1.cpp
+bits/stdc++.h
 -
+
+/home/eprebet/CLionProjects/EPFD/2020/knapsack.cpp
+bits/stdc++.h
+-
+
+/home/eprebet/CLionProjects/EPFD/2020/main.cpp
+bits/stdc++.h
+-
+greedy1.cpp
+/home/eprebet/CLionProjects/EPFD/2020/greedy1.cpp
+knapsack.cpp
+/home/eprebet/CLionProjects/EPFD/2020/knapsack.cpp
 
