@@ -4,6 +4,7 @@ import mip
 
 seed(4568181913454)
 testcase = 2
+timeout = 300  # 5 minutes max
 M = "morningOptions"
 E = "eveningOptions"
 D = "domain"
@@ -21,7 +22,7 @@ wbosse = {w: m.add_var(var_type=mip.BINARY) for w in W}  # Workers if working
 # Constraints on quotas
 for d in quotas:
     m += mip.xsum(wbosse[w] for w in W if W[w][D] == d) >= quotas[d]
-    print(quotas[d], [w for w in W if W[w][D] == d])
+    # print(quotas[d], [w for w in W if W[w][D] == d])
 
 wtop_morn = {w: [m.add_var(var_type=mip.BINARY) for i in range(len(W[w][M]))] for w in
              W}  # Workers to set of paths on morning
@@ -55,13 +56,15 @@ for w in W:
         for t in path:
             m += wtot[w][t] >= wtop_even[w][i]
 
-vision = {w: {w2: {t: m.add_var(var_type=mip.BINARY) for t in all_transport[w] if t in all_transport[w2]} for w2 in W}
-          for w in W}  # If two workers see each other on one transport
+vision = {w: {w2: {t: m.add_var(var_type=mip.BINARY) for t in all_transport[w] if t in all_transport[w2]} for w2 in W if
+              w != w2} for w in W}  # If two workers see each other on one transport
 
 # Seeing each other means being on the same transport
 list_triple = []
 for w in W:
     for w2 in W:
+        if w2 == w:
+            continue
         for t in vision[w][w2]:
             m += vision[w][w2][t] >= -1 + wtot[w][t] + wtot[w2][t]  # (c)Tashiqi
             list_triple.append((w, w2, t))
@@ -69,19 +72,19 @@ for w in W:
 m.objective = mip.minimize(mip.xsum(vision[w][w2][t] for (w, w2, t) in list_triple))
 
 m.write('model.lp')
-#m.read('model.lp')
-#print('model has {} vars, {} constraints and {} nzs'.format(m.num_cols, m.num_rows, m.num_nz))
+# m.read('model.lp')
+# print('model has {} vars, {} constraints and {} nzs'.format(m.num_cols, m.num_rows, m.num_nz))
 
-m.optimize(max_seconds=300)  # 5 minutes max
+m.optimize(max_seconds=timeout) 
 
 res = {}
 for w in W:
-    print(wbosse[w].x)
+    # print(wbosse[w].x)
     if wbosse[w].x:
         ind_morn = [i for i in range(len(W[w][M])) if wtop_morn[w][i].x]
-        print(ind_morn)
+        # print(ind_morn)
         ind_even = [i for i in range(len(W[w][E])) if wtop_even[w][i].x]
-        print(ind_even)
+        # print(ind_even)
         res[w] = ind_morn[0], ind_even[0]
 
 OUT = [{"name": w, "morningOptionIndex": res[w][0], "eveningOptionIndex": res[w][1]} for w in res]
