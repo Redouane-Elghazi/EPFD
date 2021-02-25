@@ -3,7 +3,8 @@ from random import randint, seed
 import mip
 
 seed(4568181913454)
-testcase = 2
+testcase = 3
+timeout = 1200  # 20 minutes max
 M = "morningOptions"
 E = "eveningOptions"
 D = "domain"
@@ -20,8 +21,8 @@ wbosse = {w: m.add_var(var_type=mip.BINARY) for w in W}  # Workers if working
 
 # Constraints on quotas
 for d in quotas:
-	m += mip.xsum(wbosse[w] for w in W if W[w][D] == d) >= quotas[d]
-	#print(quotas[d], [w for w in W if W[w][D] == d])
+    m += mip.xsum(wbosse[w] for w in W if W[w][D] == d) >= quotas[d]
+    # print(quotas[d], [w for w in W if W[w][D] == d])
 
 wtop_morn = {w: [m.add_var(var_type=mip.BINARY) for i in range(len(W[w][M]))] for w in
 			 W}  # Workers to set of paths on morning
@@ -69,11 +70,13 @@ for w in W:
 
 m.objective = mip.minimize(mip.xsum(vision[w][w2][t] for (w, w2, t) in list_triple))
 
-m.write('model.lp')
-#m.read('model.lp')
-#print('model has {} vars, {} constraints and {} nzs'.format(m.num_cols, m.num_rows, m.num_nz))
+# m.write('model.lp')
+# m.read('model.lp')
+# print('model has {} vars, {} constraints and {} nzs'.format(m.num_cols, m.num_rows, m.num_nz))
 
-m.optimize(max_seconds=1200)  # 5 minutes max
+
+print("Start")
+m.optimize(max_seconds=timeout)
 
 res = {}
 for w in W:
