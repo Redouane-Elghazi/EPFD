@@ -57,9 +57,7 @@ int main(){
     for(int i = 0; i < I; ++i){
         cycles[i].resize(intersectionIn[i].size());
     }
-
     
-
     cout << cycles.size() << endl;
 
     for (int i = 0; i < cycles.size(); ++i){
