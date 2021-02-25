@@ -11,7 +11,26 @@ public:
     int ID=-1;
 };
 
+int scoreOptOneCar(const Voiture& v, vector<int>& length, int D, int F){
+    int trajet = 0;
+    for(int rue : v.path){
+        trajet += length[rue];
+    }
 
+    if(trajet < D){
+        return F + (D - trajet);
+    }else{
+        return 0;
+    }
+}
+
+int scoreOptAllCar(const vector<Voiture>& voitures, vector<int>& length, int D, int F){
+    int res = 0;
+    for(const Voiture& v : voitures){
+        res += scoreOptOneCar(v, length, D, F);
+    }
+    return res;
+}
 
 int main(){
     int D;
