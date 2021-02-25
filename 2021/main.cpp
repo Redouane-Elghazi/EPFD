@@ -52,6 +52,7 @@ int main(){
     vector<vector<int>> intersectionIn(I);
     vector<vector<int>> intersectionOut(I);
     vector<int> length(S);
+    vector<string> names(S);
 
     vector<Voiture> voitures(V);
 
@@ -79,12 +80,8 @@ int main(){
     }
 
     cerr << "Score Optimal:" << scoreOptAllCar(voitures, length, D, F) << endl;
-    int i = 0;
-    for (auto v : length){
-        cout << i++ << endl;
-            cout << v << " ";
-        cout << endl << endl;
-    }
+
+    vector<vector<int> > cycles(I);
 
     return 0;
 }
