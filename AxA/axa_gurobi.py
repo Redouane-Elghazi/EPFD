@@ -73,7 +73,7 @@ m.write('model.lp')
 #m.read('model.lp')
 #print('model has {} vars, {} constraints and {} nzs'.format(m.num_cols, m.num_rows, m.num_nz))
 
-m.optimize(max_seconds=300)  # 5 minutes max
+m.optimize(max_seconds=1200)  # 5 minutes max
 
 res = {}
 for w in W:
