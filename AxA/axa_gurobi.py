@@ -74,8 +74,9 @@ m.objective = mip.minimize(mip.xsum(vision[w][w2][t] for (w, w2, t) in list_trip
 # m.read('model.lp')
 # print('model has {} vars, {} constraints and {} nzs'.format(m.num_cols, m.num_rows, m.num_nz))
 
+
 print("Start")
-m.optimize(max_seconds=timeout) 
+m.optimize(max_seconds=timeout)
 
 res = {}
 for w in W:
