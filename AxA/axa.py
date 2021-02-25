@@ -1,6 +1,6 @@
 import json
-from random import randint,seed
-seed(4568181913454)
+from random import randint,seed, shuffle
+seed(4568181913876)
 testcase = 6
 M = "morningOptions"
 E = "eveningOptions"
@@ -14,7 +14,9 @@ W = IN["workers"]
 quotas = IN["quotas"]
 td = dict()
 res = dict()
-for w in W:
+list_W = list(W.keys())
+shuffle(list_W)
+for w in list_W:
 	res[w] = (min(range(len(W[w][M])), key=lambda m:sum(td[t]*(td[t]) if t in td else 0 for t in W[w][M][m])), min(range(len(W[w][E])), key=lambda e:sum(td[t]*(td[t]) if t in td else 0 for t in W[w][E][e])))
 	m,e = res[w]
 	for t in W[w][M][m]:

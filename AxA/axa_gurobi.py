@@ -3,8 +3,8 @@ from random import randint, seed
 import mip
 
 seed(4568181913454)
-testcase = 2
-timeout = 300  # 5 minutes max
+testcase = 3
+timeout = 1200  # 20 minutes max
 M = "morningOptions"
 E = "eveningOptions"
 D = "domain"
@@ -71,10 +71,11 @@ for w in W:
 
 m.objective = mip.minimize(mip.xsum(vision[w][w2][t] for (w, w2, t) in list_triple))
 
-m.write('model.lp')
+# m.write('model.lp')
 # m.read('model.lp')
 # print('model has {} vars, {} constraints and {} nzs'.format(m.num_cols, m.num_rows, m.num_nz))
 
+print("Start")
 m.optimize(max_seconds=timeout) 
 
 res = {}
