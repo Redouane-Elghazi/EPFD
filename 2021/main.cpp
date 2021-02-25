@@ -11,8 +11,6 @@ public:
     int ID=-1;
 };
 
-
-
 int main(){
     int D;
     int I;
@@ -25,7 +23,7 @@ int main(){
 
     vector<vector<int>> intersectionIn(I);
     vector<vector<int>> intersectionOut(I);
-    vector<int> length(I);
+    vector<int> length(S);
 
     vector<Voiture> voitures(V);
 
@@ -44,16 +42,21 @@ int main(){
     for (int i = 0; i < V; ++i){
         int P;
         cin >> P;
-        voitures.emplace_back();
-        voitures.back().ID = i;
+        voitures[i].ID = i;
         for (int j = 0; j < P; ++j){
             string name;
             cin >> name;
-            voitures.back().path.push_back(labels[name]);
+            voitures[i].path.push_back(labels[name]);
         }
     }
 
 
+    int i = 0;
+    for (auto v : length){
+        cout << i++ << endl;
+            cout << v << " ";
+        cout << endl << endl;
+    }
 
     return 0;
 }
