@@ -11,34 +11,6 @@ public:
     int ID=-1;
 };
 
-int scoreOptOneCar(const Voiture& v, vector<int>& length, int D, int F){
-    int trajet = 0;
-    for (int rue : v.path){
-        trajet += length[rue];
-    }
-
-    if (trajet < D){
-        return F + (D - trajet);
-    } else {
-        return 0;
-    }
-}
-
-int scoreOptAllCar(const vector<Voiture>& voitures, vector<int>& length, int D, int F){
-    int res = 0;
-    int voituresInutiles = 0;
-    for (const Voiture& v : voitures){
-        int score = scoreOptOneCar(v, length, D, F);
-        if (score == 0){
-            voituresInutiles += 1;
-        }
-        res += score;
-    }
-    cerr << "Nombre de voitures inutiles: " << voituresInutiles << endl;
-    return res;
-}
-
-
 int main(){
     int D;
     int I;
@@ -66,6 +38,7 @@ int main(){
         intersectionIn[end].push_back(id);
         intersectionOut[start].push_back(id);
         length[id] = len;
+        names[id] = name;
     }
 
     for (int i = 0; i < V; ++i){
@@ -79,9 +52,22 @@ int main(){
         }
     }
 
-    cerr << "Score Optimal:" << scoreOptAllCar(voitures, length, D, F) << endl;
-
+    //Tableau de tableaux contenant pour chaque intersection le temps allume de chaque rue entrante
     vector<vector<int> > cycles(I);
+    for(int i = 0; i < I; ++i){
+        cycles[i].resize(intersectionIn[i].size());
+    }
+    
+    cout << cycles.size() << endl;
+
+    for (int i = 0; i < cycles.size(); ++i){
+        cout << i << endl;
+        cout << cycles[i].size() << endl;
+        for (int j = 0; j < intersectionIn[i].size(); ++j){
+            cout << names[intersectionIn[i][j]] << " " << cycles[i][j] << endl;
+        }
+    }
+
 
     return 0;
 }
