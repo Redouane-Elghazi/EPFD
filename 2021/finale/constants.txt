@@ -1,0 +1,60 @@
+inputs/a.txt
+	nb days 10
+	nb engineers 2
+	nb services 5
+	nb initial binaries 3
+	nb features 2
+	duration to create bin 5
+
+
+
+inputs/b.txt
+	nb days 442
+	nb engineers 10
+	nb services 504
+	nb initial binaries 100
+	nb features 1000
+	duration to create bin 7
+
+
+
+inputs/c.txt
+	nb days 309
+	nb engineers 1000
+	nb services 100
+	nb initial binaries 5
+	nb features 1000
+	duration to create bin 7
+
+
+
+inputs/d.txt
+	nb days 689
+	nb engineers 10
+	nb services 100
+	nb initial binaries 10
+	nb features 10000
+	duration to create bin 8
+
+
+
+inputs/e.txt
+	nb days 872
+	nb engineers 1000
+	nb services 200
+	nb initial binaries 2
+	nb features 100
+	duration to create bin 4
+
+
+
+inputs/f.txt
+	nb days 928
+	nb engineers 10
+	nb services 100
+	nb initial binaries 10
+	nb features 5000
+	duration to create bin 1
+
+
+
