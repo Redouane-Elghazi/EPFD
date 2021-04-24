@@ -116,6 +116,20 @@ def binaries_per_features(NAME, L, G, S, B, F, N, services, features):
 	ax.hist(data, bins=nb_bins, log=True)
 
 	pl.savefig(NAME + "_bin_per_ft.png")
+
+def difficulty_per_features(NAME, L, G, S, B, F, N, services, features):
+	data = [difficulty for name, (nb_services, difficulty, nb_users, s) in features.items()]
+	
+	#plot
+	nb_bins = 20
+	fig, ax = pl.subplots(1, 1)
+	fig.suptitle(f"{NAME} ({F} features and {S} services and {B} binaries)")
+
+	# We can set the number of bins with the `bins` kwarg
+	ax.set_title("Difficulty per features")
+	ax.hist(data, bins=nb_bins, log=True)
+
+	pl.savefig("stats/" + NAME + "_dif_per_ft.png")
 	
 def max_score(L, G, S, B, F, N, services, features):
 	#max si on fait tout les features
@@ -125,10 +139,38 @@ def max_score(L, G, S, B, F, N, services, features):
 		
 	print("max score", score)
 	
+def is_there_impossible_features(L, G, S, B, F, N, services, features):
+	for name, (nb_services, difficulty, nb_users, s) in features.items():
+		if difficulty > L:
+			print(name)
+			
+# def overlap_size(L, G, S, B, F, N, services, features
+# 	u = 
+# 	for name, (nb_services, difficulty, nb_users, s) in features.items():
+# 		if difficulty > L:
+# 			print(name)
+#
+
+def services_per_binaries(NAME, L, G, S, B, F, N, services, features):
+	data = [0] * B
+	
+	for name, b in services.items():
+		data[b] += 1
+		
+	#plot
+	nb_bins = 20
+	fig, ax = pl.subplots(1, 1)
+	fig.suptitle(f"{NAME} ({F} features and {S} services and {B} binaries)")
+
+	# We can set the number of bins with the `bins` kwarg
+	ax.set_title("Services per binaries")
+	ax.hist(data, bins=nb_bins, log=True)
+
+	pl.savefig("stats/" + NAME + "_ser_per_bin.png")
 	
 for k in "abcdef":
 	filename = f"inputs/{k}.txt"
 	L, G, S, B, F, N, services, features = parse(filename)
 	stats(L, G, S, B, F, N, services, features)
-	max_score(L, G, S, B, F, N, services, features)
+	services_per_binaries(k, L, G, S, B, F, N, services, features)
 	print("\n")
