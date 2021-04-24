@@ -5,7 +5,7 @@ inputs/a.txt
 	nb initial binaries 3
 	nb features 2
 	duration to create bin 5
-
+max score 880
 
 
 inputs/b.txt
@@ -15,7 +15,7 @@ inputs/b.txt
 	nb initial binaries 100
 	nb features 1000
 	duration to create bin 7
-
+max score 664499863
 
 
 inputs/c.txt
@@ -25,7 +25,7 @@ inputs/c.txt
 	nb initial binaries 5
 	nb features 1000
 	duration to create bin 7
-
+max score 126483918
 
 
 inputs/d.txt
@@ -35,7 +35,7 @@ inputs/d.txt
 	nb initial binaries 10
 	nb features 10000
 	duration to create bin 8
-
+max score 3209103529
 
 
 inputs/e.txt
@@ -45,7 +45,7 @@ inputs/e.txt
 	nb initial binaries 2
 	nb features 100
 	duration to create bin 4
-
+max score 42552217
 
 
 inputs/f.txt
@@ -55,6 +55,5 @@ inputs/f.txt
 	nb initial binaries 10
 	nb features 5000
 	duration to create bin 1
-
-
+max score 2213100021
 
