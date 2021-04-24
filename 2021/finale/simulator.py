@@ -1,9 +1,10 @@
 from heapq import *
+import sys
 
 def parse(filename):
 	file = open(filename, "r")
 	
-	line = file.readline()
+	line = file.readline().strip()
 	temp = line.split(" ")
 	L = int(temp[0])
 	G = int(temp[1])
@@ -15,7 +16,7 @@ def parse(filename):
 	#services
 	services = {}
 	for _ in range(S):
-		line = file.readline()
+		line = file.readline().strip()
 		temp = line.split(" ")
 		
 		name = temp[0]
@@ -25,7 +26,7 @@ def parse(filename):
 	#features
 	features = {}
 	for _ in range(F):
-		line = file.readline()
+		line = file.readline().strip()
 		temp = line.split(" ")
 		
 		name = temp[0]
@@ -33,7 +34,7 @@ def parse(filename):
 		difficulty = int(temp[2])
 		nb_users = int(temp[3])
 		
-		line = file.readline()
+		line = file.readline().strip()
 		temp = line.split(" ")
 		
 		s = [x.strip() for x in temp]
@@ -44,16 +45,16 @@ def parse(filename):
 def parse_solution(filename):
 	file = open(filename, "r")
 	
-	line = file.readline()
+	line = file.readline().strip()
 	E = int(line)
 	
 	engineers = []
 	for _ in range(E):
-		line = file.readline()
+		line = file.readline().strip()
 		T = int(line)
 		tasks = []
 		for _ in range(T):
-			line = file.readline()
+			line = file.readline().strip()
 			temp = line.split(" ")
 			type = temp[0]
 			if type == "impl":
@@ -69,10 +70,10 @@ def parse_solution(filename):
 				
 	return E, engineers
 
-filename = "inputs/b.txt"
+filename = sys.argv[1]
 L, G, S, B, F, N, services, features = parse(filename)
 
-filename = "outputs/b.txt"
+filename = sys.argv[2]
 E, engineers = parse_solution(filename)
 
 
@@ -116,10 +117,16 @@ while events:
 		s = x
 		b1 = services[s]
 		b2 = y
+		nt = t + max(len(btos[b1]), len(btos[b2]))
+		heappush(events, (nt, g, None, None))
 		btos[b1].remove(s)
 		btos[b2].append(s)
+		services[s] = b2
 	elif type == "new":
+		nt = t + N
+		heappush(events, (nt, g, None, None))
 		btog.append(0)
+		btos.append([])
 	elif type == "wait":
 		nt = t + x
 		heappush(events, (nt, g, None, None))

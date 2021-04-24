@@ -1,0 +1,6928 @@
+1000
+6
+new
+impl sigdhfed 1
+impl sgjaafag 3
+impl shedacai 2
+impl sghchecb 3
+impl shgcjaig 0
+7
+new
+impl sigdhfed 3
+impl sbbdeiae 0
+impl siehdfga 4
+impl sdchhbic 1
+impl sibfegf 3
+impl sdeihiee 4
+6
+new
+impl sigdhfed 2
+impl sghhbeaf 2
+impl sbbdfgic 1
+impl sfaiijie 2
+impl sigijdea 1
+6
+new
+impl sddfeidi 1
+impl sgjaafag 4
+impl sbfebfga 1
+impl sejdaigd 4
+impl sgghcgif 0
+6
+new
+impl sddfeidi 0
+impl shjadajc 0
+impl sgbfibae 4
+impl siebifg 0
+impl scjcfach 0
+7
+wait 7
+impl sddfeidi 4
+impl sdciidde 1
+impl shgdijgd 2
+impl shbafhia 2
+impl sgdgdbgc 0
+impl sgjadbd 3
+7
+wait 7
+impl sddfeidi 2
+impl sdciidde 0
+impl scgdajfb 2
+impl segfjhcb 3
+impl sddhfecg 1
+impl sfbfhddd 1
+7
+wait 7
+impl sbceeadd 1
+impl sjjiihe 2
+impl sehedeb 3
+impl shedhifc 4
+impl sbficehi 3
+impl sgjadbd 4
+6
+wait 7
+impl sbceeadd 0
+impl seicbdfb 0
+impl sbehiiba 1
+impl sbadfiih 3
+impl sjibgiab 3
+6
+wait 7
+impl sbceeadd 3
+impl sfhjhaij 0
+impl sbehjggj 1
+impl sbfighaa 4
+impl sbahdcdb 0
+7
+wait 7
+impl sbceeadd 4
+impl seefjbif 2
+impl siebgdgd 1
+impl sdchhbic 2
+impl sgbidefg 0
+impl shcgdagd 3
+6
+wait 7
+impl sbceeadd 2
+impl sfhjhaij 1
+impl shbggcbb 1
+impl scecbgaj 3
+impl seiaabhd 3
+6
+wait 7
+impl sdehdbdg 1
+impl shbhjcgh 3
+impl sebffchc 2
+impl scecbgaj 4
+impl sgghcgif 3
+6
+wait 7
+impl sdehdbdg 0
+impl sjjiihe 0
+impl sehedeb 2
+impl sgacbhhc 2
+impl sijgffdj 2
+6
+wait 7
+impl sdehdbdg 3
+impl sfhjhaij 2
+impl sciicgbc 1
+impl segfjhcb 4
+impl sefcicf 3
+7
+wait 7
+impl sdehdbdg 4
+impl sfhjhaij 3
+impl sbgjfa 1
+impl shbiaedh 2
+impl siccbhce 2
+impl shjicibe 0
+6
+wait 7
+impl sdehdbdg 2
+impl sfhjhaij 4
+impl sicahebi 3
+impl sifdffj 3
+impl sechfjih 3
+6
+wait 7
+impl sbhhjabj 1
+impl sghhbeaf 1
+impl shadbgie 1
+impl sgfhgeeh 4
+impl sbcaecja 1
+6
+wait 7
+impl sbhhjabj 0
+impl shbhjcgh 4
+impl sbfebfga 0
+impl sbddcbcg 4
+impl segbjdej 0
+7
+wait 7
+impl sbhhjabj 3
+impl sjjiihe 3
+impl sehedeb 4
+impl sfjhbfgj 1
+impl sfijhcgg 0
+impl siggfjed 1
+7
+wait 7
+impl sbhhjabj 4
+impl seicbdfb 4
+impl sghgijac 4
+impl sfigichb 3
+impl sjdccede 3
+impl sfcdbbbc 1
+7
+wait 7
+impl sbhhjabj 2
+impl seicbdfb 2
+impl sciicgbc 0
+impl sbejaigj 2
+impl sdbeejje 4
+impl sbfghjab 2
+6
+wait 7
+impl shgjjhdg 1
+impl sbbdeiae 3
+impl sjgjccgg 3
+impl sbfaecii 1
+impl sjbdbgic 1
+6
+wait 7
+impl shgjjhdg 0
+impl sghhbeaf 0
+impl sjjcfhdb 4
+impl sedaibgj 3
+impl sgajbacd 2
+6
+wait 7
+impl shgjjhdg 3
+impl shbhjcgh 2
+impl sbcifgch 0
+impl seeiigcj 4
+impl shbfiaad 1
+6
+wait 7
+impl shgjjhdg 2
+impl sbgcabjf 3
+impl sdiigcif 3
+impl sedadfid 3
+impl scejbccc 0
+6
+wait 7
+impl sfghfaha 1
+impl sfjjggia 3
+impl sbbdfgic 0
+impl shdhggbj 4
+impl siafdcag 1
+7
+wait 7
+impl sfghfaha 0
+impl sbgcabjf 4
+impl sdggdcjj 1
+impl sidaghaa 1
+impl sdbgaihh 4
+impl sbhheehb 2
+6
+wait 7
+impl sfghfaha 3
+impl sjjiihe 1
+impl shccaeid 0
+impl sieeaadc 1
+impl sibgccjd 2
+7
+wait 7
+impl sfghfaha 4
+impl seicbdfb 1
+impl sdbfabag 2
+impl sgacbhhc 0
+impl sddhfecg 0
+impl sgefbded 0
+6
+wait 7
+impl sfghfaha 2
+impl seicbdfb 3
+impl sbehiiba 0
+impl sjbdhiec 0
+impl scjeaebb 4
+6
+wait 7
+impl sgcggeji 1
+impl sbbdeiae 4
+impl sceedfed 3
+impl sfdgfacd 0
+impl sbfffebe 3
+6
+wait 7
+impl sgcggeji 0
+impl sghhbeaf 3
+impl sjjcfhdb 0
+impl shdhggbj 2
+impl sdcaggji 1
+6
+wait 7
+impl sgcggeji 3
+impl sfjjggia 1
+impl sjgjccgg 4
+impl shdeaedc 3
+impl sgadeiij 3
+6
+wait 7
+impl sgcggeji 4
+impl sbgcabjf 1
+impl sdddcjbj 3
+impl shiddafa 1
+impl sbceejeh 3
+7
+wait 7
+impl sgcggeji 2
+impl sbgcabjf 2
+impl sbehjggj 0
+impl shahbbdg 3
+impl sediaehb 1
+impl sdijjdgg 4
+7
+wait 7
+impl sjaabghi 1
+impl sdciidde 2
+impl sbehiiba 4
+impl sbfighaa 2
+impl sibfegf 4
+impl sgjadbd 2
+6
+wait 7
+impl sjaabghi 0
+impl sfjjggia 4
+impl sebffchc 1
+impl siicebah 1
+impl sebfdiba 4
+6
+wait 7
+impl sjaabghi 3
+impl shbhjcgh 1
+impl sceedfed 4
+impl segebead 2
+impl sijcbgfi 0
+6
+wait 7
+impl sjaabghi 4
+impl sjjiihe 4
+impl sidbigfa 2
+impl segfcdea 1
+impl scejbccc 2
+6
+wait 7
+impl sjaabghi 2
+impl sbgcabjf 0
+impl sdiigcif 4
+impl sbadfiih 2
+impl sfdhciaf 4
+6
+wait 7
+impl seiaddce 1
+impl sgjaafag 2
+impl sbfebfga 3
+impl sfcabib 4
+impl sdcaggji 0
+6
+wait 7
+impl seiaddce 0
+impl shjadajc 3
+impl sgbfibae 2
+impl siicbbgj 3
+impl sjjdbia 2
+6
+wait 7
+impl seiaddce 3
+impl sbbdeiae 1
+impl sjgcbgfa 3
+impl sgafgbhg 1
+impl seejbfbc 2
+7
+wait 7
+impl seiaddce 4
+impl sghhbeaf 4
+impl scbdaie 4
+impl scjgfif 4
+impl sibfegf 2
+impl sdbaadcf 2
+6
+wait 7
+impl seiaddce 2
+impl sdciidde 3
+impl shfijii 1
+impl shedhifc 2
+impl secebbab 3
+6
+wait 7
+impl sbfigeih 1
+impl sdicajij 4
+impl scagbfhd 2
+impl sfdcbeae 3
+impl scgchfah 2
+6
+wait 7
+impl sbfigeih 3
+impl sbhjhhfc 3
+impl sheihiac 4
+impl shdeaedc 4
+impl siegbfac 3
+6
+wait 7
+impl sbfigeih 2
+impl shbdjabg 4
+impl sjdjghff 3
+impl seeiigcj 0
+impl shahaajb 2
+6
+wait 7
+impl sfgdhdjf 1
+impl shjadajc 4
+impl segchigc 2
+impl sdchhbic 0
+impl sefcicf 4
+7
+wait 7
+impl sfgdhdjf 0
+impl sdciidde 4
+impl sbgjfa 0
+impl sgaejhbd 2
+impl sbcfaicg 0
+impl sjeaefjj 4
+7
+wait 7
+impl sfgdhdjf 3
+impl sfjjggia 2
+impl scbdaie 2
+impl secdijaj 2
+impl sccjbhei 0
+impl shcgdagd 4
+6
+wait 7
+impl sfgdhdjf 4
+impl shbhjcgh 0
+impl sbbfdich 1
+impl sedadfid 4
+impl scejbccc 3
+6
+wait 7
+impl sfgdhdjf 2
+impl sfjjggia 0
+impl sbbdfgic 2
+impl sihbadad 1
+impl sbjjahjf 4
+6
+wait 7
+impl sjdbbdeh 1
+impl siiceae 0
+impl sfjjihfa 4
+impl scecbgaj 2
+impl sigijdea 0
+7
+wait 7
+impl sjdbbdeh 0
+impl sjbjebjg 0
+impl sehhdfeb 1
+impl sifdffj 4
+impl sfccaigc 2
+impl siggfjed 4
+6
+wait 7
+impl sjdbbdeh 3
+impl secaaaji 1
+impl shbccach 3
+impl sbchehcg 4
+impl sbbfggfg 0
+6
+wait 7
+impl sjdbbdeh 4
+impl sgdejbfc 1
+impl sehhdfeb 0
+impl sdjcbcgh 0
+impl shbfbjac 2
+6
+wait 7
+impl sjdbbdeh 2
+impl sjidcchc 1
+impl shadbgie 0
+impl seejbih 2
+impl sbdfaicf 2
+7
+wait 7
+impl shdchcae 1
+impl shbdjabg 2
+impl sbjjaeii 2
+impl sjijfaga 0
+impl sddhfecg 3
+impl siggfjed 0
+7
+wait 7
+impl shdchcae 0
+impl sjidcchc 0
+impl sjjcfhdb 2
+impl sjhdihh 4
+impl sbceejeh 4
+impl sdijjdgg 2
+7
+wait 7
+impl shdchcae 3
+impl sgdejbfc 0
+impl sdddcjbj 4
+impl shajdiie 4
+impl sgghdehb 3
+impl sjhfica 3
+7
+wait 7
+impl shdchcae 4
+impl shjadajc 2
+impl sehhdfeb 2
+impl segfjhcb 2
+impl sfijhcgg 3
+impl shgbahb 3
+7
+wait 7
+impl shdchcae 2
+impl sehjhhib 2
+impl sgaibdhf 0
+impl segeiafi 2
+impl sigijdea 2
+impl sbfbehae 1
+6
+wait 7
+impl sgfabdbd 1
+impl sdcjghic 2
+impl sccebeib 1
+impl sdbibibi 3
+impl secfdbdg 4
+6
+wait 7
+impl sgfabdbd 0
+impl siiceae 1
+impl sbjjaeii 3
+impl sedaibgj 4
+impl sgajbacd 1
+6
+wait 7
+impl sgfabdbd 3
+impl sbhjhhfc 1
+impl shjhgefj 4
+impl sbjccida 4
+impl sjfedaji 4
+6
+wait 7
+impl sgfabdbd 4
+impl secaaaji 0
+impl shddjcbg 4
+impl secdijaj 0
+impl scjdffaj 0
+7
+wait 7
+impl sgfabdbd 2
+impl sjbjebjg 3
+impl sehhdfeb 3
+impl sjiaai 1
+impl sjebhahc 0
+impl scghiegc 3
+6
+wait 7
+impl sjdigjci 1
+impl sjbjebjg 4
+impl shcgeicf 2
+impl sdiccaej 2
+impl sebgjdfj 0
+6
+wait 7
+impl sjdigjci 0
+impl sgdejbfc 2
+impl scjdhaf 2
+impl sjijfaga 3
+impl sijgffdj 1
+6
+wait 7
+impl sjdigjci 3
+impl sgjaafag 1
+impl sjfagfci 2
+impl scggahjg 3
+impl shdahadg 2
+6
+wait 7
+impl sjdigjci 4
+impl shjadajc 1
+impl sehedeb 1
+impl sdfccjid 1
+impl seabhfgg 1
+6
+wait 7
+impl sjdigjci 2
+impl sehjhhib 0
+impl sdhhcfbi 2
+impl sfcabib 2
+impl sgghcgif 4
+7
+wait 7
+impl sehgcgbf 1
+impl secaaaji 2
+impl sjdjghff 4
+impl sighicf 2
+impl sbficehi 4
+impl shcgdagd 1
+6
+wait 7
+impl sehgcgbf 2
+impl sehjhhib 1
+impl sceedfed 2
+impl sdihcdbd 1
+impl scgdgfci 0
+6
+wait 7
+impl shfgfgfc 1
+impl shegbjjd 2
+impl sfgdhebc 1
+impl sifehif 4
+impl seggiejh 1
+6
+wait 7
+impl shfgfgfc 0
+impl sgehijg 1
+impl sjfagfci 0
+impl sehfgig 1
+impl scgahjhi 3
+6
+wait 7
+impl shfgfgfc 3
+impl sefbcjhc 4
+impl sjdjghff 2
+impl sfcabib 1
+impl sjjdbia 0
+6
+wait 7
+impl shfgfgfc 4
+impl sbhjhhfc 4
+impl sihbdeii 2
+impl sejbhfe 0
+impl sgdfbgde 1
+6
+wait 7
+impl shfgfgfc 2
+impl sefbcjhc 2
+impl sjfchegd 2
+impl sfjiibae 3
+impl sfdhciaf 1
+6
+wait 7
+impl siihfeig 1
+impl siiceae 3
+impl sfjjihfa 2
+impl sedadfid 2
+impl sgjebgcc 1
+7
+wait 7
+impl siihfeig 0
+impl sjbjebjg 1
+impl sidbigfa 4
+impl sebjaiec 1
+impl sggfjebe 4
+impl sjabdcb 3
+6
+wait 7
+impl siihfeig 3
+impl sjidcchc 3
+impl scagbfhd 1
+impl sebgfibb 4
+impl scgchfah 1
+6
+wait 7
+impl siihfeig 4
+impl sgjaafag 0
+impl sebffchc 0
+impl sccihhcb 4
+impl sfjebihc 1
+6
+wait 7
+impl siihfeig 2
+impl sjidcchc 4
+impl sdhhcfbi 1
+impl sjgcdhab 1
+impl segbjdej 3
+6
+wait 7
+impl sfghejia 1
+impl sjbjebjg 2
+impl sjhcgibj 1
+impl secdijaj 1
+impl siaaaijf 4
+6
+wait 7
+impl sfghejia 0
+impl sgdejbfc 3
+impl sdddcjbj 1
+impl siabiicg 1
+impl sfdhciaf 2
+6
+wait 7
+impl sfghejia 3
+impl sehjhhib 3
+impl sbbjjehf 1
+impl sfcabib 0
+impl shgggbbj 2
+6
+wait 7
+impl sfghejia 4
+impl sbbdeiae 2
+impl sdgggefc 1
+impl sfdgfacd 1
+impl sihchgii 1
+6
+wait 7
+impl sfghejia 2
+impl sehjhhib 4
+impl sbcifgch 3
+impl sighicf 3
+impl sdjfigf 4
+6
+wait 7
+impl shieigeb 1
+impl sgehijg 0
+impl sebffchc 3
+impl sghchecb 4
+impl seggiejh 0
+6
+wait 7
+impl shieigeb 0
+impl sbhjhhfc 2
+impl sjgcbgfa 4
+impl sbjagfah 3
+impl sdaejcgc 4
+7
+wait 7
+impl shieigeb 3
+impl shbdjabg 1
+impl sbfebfga 4
+impl sighicf 1
+impl sccjbhei 4
+impl siigjhci 1
+6
+wait 7
+impl shieigeb 4
+impl sjidcchc 2
+impl sbbjjehf 0
+impl siaiaibc 0
+impl sfhjeajd 1
+6
+wait 7
+impl shieigeb 2
+impl shbdjabg 0
+impl shddjcbg 2
+impl shdhggbj 0
+impl sidbdgfe 1
+7
+wait 7
+impl sejifjed 1
+impl sdcjghic 1
+impl sehedeb 0
+impl sfggacaj 0
+impl scgfcbii 4
+impl shdbejaf 1
+6
+wait 7
+impl sejifjed 0
+impl shbdjabg 3
+impl shddjcbg 1
+impl shaffjba 0
+impl sijcbgfi 3
+7
+wait 7
+impl sejifjed 3
+impl secaaaji 3
+impl sjfchegd 3
+impl segfcdea 0
+impl sggfjebe 1
+impl sbfghjab 1
+6
+wait 7
+impl sejifjed 4
+impl sgdejbfc 4
+impl shfijii 0
+impl shfjefhg 1
+impl scjeaebb 1
+6
+wait 7
+impl sejifjed 2
+impl secaaaji 4
+impl sbjjaeii 1
+impl scjgfif 1
+impl shdbaiac 3
+6
+wait 7
+impl sgjjccjh 1
+impl sgeccffj 0
+impl sibdicfj 4
+impl scbbaeie 3
+impl scjcfach 3
+6
+wait 7
+impl sgjjccjh 0
+impl segcdfdj 4
+impl sdgdihdd 1
+impl sceijjej 2
+impl sijdeded 2
+6
+wait 7
+impl sgjjccjh 3
+impl sgehijg 3
+impl sgaibdhf 2
+impl siiffjha 4
+impl sdaejcgc 2
+7
+wait 7
+impl sgjjccjh 4
+impl siiceae 4
+impl sccebeib 0
+impl sifdffj 2
+impl sjeaafc 1
+impl secjibje 1
+6
+wait 7
+impl sgjjccjh 2
+impl sgehijg 4
+impl sgfcfdbh 2
+impl sedaibgj 2
+impl sigijdea 3
+6
+wait 7
+impl shghhgci 1
+impl shegbjjd 4
+impl sfgdhebc 0
+impl sfdcbeae 4
+impl siifbjg 1
+6
+wait 7
+impl shghhgci 0
+impl sdcjghic 3
+impl sfjjihfa 1
+impl sgfieide 3
+impl sjiecdh 0
+6
+wait 7
+impl shghhgci 3
+impl siiceae 2
+impl sgbfibae 1
+impl siiffjha 0
+impl sbbddaa 3
+6
+wait 7
+impl shghhgci 4
+impl sbhjhhfc 0
+impl scjgadeg 1
+impl sjigahef 2
+impl sidhhdhi 1
+6
+wait 7
+impl shghhgci 2
+impl sefbcjhc 1
+impl shedacai 1
+impl seagajei 2
+impl sdjhdbb 4
+6
+wait 7
+impl sfgghdf 1
+impl sfcgcbbd 1
+impl sibdicfj 1
+impl sbhjcdgh 0
+impl scjcfach 4
+6
+wait 7
+impl sfgghdf 0
+impl shegbjjd 0
+impl sjafjedd 2
+impl sjgcdhab 4
+impl sijjfbcd 1
+6
+wait 7
+impl sfgghdf 3
+impl sdicajij 2
+impl sjfagfci 3
+impl sceijjej 1
+impl sebfdiba 1
+7
+wait 7
+impl sfgghdf 4
+impl sdcjghic 0
+impl sfjjihfa 3
+impl sebjaiec 2
+impl sfccaigc 3
+impl sgahjjga 4
+6
+wait 7
+impl sfgghdf 2
+impl segcdfdj 1
+impl sbcifgch 4
+impl scggahjg 1
+impl sffehifh 4
+6
+wait 7
+impl sedjbebj 1
+impl sijhace 1
+impl siebgdgd 0
+impl sfjiibae 4
+impl sijjfbcd 0
+6
+wait 7
+impl sedjbebj 0
+impl schcdgdj 3
+impl sdhhcfbi 0
+impl sdihcdbd 2
+impl sbeddjbh 0
+6
+wait 7
+impl sedjbebj 3
+impl sfjbeefa 0
+impl schbdehe 1
+impl sibcdhff 3
+impl shgdhieb 4
+6
+wait 7
+impl sedjbebj 4
+impl sfcgcbbd 0
+impl sdddgcgh 1
+impl sfdghjbb 0
+impl sibcgece 1
+6
+wait 7
+impl sedjbebj 2
+impl sfjbeefa 3
+impl sgjgjgig 2
+impl sdhggejc 4
+impl sbdjehdc 1
+6
+wait 7
+impl sbjcfjad 1
+impl scfecaee 0
+impl schjbhhc 0
+impl sfdgfacd 3
+impl sijhbgi 1
+6
+wait 7
+impl sbjcfjad 3
+impl scaiafej 4
+impl sfgdhebc 2
+impl sbcjeied 0
+impl sebfdiba 2
+6
+wait 7
+impl sbjcfjad 4
+impl shcdceja 2
+impl sggbfhae 1
+impl sbhjcdgh 2
+impl segbjdej 4
+6
+wait 7
+impl sbjcfjad 2
+impl scaiafej 2
+impl sjafjedd 1
+impl sigbadhb 1
+impl scabdicc 2
+6
+wait 7
+impl sjgggjjb 1
+impl sdfgfi 0
+impl sjafjedd 0
+impl sgfhgeeh 2
+impl scgchfah 0
+6
+wait 7
+impl sjgggjjb 0
+impl sdijcbfc 4
+impl seehgagf 3
+impl sjgcdhab 2
+impl sbefaghj 3
+6
+wait 7
+impl sjgggjjb 3
+impl sdijcbfc 1
+impl sjfgbjdd 2
+impl sebgfibb 1
+impl sjfedaji 0
+6
+wait 7
+impl sjgggjjb 4
+impl sfjbeefa 4
+impl sjcjacca 3
+impl shfcbced 1
+impl shacieai 0
+6
+wait 7
+impl sjgggjjb 2
+impl sdijcbfc 0
+impl sheihiac 1
+impl sgafgbhg 0
+impl sbbfggfg 3
+6
+wait 7
+impl sfjcgcaf 1
+impl sijhace 0
+impl sgfcfdbh 1
+impl sedadfid 1
+impl seiaabhd 1
+6
+wait 7
+impl sfjcgcaf 0
+impl scdhfd 2
+impl shideddb 4
+impl shbjjhde 0
+impl sdgiadhg 3
+6
+wait 7
+impl sfjcgcaf 3
+impl sfjbeefa 2
+impl sceaejee 0
+impl sfdghjbb 2
+impl seahffae 1
+6
+wait 7
+impl sfjcgcaf 4
+impl sfcgcbbd 4
+impl sebibfcj 0
+impl shdeaedc 2
+impl sbaghcei 3
+6
+wait 7
+impl sfjcgcaf 2
+impl scdhfd 1
+impl sifjgbac 1
+impl sfajaedg 2
+impl sihchgii 3
+6
+wait 7
+impl sdhhiij 1
+impl sijhace 3
+impl sdfhiacc 3
+impl segeiafi 0
+impl sjiecdh 3
+6
+wait 7
+impl sdhhiij 0
+impl schcdgdj 1
+impl sdgggefc 0
+impl sehfgig 3
+impl sdcjfeje 0
+6
+wait 7
+impl sdhhiij 3
+impl scdhfd 0
+impl sfjceaef 1
+impl sjfiefh 0
+impl sdjcaga 2
+6
+wait 7
+impl sdhhiij 4
+impl sfcgcbbd 2
+impl sgfdggdh 4
+impl sdbadjba 0
+impl shbfiaad 2
+6
+wait 7
+impl sdhhiij 2
+impl scdhfd 3
+impl sjcjacca 4
+impl sbfaecii 0
+impl sffehifh 2
+6
+wait 7
+impl sbecicij 1
+impl seahdgib 3
+impl sdhhcfbi 3
+impl sbddcbcg 2
+impl sidbdgfe 0
+6
+wait 7
+impl sbecicij 0
+impl sfcccaaf 1
+impl scigeecc 3
+impl sjdfichj 3
+impl sjcdbghf 3
+6
+wait 7
+impl sbecicij 3
+impl sbfdchdh 3
+impl sdfhiacc 4
+impl segeiafi 1
+impl shbjjafj 0
+6
+wait 7
+impl sbecicij 4
+impl schcdgdj 4
+impl sbcifgch 2
+impl sceijjej 0
+impl sbdiggcg 1
+6
+wait 7
+impl sbecicij 2
+impl sbfdchdh 4
+impl sjiebjge 1
+impl sfjiibae 1
+impl scfbdabj 4
+6
+wait 7
+impl sfhbdhbc 1
+impl sgeccffj 3
+impl sibdicfj 2
+impl sejccchi 1
+impl sijcdgee 3
+7
+wait 7
+impl sfhbdhbc 0
+impl segcdfdj 0
+impl shccaeid 3
+impl sebjaiec 0
+impl sgicfefj 2
+impl sfchgifi 1
+6
+wait 7
+impl sfhbdhbc 3
+impl sgehijg 2
+impl sbfebfga 2
+impl sighicf 0
+impl sgjebgcc 2
+6
+wait 7
+impl sfhbdhbc 4
+impl sefbcjhc 0
+impl shccaeid 2
+impl sfaiijie 1
+impl shbjjafj 3
+6
+wait 7
+impl sfhbdhbc 2
+impl sdicajij 1
+impl seehgagf 2
+impl sjdfichj 4
+impl sjjcjgda 4
+6
+wait 7
+impl sgeigidf 1
+impl sbfdchdh 2
+impl sjiebjge 2
+impl sjhdihh 1
+impl seabhfgg 0
+6
+wait 7
+impl sgeigidf 0
+impl sgcciafh 4
+impl sebibfcj 4
+impl segebead 1
+impl siifbjg 0
+6
+wait 7
+impl sgeigidf 3
+impl sgcciafh 1
+impl sfiaaiai 1
+impl shbgbgdf 1
+impl sgdiegej 0
+6
+wait 7
+impl sgeigidf 4
+impl sgeccffj 1
+impl sjcjacca 2
+impl sbfaecii 3
+impl sbdjehdc 2
+6
+wait 7
+impl sgeigidf 2
+impl sgcciafh 0
+impl sjgcbgfa 2
+impl sjihcfig 1
+impl sfcdbbbc 0
+6
+wait 7
+impl sfcjcbjg 1
+impl sgeccffj 4
+impl sheihiac 2
+impl sejdaigd 2
+impl seiaabhd 0
+6
+wait 7
+impl sfcjcbjg 0
+impl segcdfdj 3
+impl sjiebjge 0
+impl sihdhgf 4
+impl siafdcag 0
+6
+wait 7
+impl sfcjcbjg 3
+impl sdicajij 0
+impl sjgjccgg 2
+impl sfdgfacd 2
+impl sffbehea 1
+6
+wait 7
+impl sfcjcbjg 4
+impl sefbcjhc 3
+impl shccaeid 4
+impl sfaiijie 0
+impl scfbdabj 2
+6
+wait 7
+impl sfcjcbjg 2
+impl sdicajij 3
+impl sdgggefc 3
+impl siiffjha 1
+impl sccjfcfi 0
+6
+wait 7
+impl sebiaebg 1
+impl siegegeh 1
+impl sfajjbah 0
+impl sfdcbeae 1
+impl sffbehea 2
+6
+wait 7
+impl sebiaebg 0
+impl sijhace 4
+impl sjiebjge 3
+impl sjhdihh 2
+impl sgbebfae 1
+6
+wait 7
+impl sebiaebg 3
+impl sfcccaaf 0
+impl sfajjbah 3
+impl sbcjeied 3
+impl scabdicc 0
+6
+wait 7
+impl sebiaebg 4
+impl sdijcbfc 3
+impl siihdcac 3
+impl sdbadjba 3
+impl sfhjeajd 0
+6
+wait 7
+impl sebiaebg 2
+impl sfcccaaf 3
+impl shhjbbaj 4
+impl seeiigcj 2
+impl sdjhdbb 1
+6
+wait 7
+impl scagffbd 1
+impl sjhchbjh 1
+impl sfgjdjgc 0
+impl segibjfe 3
+impl sidfejia 1
+6
+wait 7
+impl scagffbd 0
+impl sdaajbh 0
+impl secijfjh 3
+impl sceijjej 3
+impl sfhjeajd 3
+6
+wait 7
+impl scagffbd 3
+impl scfecaee 3
+impl sfgdhebc 3
+impl sbcjeied 2
+impl sbfhaibi 3
+6
+wait 7
+impl scagffbd 4
+impl siegegeh 0
+impl sceaejee 2
+impl sjihcfig 0
+impl sgdfbgde 0
+6
+wait 7
+impl scagffbd 2
+impl scfecaee 4
+impl sfajfce 1
+impl sigbadhb 0
+impl sibcgece 0
+6
+wait 7
+impl sfbaafg 1
+impl sgcciafh 3
+impl sihbdeii 3
+impl sgafgbhg 3
+impl shgggbbj 0
+6
+wait 7
+impl sfbaafg 0
+impl shegbjjd 3
+impl sjafjedd 3
+impl sejccchi 0
+impl sbdfaicf 1
+6
+wait 7
+impl sfbaafg 3
+impl segcdfdj 2
+impl sdgdihdd 3
+impl scgfjjeg 0
+impl sgadeiij 4
+7
+wait 7
+impl sfbaafg 4
+impl sdcjghic 4
+impl segchigc 3
+impl sieeaadc 0
+impl sebgjdfj 3
+impl sbfbehae 0
+6
+wait 7
+impl sfbaafg 2
+impl shegbjjd 1
+impl sfjceaef 0
+impl sejhccjd 4
+impl sjcjdeed 0
+6
+wait 7
+impl siaadhhc 1
+impl sdbafdfj 2
+impl schjbhhc 2
+impl sdhggejc 1
+impl sbcaecja 2
+6
+wait 7
+impl siaadhhc 0
+impl sfgcihge 1
+impl shideddb 2
+impl shbgbgdf 0
+impl sdcjfeje 3
+6
+wait 7
+impl siaadhhc 3
+impl siegegeh 3
+impl shhiebai 1
+impl shbgbgdf 4
+impl sebfdiba 0
+6
+wait 7
+impl siaadhhc 4
+impl sdfgfi 3
+impl sfiaaiai 0
+impl sdidbefg 3
+impl sgffcgei 4
+6
+wait 7
+impl siaadhhc 2
+impl siegegeh 4
+impl schjbhhc 3
+impl sffjid 0
+impl scbhjhdh 1
+6
+wait 7
+impl sebjegeh 1
+impl seahdgib 1
+impl sdgggefc 4
+impl siiffjha 3
+impl sebfdiba 3
+6
+wait 7
+impl sebjegeh 0
+impl shcdceja 1
+impl seaffdga 0
+impl sgigibjg 4
+impl sbdfaicf 0
+6
+wait 7
+impl sebjegeh 3
+impl sdijcbfc 2
+impl sdddgcgh 0
+impl sjihcfig 3
+impl shacieai 3
+6
+wait 7
+impl sebjegeh 4
+impl schcdgdj 0
+impl sbbjjehf 3
+impl sccihhcb 2
+impl seahffae 0
+6
+wait 7
+impl sebjegeh 2
+impl sbfdchdh 1
+impl siebgdgd 3
+impl sidaghaa 0
+impl scjeaebb 0
+6
+wait 7
+impl sggjdggf 1
+impl sfeajfh 1
+impl shbccach 1
+impl scggahjg 4
+impl sfhjeajd 4
+6
+wait 7
+impl sggjdggf 0
+impl seheiigg 4
+impl sgfdggdh 2
+impl sjacbjcc 1
+impl sidfejia 0
+6
+wait 7
+impl sggjdggf 3
+impl sfgcihge 0
+impl sibdicfj 0
+impl sgjdadie 0
+impl sbbahicd 4
+6
+wait 7
+impl sggjdggf 4
+impl seahdgib 0
+impl sbbjjehf 4
+impl sbchehcg 0
+impl shgcjaig 3
+6
+wait 7
+impl sggjdggf 2
+impl sfgcihge 3
+impl sheihiac 0
+impl shaiafid 1
+impl scgdgfci 3
+6
+wait 7
+impl sdcdgicb 1
+impl sfcccaaf 4
+impl secifihi 3
+impl sdidbefg 1
+impl sfdeehib 4
+6
+wait 7
+impl sdcdgicb 0
+impl scdhfd 4
+impl shjhgefj 2
+impl sebgfibb 2
+impl sdaejcgc 1
+6
+wait 7
+impl sdcdgicb 3
+impl sgcciafh 2
+impl seehgagf 4
+impl sbabfgij 1
+impl scjcfach 2
+6
+wait 7
+impl sdcdgicb 4
+impl sgeccffj 2
+impl sfajfce 0
+impl sgjdadie 3
+impl sehechhh 3
+6
+wait 7
+impl sdcdgicb 2
+impl sfjbeefa 1
+impl sjdeeijb 3
+impl sdhdhddg 1
+impl sfcfhdcd 3
+6
+wait 7
+impl shffaaha 1
+impl sfgcihge 4
+impl sdddgcgh 3
+impl sejccchi 3
+impl sfhggggh 3
+6
+wait 7
+impl shffaaha 0
+impl scaiafej 0
+impl shjhgefj 1
+impl sidfjiid 3
+impl sdaejcgc 0
+6
+wait 7
+impl shffaaha 3
+impl sijhace 2
+impl shccaeid 1
+impl sbchehcg 2
+impl sfjebihc 0
+7
+wait 7
+impl shffaaha 4
+impl sbfdchdh 0
+impl sgfcfdbh 0
+impl sidaghaa 3
+impl sjbfbdhh 3
+impl sgjadbd 0
+6
+wait 7
+impl shffaaha 2
+impl scaiafej 1
+impl schbdehe 0
+impl sgigibjg 1
+impl sehechhh 4
+6
+wait 7
+impl sbjijgge 1
+impl seahdgib 4
+impl sgaibdhf 1
+impl segebead 0
+impl shbfiaad 0
+6
+wait 7
+impl sbjijgge 0
+impl sfcccaaf 2
+impl scjbfbf 1
+impl sebgfibb 0
+impl sccjfcfi 3
+6
+wait 7
+impl sbjijgge 3
+impl shcdceja 0
+impl sfajjbah 4
+impl segeiafi 3
+impl seiaabhd 4
+6
+wait 7
+impl sbjijgge 4
+impl schcdgdj 2
+impl shedacai 0
+impl scgfjjeg 3
+impl sjjdbia 3
+6
+wait 7
+impl sbjijgge 2
+impl shcdceja 3
+impl shhjbbaj 2
+impl sehfgig 4
+impl sjjcjgda 2
+6
+wait 7
+impl scbfajfi 1
+impl sbhedchh 2
+impl sdddgcgh 4
+impl sbabfgij 0
+impl sbaghcei 4
+6
+wait 7
+impl scbfajfi 0
+impl sjhchbjh 0
+impl shdeeiag 3
+impl sebcacbj 3
+impl shgdhieb 2
+6
+wait 7
+impl scbfajfi 3
+impl sfeajfh 3
+impl sdgdihdd 4
+impl siicbbgj 4
+impl sfjebihc 3
+6
+wait 7
+impl scbfajfi 4
+impl scjjbia 2
+impl sdgdihdd 2
+impl sccihhcb 1
+impl sijcbgfi 2
+6
+wait 7
+impl scbfajfi 2
+impl sfeajfh 4
+impl sjdjghff 1
+impl sffjid 3
+impl seggiejh 3
+6
+wait 7
+impl sbjbcchi 1
+impl sigijcdh 3
+impl scagbfhd 0
+impl shfcbced 4
+impl sjcdbghf 4
+6
+wait 7
+impl sbjbcchi 0
+impl sebiefbj 3
+impl sgaibdhf 3
+impl sehfgig 0
+impl sffbehea 0
+6
+wait 7
+impl sbjbcchi 3
+impl seaadgdd 1
+impl sfifcddd 0
+impl sgidejij 4
+impl sibjehd 4
+6
+wait 7
+impl sbjbcchi 4
+impl sgdhggdg 2
+impl sfajfce 3
+impl shaiafid 0
+impl segbjdej 2
+6
+wait 7
+impl sbjbcchi 2
+impl seaadgdd 0
+impl sjhjajhg 2
+impl sgfcgcfb 1
+impl sbaidbjh 1
+6
+wait 7
+impl sfajbifj 1
+impl shbbbej 4
+impl shieahgf 1
+impl sefajcdd 4
+impl schjeejj 2
+6
+wait 7
+impl sfajbifj 0
+impl seajffgj 4
+impl sjfaddhf 3
+impl sbjagfah 1
+impl sidfejia 3
+6
+wait 7
+impl sfajbifj 2
+impl segiajee 0
+impl sfgdhebc 4
+impl sffjid 4
+impl shgcjaig 4
+6
+wait 7
+impl sdhebgaj 1
+impl sgdhggdg 0
+impl sfiaaiai 3
+impl sigbadhb 2
+impl shbjjafj 1
+6
+wait 7
+impl sdhebgaj 0
+impl sdbafdfj 1
+impl sifjgbac 0
+impl siccbeee 0
+impl scgahjhi 2
+6
+wait 7
+impl sdhebgaj 3
+impl sdaajbh 3
+impl shideddb 1
+impl sdhdhddg 0
+impl sjbgeife 3
+6
+wait 7
+impl sdhebgaj 4
+impl sfgcihge 2
+impl siihdcac 4
+impl sbjccida 2
+impl sieijbb 3
+6
+wait 7
+impl sdhebgaj 2
+impl scjjbia 0
+impl sdfhiacc 1
+impl seejbih 1
+impl sbbahicd 2
+6
+wait 7
+impl scddgef 1
+impl scfecaee 2
+impl sibdicfj 3
+impl sifehif 2
+impl siegbfac 4
+6
+wait 7
+impl scddgef 0
+impl sdfgfi 4
+impl scjgadeg 0
+impl sigbadhb 3
+impl sfjebihc 4
+6
+wait 7
+impl scddgef 3
+impl scaiafej 3
+impl schjbhhc 4
+impl sdhggejc 0
+impl sgjgbej 1
+6
+wait 7
+impl scddgef 4
+impl shcdceja 4
+impl secifihi 4
+impl siachdfj 0
+impl sgdfbgde 4
+6
+wait 7
+impl scddgef 2
+impl sdfgfi 1
+impl secifihi 2
+impl siachdfj 3
+impl sihchgii 4
+6
+wait 7
+impl sjbhabgb 1
+impl sgadjedf 3
+impl sgjgjgig 1
+impl sbjagfah 4
+impl sffehifh 1
+6
+wait 7
+impl sjbhabgb 0
+impl shcbehei 4
+impl sbbfdich 0
+impl scjgfif 2
+impl sibfegf 1
+6
+wait 7
+impl sjbhabgb 3
+impl secbjadg 4
+impl sfgjdjgc 4
+impl sjgfcf 4
+impl sddhihdf 4
+6
+wait 7
+impl sjbhabgb 4
+impl segdjggd 1
+impl sedfcjb 3
+impl siebifg 3
+impl siegbfac 2
+7
+wait 7
+impl sjbhabgb 2
+impl sigijcdh 4
+impl siebgdgd 4
+impl sjbdhiec 3
+impl sjbfbdhh 4
+impl sjeaefjj 2
+6
+wait 7
+impl sgdgbjcg 1
+impl sgdhggdg 3
+impl sigiifce 4
+impl siaiaibc 3
+impl scgdgfci 4
+6
+wait 7
+impl sgdgbjcg 0
+impl sdbafdfj 0
+impl shhiebai 0
+impl sdagdeha 1
+impl sieijbb 1
+6
+wait 7
+impl sgdgbjcg 3
+impl sdaajbh 4
+impl sbidbjbi 1
+impl sgdgdcii 3
+impl sdcjfeje 4
+6
+wait 7
+impl sgdgbjcg 4
+impl seheiigg 1
+impl sjfgbjdd 1
+impl sidfjiid 4
+impl sgjgbej 3
+6
+wait 7
+impl sgdgbjcg 2
+impl scjjbia 3
+impl shddjcbg 0
+impl sfaiijie 3
+impl seiaabhd 2
+7
+wait 7
+impl sidhiie 1
+impl sfeajfh 0
+impl shddjcbg 3
+impl secdijaj 3
+impl sccjbhei 2
+impl siigjhci 0
+6
+wait 7
+impl sidhiie 0
+impl seheiigg 2
+impl sdddgcgh 2
+impl sbfaecii 4
+impl sbdjehdc 0
+6
+wait 7
+impl sidhiie 3
+impl siegegeh 2
+impl shideddb 0
+impl sejhccjd 2
+impl sccehccd 0
+6
+wait 7
+impl sidhiie 4
+impl sdfgfi 2
+impl scjgadeg 3
+impl sbbafig 1
+impl sjfedaji 2
+6
+wait 7
+impl sidhiie 2
+impl seheiigg 0
+impl scjgadeg 4
+impl sgjdadie 2
+impl sbfffebe 4
+6
+wait 7
+impl sbjjceha 1
+impl sjhchbjh 3
+impl sjjbghai 3
+impl scbbaeie 4
+impl scgdgfci 2
+6
+wait 7
+impl sbjjceha 0
+impl sdaajbh 2
+impl sjfgbjdd 0
+impl sgihacgi 1
+impl sccbjgdd 0
+6
+wait 7
+impl sbjjceha 3
+impl scfecaee 1
+impl sgjgjgig 0
+impl sbabfgij 3
+impl shgggbbj 4
+6
+wait 7
+impl sbjjceha 4
+impl seahdgib 2
+impl shedacai 3
+impl sccihhcb 0
+impl shgcjaig 2
+6
+wait 7
+impl sbjjceha 2
+impl sdaajbh 1
+impl siajbfic 0
+impl sdhdffhg 1
+impl sibcgece 3
+6
+wait 7
+impl sdhddfhi 1
+impl shjichie 3
+impl siihdcac 2
+impl sgafgbhg 2
+impl sbeddjbh 3
+6
+wait 7
+impl sdhddfhi 0
+impl sbhedchh 3
+impl sihgegeg 1
+impl sfdghjbb 1
+impl sbfhaibi 4
+6
+wait 7
+impl sdhddfhi 3
+impl scehaiha 1
+impl sbbfdich 4
+impl sjijfaga 4
+impl sijgffdj 0
+6
+wait 7
+impl sdhddfhi 4
+impl sjhchbjh 4
+impl shieahgf 0
+impl sebbegej 3
+impl siifbjg 3
+6
+wait 7
+impl sdhddfhi 2
+impl scehaiha 2
+impl sdfhiacc 0
+impl sffjid 1
+impl sbdiggcg 0
+6
+wait 7
+impl sdcheeh 1
+impl seajffgj 2
+impl sdgggefc 2
+impl seagajei 0
+impl shahaajb 1
+6
+wait 7
+impl sdcheeh 0
+impl scefbejd 4
+impl shbccach 4
+impl sedcdfhg 4
+impl sibgccjd 0
+7
+wait 7
+impl sdcheeh 3
+impl sdaacfaf 2
+impl sbbfdich 2
+impl sjijfaga 2
+impl sdbgaihh 2
+impl sbhheehb 3
+6
+wait 7
+impl sdcheeh 4
+impl sbhedchh 4
+impl sebibfcj 2
+impl sffjid 2
+impl sjdceaib 3
+6
+wait 7
+impl sdcheeh 2
+impl segdjggd 0
+impl scagbfhd 3
+impl sfdcbeae 0
+impl sccjfcfi 4
+6
+wait 7
+impl scjiagcc 1
+impl shcbehei 2
+impl scbdaie 1
+impl sbchehcg 3
+impl sbbfggfg 4
+6
+wait 7
+impl scjiagcc 0
+impl scaedegf 1
+impl sdhffia 4
+impl sigbadhb 4
+impl sbjjahjf 2
+6
+wait 7
+impl scjiagcc 3
+impl seaadgdd 3
+impl scjhgjd 2
+impl sdhdhddg 3
+impl sjiahceh 4
+6
+wait 7
+impl scjiagcc 4
+impl scehaiha 3
+impl sdfhiacc 2
+impl sbddcbcg 1
+impl sibcgece 4
+6
+wait 7
+impl scjiagcc 2
+impl sebiefbj 4
+impl sgfcfdbh 3
+impl sibacbbd 1
+impl sidbdgfe 2
+6
+wait 7
+impl siaiddai 1
+impl sjeffidj 2
+impl secijfjh 4
+impl seagajei 3
+impl shbfiaad 3
+6
+wait 7
+impl siaiddai 0
+impl sgciceji 3
+impl sgbfjcej 2
+impl sbabfgij 4
+impl sbeddjbh 1
+6
+wait 7
+impl siaiddai 3
+impl shjcabca 2
+impl sbfgdddf 3
+impl shbjjhde 2
+impl sjbedifb 0
+6
+wait 7
+impl siaiddai 4
+impl sfdgefbd 1
+impl siihdcac 1
+impl sdagdeha 3
+impl sbbddaa 4
+6
+wait 7
+impl siaiddai 2
+impl shbbbej 2
+impl sfjbdfbi 0
+impl shhbijeh 1
+impl schceega 2
+6
+wait 7
+impl sehbdjca 1
+impl sfbfaaah 4
+impl sjeihfgd 0
+impl shbieaid 0
+impl shgbahb 1
+6
+wait 7
+impl sehbdjca 0
+impl shjfiffh 0
+impl schcggjg 2
+impl siheaehc 0
+impl sidgedag 2
+6
+wait 7
+impl sehbdjca 3
+impl sgciceji 4
+impl sfgjdjgc 2
+impl sfegfajb 0
+impl sebfahfh 1
+6
+wait 7
+impl sehbdjca 4
+impl sgadjedf 4
+impl sjfgbjdd 3
+impl sejadfhd 1
+impl sieijbb 4
+6
+wait 7
+impl sehbdjca 2
+impl sjchhegi 4
+impl siehdfga 2
+impl sedadfid 0
+impl sfdhciaf 0
+6
+wait 7
+impl sjjjced 1
+impl sbfeejgb 0
+impl sigiifce 2
+impl siicebah 0
+impl sdjhdbb 2
+6
+wait 7
+impl sjjjced 0
+impl sigijcdh 2
+impl sbbdfgic 3
+impl sjijfaga 1
+impl sbahdcdb 3
+6
+wait 7
+impl sjjjced 3
+impl shjichie 4
+impl seehgagf 1
+impl sbbafig 0
+impl sgffihac 3
+6
+wait 7
+impl sjjjced 4
+impl scaedegf 0
+impl sfajjbah 2
+impl sbddcbcg 0
+impl sjdceaib 4
+6
+wait 7
+impl sjjjced 2
+impl secbjadg 2
+impl sbfgdddf 4
+impl schibaja 1
+impl shjicibe 3
+6
+wait 7
+impl seifajea 1
+impl sgdhggdg 4
+impl sheihiac 3
+impl sbabfgij 2
+impl siaaaijf 2
+6
+wait 7
+impl seifajea 0
+impl sdbafdfj 3
+impl shideddb 3
+impl sgaabhfg 1
+impl sieijbb 0
+6
+wait 7
+impl seifajea 3
+impl scjjbia 1
+impl sgaibdhf 4
+impl scggahjg 2
+impl sijdeded 1
+6
+wait 7
+impl seifajea 4
+impl seheiigg 3
+impl sihgegeg 0
+impl sjihcfig 4
+impl shacieai 4
+6
+wait 7
+impl seifajea 2
+impl scjjbia 4
+impl sjfchegd 1
+impl sghchecb 2
+impl sjdceaib 1
+6
+wait 7
+impl scbbeaij 1
+impl sebiefbj 2
+impl shbccach 0
+impl siebifg 1
+impl sbdjehdc 3
+6
+wait 7
+impl scbbeaij 0
+impl sgdhggdg 1
+impl siacihhc 3
+impl siaiaibc 1
+impl scabdicc 3
+6
+wait 7
+impl scbbeaij 3
+impl sfeajfh 2
+impl sjdjghff 0
+impl sdhggejc 3
+impl sbdjehdc 4
+6
+wait 7
+impl scbbeaij 4
+impl sdbafdfj 4
+impl sbidbjbi 0
+impl scfjhjji 1
+impl sfhjeajd 2
+6
+wait 7
+impl scbbeaij 2
+impl sjhchbjh 2
+impl shieahgf 3
+impl shbgbgdf 2
+impl sgjgbej 4
+6
+wait 7
+impl sdaeiha 1
+impl sfbfaaah 0
+impl sjfdjfjf 2
+impl sjdccede 4
+impl scadadgh 1
+6
+wait 7
+impl sdaeiha 0
+impl sjchhegi 2
+impl siehdfga 1
+impl siicebah 3
+impl shdahadg 1
+6
+wait 7
+impl sdaeiha 3
+impl sgciceji 1
+impl sjeihfgd 3
+impl siacdjde 4
+impl siifibhj 4
+6
+wait 7
+impl sdaeiha 4
+impl sbfeejgb 3
+impl scjgadeg 2
+impl sbjagfah 2
+impl sgjgbej 0
+6
+wait 7
+impl sdaeiha 2
+impl sgciceji 2
+impl sbfgdddf 2
+impl schibaja 0
+impl sccbjgdd 2
+6
+wait 7
+impl sgifbgfh 1
+impl segiajee 3
+impl sfiaaiai 4
+impl sbhjcdgh 1
+impl sbfhaibi 2
+6
+wait 7
+impl sgifbgfh 0
+impl segdjggd 3
+impl siebgdgd 2
+impl sibacbbd 0
+impl siafdcag 3
+6
+wait 7
+impl sgifbgfh 3
+impl sdaacfaf 1
+impl sjfaddhf 4
+impl sjihcfig 2
+impl sbfffebe 2
+6
+wait 7
+impl sgifbgfh 4
+impl sbhedchh 1
+impl sjafjedd 4
+impl sgdgdcii 4
+impl sbbddaa 2
+6
+wait 7
+impl sgifbgfh 2
+impl scaedegf 3
+impl sggbfhae 0
+impl sdhdffhg 0
+impl segbjdej 1
+6
+wait 7
+impl sdehgjae 1
+impl sbadjgfc 3
+impl shhiebai 3
+impl sbhjcdgh 3
+impl seahffae 3
+6
+wait 7
+impl sdehgjae 0
+impl sgbadbhd 3
+impl sfdbfecb 3
+impl sbbafig 3
+impl sbcaecja 0
+6
+wait 7
+impl sdehgjae 3
+impl sbdbjih 3
+impl sdgidbb 2
+impl sibghdfc 3
+impl sfdeehib 2
+6
+wait 7
+impl sdehgjae 4
+impl sddjbeih 4
+impl sbidbjbi 3
+impl segeiafi 4
+impl sgajbacd 0
+6
+wait 7
+impl sgbcjfce 1
+impl sbfeejgb 4
+impl sihbdeii 1
+impl sdidbefg 4
+impl sddjcjha 2
+6
+wait 7
+impl sgbcjfce 0
+impl shcbehei 1
+impl sgfdggdh 1
+impl sidfjiid 1
+impl sgffihac 4
+6
+wait 7
+impl sgbcjfce 3
+impl shjichie 2
+impl sihbdeii 4
+impl sejbhfe 1
+impl sfcdbbbc 3
+6
+wait 7
+impl sgbcjfce 4
+impl scaedegf 4
+impl shhiebai 4
+impl siachdfj 4
+impl sjbedifb 3
+6
+wait 7
+impl sgbcjfce 2
+impl secbjadg 1
+impl sgafdbef 1
+impl shegiefd 3
+impl scghiegc 4
+6
+wait 7
+impl sfbjabhd 1
+impl sjeffidj 3
+impl sgjgjgig 3
+impl sdihcdbd 0
+impl sbbfggfg 2
+6
+wait 7
+impl sfbjabhd 0
+impl sgciceji 0
+impl sfbcfceb 4
+impl shagifcj 4
+impl seceagd 0
+6
+wait 7
+impl sfbjabhd 3
+impl sgadjedf 2
+impl shhiebai 2
+impl siachdfj 2
+impl seceagd 3
+6
+wait 7
+impl sfbjabhd 4
+impl seagidh 0
+impl sebibfcj 1
+impl scbbaeie 2
+impl sgadeiij 2
+6
+wait 7
+impl sfbjabhd 2
+impl shjcabca 1
+impl sjchddbg 2
+impl schadahi 4
+impl sdcjfeje 2
+6
+wait 7
+impl shcejejb 1
+impl sjeffidj 0
+impl secifihi 1
+impl sgaabhfg 0
+impl sbdfaicf 3
+6
+wait 7
+impl shcejejb 0
+impl sddajcae 1
+impl sfieciih 1
+impl sggiahai 1
+impl seiiacii 0
+6
+wait 7
+impl shcejejb 3
+impl sbfeejgb 2
+impl sihgegeg 3
+impl sjgcdhab 0
+impl scfbdabj 1
+6
+wait 7
+impl shcejejb 4
+impl seagidh 1
+impl sigiifce 1
+impl scfjhjji 0
+impl sgadeiij 1
+6
+wait 7
+impl shcejejb 2
+impl sgadjedf 1
+impl sfjbdfbi 3
+impl sgigibjg 2
+impl sijhbgi 0
+6
+wait 7
+impl sghcfcfd 1
+impl sjddggcj 1
+impl sbidbjbi 4
+impl sbddcbcg 3
+impl shbjjafj 4
+6
+wait 7
+impl sghcfcfd 0
+impl sjbjffhj 1
+impl sihgegeg 4
+impl sjgcdhab 3
+impl sjibgiab 4
+6
+wait 7
+impl sghcfcfd 3
+impl sddajcae 0
+impl siefbhb 2
+impl sejadfhd 0
+impl sgdiegej 1
+6
+wait 7
+impl sghcfcfd 4
+impl sfdgefbd 0
+impl sjfaddhf 2
+impl shaiafid 2
+impl sgajbacd 3
+6
+wait 7
+impl sghcfcfd 2
+impl sddajcae 3
+impl sdjbhjjd 4
+impl sihfbfbj 3
+impl sgdfbgde 3
+6
+wait 7
+impl sbaejabb 1
+impl seagidh 3
+impl shadbgie 3
+impl segebead 3
+impl sijdeded 0
+6
+wait 7
+impl sbaejabb 0
+impl secbjadg 0
+impl sjifceei 4
+impl shhbijeh 0
+impl shjicibe 4
+6
+wait 7
+impl sbaejabb 3
+impl segdjggd 4
+impl shbccach 2
+impl sedcdfhg 2
+impl sbahdcdb 4
+6
+wait 7
+impl sbaejabb 4
+impl seaadgdd 4
+impl sgacaee 0
+impl shbjjhde 1
+impl sfghbehb 0
+6
+wait 7
+impl sbaejabb 2
+impl segdjggd 2
+impl sebffchc 4
+impl scecbgaj 1
+impl shbjjafj 2
+7
+wait 7
+impl seheabbi 1
+impl segiajee 4
+impl sigiifce 0
+impl sighicf 4
+impl sbficehi 2
+impl sbhheehb 1
+6
+wait 7
+impl seheabbi 0
+impl scefbejd 1
+impl sedfcjb 1
+impl sehfgig 2
+impl sjbdbgic 2
+6
+wait 7
+impl seheabbi 3
+impl sdaacfaf 0
+impl sjjcfhdb 3
+impl shhicjfa 4
+impl sjibgiab 2
+6
+wait 7
+impl seheabbi 4
+impl sbhedchh 0
+impl sihgegeg 2
+impl sbfaecii 2
+impl sijdeded 3
+6
+wait 7
+impl seheabbi 2
+impl sdaacfaf 3
+impl sdhhcfbi 4
+impl sfcabib 3
+impl siafdcag 4
+6
+wait 7
+impl siifjiah 1
+impl segiajee 1
+impl scjbfbf 0
+impl sejccchi 4
+impl sfhggggh 4
+6
+wait 7
+impl siifjiah 0
+impl scaedegf 2
+impl sfjceaef 3
+impl sgigibjg 0
+impl sbjdibdc 1
+6
+wait 7
+impl siifjiah 3
+impl seaadgdd 2
+impl scjhgjd 1
+impl shagifcj 2
+impl shacieai 2
+7
+wait 7
+impl siifjiah 4
+impl scehaiha 4
+impl sjiebjge 4
+impl sihbadad 4
+impl sigijdea 4
+impl sihheidi 0
+6
+wait 7
+impl siifjiah 2
+impl sebiefbj 1
+impl sjfagfci 1
+impl sejdaigd 1
+impl sfjebihc 2
+6
+wait 7
+impl sifbecjf 1
+impl sddajcae 4
+impl siacijed 1
+impl sibghdfc 4
+impl sjajefch 0
+6
+wait 7
+impl sifbecjf 0
+impl segiajee 2
+impl sfajfce 4
+impl sejccchi 2
+impl shahaajb 0
+7
+wait 7
+impl sifbecjf 3
+impl shcbehei 0
+impl sjjcfhdb 1
+impl sebjaiec 3
+impl sjeaafc 0
+impl siiefbja 4
+6
+wait 7
+impl sifbecjf 4
+impl scefbejd 2
+impl shedacai 4
+impl sghchecb 1
+impl scabdicc 4
+6
+wait 7
+impl sifbecjf 2
+impl shcbehei 3
+impl sbbjjehf 2
+impl sgfieide 4
+impl sbeddjbh 4
+6
+wait 7
+impl sgicjcbi 1
+impl sjbjffhj 0
+impl sedfcjb 4
+impl siebifg 4
+impl siegbfac 0
+6
+wait 7
+impl sgicjcbi 0
+impl seagidh 4
+impl sjfaddhf 1
+impl sgihacgi 0
+impl sgfibcbh 1
+6
+wait 7
+impl sgicjcbi 3
+impl seajffgj 1
+impl sigiifce 3
+impl scggahjg 0
+impl sdjhdbb 0
+6
+wait 7
+impl sgicjcbi 4
+impl sigijcdh 1
+impl sihbdeii 0
+impl sejadfhd 3
+impl sfhggggh 2
+6
+wait 7
+impl sgicjcbi 2
+impl seajffgj 0
+impl shadbgie 4
+impl sejdaigd 0
+impl sidbdgfe 3
+6
+wait 7
+impl sdigeegj 1
+impl seagidh 2
+impl sjgjccgg 1
+impl sdhdffhg 3
+impl sbeddjbh 2
+6
+wait 7
+impl sdigeegj 0
+impl secbjadg 3
+impl siacijed 0
+impl sefajcdd 2
+impl sdfeaifj 1
+7
+wait 7
+impl sdigeegj 3
+impl scefbejd 0
+impl sbbdfgic 4
+impl sjhdihh 0
+impl sebgjdfj 2
+impl shdigjjf 2
+6
+wait 7
+impl sdigeegj 4
+impl sebiefbj 0
+impl scbdaie 0
+impl shaffjba 3
+impl seggiejh 4
+6
+wait 7
+impl sdigeegj 2
+impl scefbejd 3
+impl scbdaie 3
+impl sbadfiih 4
+impl sijjfbcd 4
+6
+wait 7
+impl sbiceebf 1
+impl sfdgefbd 3
+impl sjgjccgg 0
+impl sgdgdcii 2
+impl sjhfbhbi 1
+6
+wait 7
+impl sbiceebf 0
+impl sigijcdh 0
+impl sjfagfci 4
+impl sceijjej 4
+impl scbhjhdh 0
+6
+wait 7
+impl sbiceebf 3
+impl shjichie 1
+impl siacihhc 4
+impl siicebah 4
+impl shdahadg 0
+6
+wait 7
+impl sbiceebf 4
+impl sdaacfaf 4
+impl sbcifgch 1
+impl scfjhjji 3
+impl sbjficec 1
+6
+wait 7
+impl sbiceebf 2
+impl shjichie 0
+impl sfajfce 2
+impl seejbih 3
+impl sieijbb 2
+6
+wait 7
+impl sjhibhgd 1
+impl sjddggcj 0
+impl sjgcbgfa 1
+impl sdidbefg 2
+impl sgffcgei 2
+6
+wait 7
+impl sjhibhgd 0
+impl sjbjffhj 3
+impl sjfaddhf 0
+impl sebgfibb 3
+impl siifbjg 4
+6
+wait 7
+impl sjhibhgd 3
+impl sddajcae 2
+impl sjifceei 2
+impl sidggdcc 3
+impl sjcjdeed 2
+6
+wait 7
+impl sjhibhgd 4
+impl sfdgefbd 4
+impl scagbfhd 4
+impl sfdcbeae 2
+impl sfaabfdc 1
+6
+wait 7
+impl sjhibhgd 2
+impl shbbbej 1
+impl sgbfjcej 1
+impl sfdghjbb 3
+impl sbaghcei 2
+6
+wait 7
+impl sjdfihb 1
+impl sgbadbhd 4
+impl shdeeiag 4
+impl sjidcfcb 1
+impl sgffcgei 1
+6
+wait 7
+impl sjdfihb 0
+impl sdbijbdh 4
+impl sjjbghai 2
+impl sgdgdcii 1
+impl sjbedifb 4
+6
+wait 7
+impl sjdfihb 3
+impl sdfcfda 4
+impl sihbhgfj 0
+impl sdfeecga 2
+impl schjeejj 1
+6
+wait 7
+impl sjdfihb 4
+impl sbjhgebg 2
+impl sigiebg 1
+impl siheaehc 2
+impl sgffcgei 0
+6
+wait 7
+impl sjdfihb 2
+impl sdfcfda 2
+impl sihbhgfj 1
+impl seaghdji 4
+impl sbjhbcjg 0
+6
+wait 7
+impl sjjghcie 1
+impl sdejeagd 1
+impl sfbcfceb 1
+impl sbgbdegc 1
+impl sebfahfh 0
+6
+wait 7
+impl sjjghcie 0
+impl sfgadabi 2
+impl siehdfga 0
+impl sgfieide 2
+impl scfbdabj 0
+6
+wait 7
+impl sjjghcie 3
+impl shcadfbf 2
+impl sgjgjgig 4
+impl sdhggejc 2
+impl scbhjhdh 3
+6
+wait 7
+impl sjjghcie 4
+impl sjddggcj 3
+impl sjgcbgfa 0
+impl sjacbjcc 0
+impl sccjfcfi 1
+6
+wait 7
+impl sjjghcie 2
+impl sfgadabi 1
+impl siihdcac 0
+impl sgihacgi 3
+impl sidhhdhi 0
+6
+wait 7
+impl schjebce 1
+impl sdigjgce 0
+impl secijfjh 1
+impl sdihcdbd 3
+impl sjiecdh 4
+6
+wait 7
+impl schjebce 0
+impl sdejeagd 2
+impl sdhffia 1
+impl sgaabhfg 3
+impl sjdafgga 1
+6
+wait 7
+impl schjebce 3
+impl sgfadchh 3
+impl siefbhb 3
+impl sdbadjba 4
+impl sijcbgfi 4
+6
+wait 7
+impl schjebce 4
+impl sbjhgebg 3
+impl sjdeeijb 4
+impl sjgfcf 2
+impl sgfibcbh 2
+6
+wait 7
+impl schjebce 2
+impl sgfadchh 4
+impl sdhbbgef 2
+impl schadahi 2
+impl sjdafgga 0
+6
+wait 7
+impl sggfafhg 1
+impl sdjbbghf 1
+impl sbgefccg 1
+impl segfddjh 1
+impl sbebjibi 0
+6
+wait 7
+impl sggfafhg 0
+impl sfbfaaah 2
+impl sgafdbef 0
+impl sejiahib 2
+impl sdiheiia 4
+6
+wait 7
+impl sggfafhg 3
+impl sjddggcj 4
+impl sgfdggdh 0
+impl siccbeee 4
+impl sjcdbghf 2
+6
+wait 7
+impl sggfafhg 4
+impl sjeffidj 1
+impl sihbhgfj 3
+impl sgidejij 2
+impl sijhbgi 3
+6
+wait 7
+impl sggfafhg 2
+impl sjddggcj 2
+impl sgfdggdh 3
+impl sdbadjba 2
+impl sibcgece 2
+6
+wait 7
+impl sjjiace 1
+impl shcadfbf 1
+impl sjjbghai 4
+impl shaiafid 3
+impl sdcaggji 4
+6
+wait 7
+impl sjjiace 0
+impl shjfiffh 3
+impl sihbhgfj 4
+impl sebcacbj 4
+impl sgfibcbh 0
+6
+wait 7
+impl sjjiace 3
+impl sjbjffhj 2
+impl sceedfed 1
+impl sejbhfe 3
+impl sihchgii 2
+6
+wait 7
+impl sjjiace 4
+impl shjcabca 0
+impl sjifceei 1
+impl sjbfgdgj 4
+impl sibebfi 2
+6
+wait 7
+impl sjjiace 2
+impl sjchhegi 1
+impl sfiaaiai 2
+impl sejadfhd 4
+impl scgchfah 3
+6
+wait 7
+impl sbggacji 1
+impl sbadjgfc 2
+impl siacihhc 1
+impl sbcjeied 4
+impl scabdicc 1
+6
+wait 7
+impl sbggacji 0
+impl sjdjjjhb 0
+impl shdeeiag 2
+impl sjidcfcb 4
+impl sibjehd 1
+6
+wait 7
+impl sbggacji 3
+impl sdigjgce 3
+impl shjhgefj 0
+impl sgihacgi 4
+impl sgdfbgde 2
+6
+wait 7
+impl sbggacji 4
+impl secdgbaf 4
+impl sgacaee 2
+impl sjigahef 3
+impl siifibhj 0
+6
+wait 7
+impl sbggacji 2
+impl sdigjgce 4
+impl sbidbjbi 2
+impl seeiigcj 3
+impl sbdiggcg 3
+6
+wait 7
+impl siadeafj 1
+impl shcadfbf 0
+impl schbdehe 3
+impl sidfjiid 2
+impl sgjgbej 2
+6
+wait 7
+impl siadeafj 0
+impl shjfiffh 4
+impl sfjbdfbi 4
+impl shbjjhde 3
+impl sihchgii 0
+6
+wait 7
+impl siadeafj 3
+impl sjchhegi 0
+impl seehgagf 0
+impl scbbaeie 1
+impl sjhfbhbi 0
+6
+wait 7
+impl siadeafj 4
+impl shjcabca 3
+impl sgbfjcej 0
+impl sbjagfah 0
+impl sjdafgga 3
+6
+wait 7
+impl siadeafj 2
+impl sjchhegi 3
+impl shadbgie 2
+impl scfjhjji 4
+impl sbjficec 0
+6
+wait 7
+impl sjgggegd 1
+impl shccbhdh 1
+impl sddcjeaj 4
+impl sjedbgcd 1
+impl sbaidbjh 0
+6
+wait 7
+impl sjgggegd 0
+impl scjeiafe 0
+impl sjifceei 0
+impl sfigifda 4
+impl sbihgbeg 0
+6
+wait 7
+impl sjgggegd 3
+impl sfhegjga 4
+impl siachhgf 4
+impl sebjjdce 4
+impl sejcijhg 0
+6
+wait 7
+impl sjgggegd 4
+impl scigiefc 2
+impl scecigbb 2
+impl shbijjad 0
+impl scdjdegj 4
+6
+wait 7
+impl sjgggegd 2
+impl sfhegjga 2
+impl scjcgihg 1
+impl sdfdeadj 3
+impl sddhihdf 2
+6
+wait 7
+impl seaeheaa 0
+impl sfgadabi 4
+impl siehdfga 3
+impl shaffjba 4
+impl sjdceaib 0
+6
+wait 7
+impl seaeheaa 3
+impl shcadfbf 3
+impl sggbfhae 3
+impl scbbaeie 0
+impl sdjhdbb 3
+6
+wait 7
+impl seaeheaa 4
+impl sjeffidj 4
+impl siacihhc 2
+impl siebifg 2
+impl sbaghcei 1
+6
+wait 7
+impl seaeheaa 2
+impl shcadfbf 4
+impl sceaejee 3
+impl sgjdadie 4
+impl sbjdibdc 4
+6
+wait 7
+impl sdhiegib 1
+impl shjfiffh 2
+impl sjdeeijb 2
+impl sibcdhff 4
+impl sddhihdf 1
+6
+wait 7
+impl sdhiegib 0
+impl shjcabca 4
+impl seaffdga 3
+impl sicfbcdf 1
+impl siifbjg 2
+6
+wait 7
+impl sdhiegib 3
+impl sfdgefbd 2
+impl sceedfed 0
+impl seejbih 0
+impl sjbedifb 2
+6
+wait 7
+impl sdhiegib 4
+impl seajffgj 3
+impl sedfcjb 0
+impl seagajei 4
+impl sbdiggcg 4
+6
+wait 7
+impl sdhiegib 2
+impl sbfeejgb 1
+impl sjcjacca 1
+impl sbbafig 4
+impl sbcaecja 3
+6
+wait 7
+impl sgfhcdfh 1
+impl sdjfaebg 0
+impl siajbfic 4
+impl sgdgdcii 0
+impl sidfejia 2
+6
+wait 7
+impl sgfhcdfh 0
+impl sdejeagd 0
+impl scdgefie 4
+impl sejbhfe 4
+impl shacieai 1
+6
+wait 7
+impl sgfhcdfh 3
+impl sdjbbghf 4
+impl sfifcddd 4
+impl sefajcdd 1
+impl sfjjhhea 4
+6
+wait 7
+impl sgfhcdfh 4
+impl sbjhgebg 1
+impl seaffdga 4
+impl sicfbcdf 0
+impl shbfiaad 4
+6
+wait 7
+impl sgfhcdfh 2
+impl sdjbbghf 2
+impl schidfca 3
+impl sfjighe 4
+impl sibebfi 1
+5
+wait 7
+impl sddccjjj 1
+impl sghbcfci 1
+impl segfahjb 1
+impl sfifghfc 0
+6
+wait 7
+impl sddccjjj 0
+impl scddfbe 3
+impl sbgefccg 0
+impl shbieaid 3
+impl siigjhge 1
+6
+wait 7
+impl sddccjjj 3
+impl sddhaifh 3
+impl seffbejd 2
+impl siacdjde 2
+impl siifibhj 2
+6
+wait 7
+impl sddccjjj 4
+impl scjeiafe 3
+impl sjifceei 3
+impl shhbijeh 3
+impl sjcjdeed 3
+6
+wait 7
+impl sddccjjj 2
+impl sddhaifh 4
+impl sgidaidb 0
+impl segibjfe 1
+impl sbbahicd 1
+6
+wait 7
+impl sbaegccg 1
+impl sfhegjga 1
+impl sgihjihi 3
+impl sfegfajb 3
+impl sejejdd 1
+6
+wait 7
+impl sbaegccg 0
+impl sbadjgfc 4
+impl shjhgefj 3
+impl sejadfhd 2
+impl sfaabfdc 0
+6
+wait 7
+impl sbaegccg 4
+impl sjdjjjhb 3
+impl schcggjg 1
+impl sjbjeich 2
+impl sdiheiia 2
+6
+wait 7
+impl siajbdbb 1
+impl sdejeagd 3
+impl sfdbfecb 4
+impl sbbafig 2
+impl sfaabfdc 3
+6
+wait 7
+impl siajbdbb 0
+impl sbjhgebg 0
+impl shieahgf 4
+impl sfajaedg 3
+impl sgafhfh 0
+6
+wait 7
+impl siajbdbb 3
+impl sfgadabi 0
+impl sebibfcj 3
+impl scfjhjji 2
+impl sbjjahjf 1
+6
+wait 7
+impl siajbdbb 4
+impl sfbfaaah 3
+impl sfbefbgj 3
+impl sgaabhfg 4
+impl sjhfbhbi 3
+6
+wait 7
+impl siajbdbb 2
+impl sfgadabi 3
+impl sedfcjb 2
+impl siicbbgj 1
+impl sijdeded 4
+6
+wait 7
+impl sbddfede 1
+impl sbdbjih 4
+impl sgidaidb 3
+impl sjidcfcb 2
+impl sibjehd 0
+6
+wait 7
+impl sbddfede 0
+impl sdbijbdh 1
+impl sdhbbgef 1
+impl segibjfe 4
+impl sgdiegej 3
+6
+wait 7
+impl sbddfede 3
+impl sgfadchh 1
+impl sfbefbgj 4
+impl shbjjhde 4
+impl sbjdibdc 2
+6
+wait 7
+impl sbddfede 4
+impl sbjhgebg 4
+impl siajbfic 1
+impl siccbeee 2
+impl sgffihac 2
+6
+wait 7
+impl sbddfede 2
+impl sgfadchh 0
+impl sfifcddd 2
+impl sefajcdd 0
+impl sbebjibi 3
+6
+wait 7
+impl sigcjei 1
+impl sfbfaaah 1
+impl shfghbcc 2
+impl sibcdhff 2
+impl sgfibcbh 3
+6
+wait 7
+impl sigcjei 0
+impl shjfiffh 1
+impl sjhjajhg 1
+impl scedjcad 1
+impl sbjcaedg 0
+6
+wait 7
+impl sigcjei 3
+impl shbbbej 0
+impl sfdbfecb 2
+impl sdhdffhg 4
+impl siafdcag 2
+6
+wait 7
+impl sigcjei 4
+impl sgadjedf 0
+impl sfjceaef 2
+impl schibaja 3
+impl sibebfi 0
+6
+wait 7
+impl sigcjei 2
+impl shbbbej 3
+impl sihbhgfj 2
+impl sdhdhddg 4
+impl sfcdbbbc 4
+6
+wait 7
+impl shjeiehj 1
+impl sjihfgec 3
+impl sifjgbac 3
+impl sjacbjcc 3
+impl scgchfah 4
+6
+wait 7
+impl shjeiehj 0
+impl sbdbjih 2
+impl schidfca 4
+impl sjdccede 2
+impl sidgedag 1
+6
+wait 7
+impl shjeiehj 3
+impl sddjbeih 2
+impl sjfgbjdd 4
+impl sbjccida 1
+impl sfghbehb 3
+6
+wait 7
+impl shjeiehj 4
+impl sdbijbdh 0
+impl scigeecc 4
+impl sjdfichj 1
+impl seceagd 1
+6
+wait 7
+impl shjeiehj 2
+impl secdgbaf 1
+impl sjeihfgd 4
+impl sddigebe 1
+impl sbihgbeg 3
+6
+wait 7
+impl shigfdjj 1
+impl sgddcadd 1
+impl sbiddbhe 1
+impl sdbefbic 4
+impl schecehg 0
+6
+wait 7
+impl shigfdjj 0
+impl sjihfgec 2
+impl siajbfic 2
+impl shfcbced 0
+impl sjfedaji 1
+6
+wait 7
+impl shigfdjj 3
+impl sjdjjjhb 4
+impl sfjbdfbi 1
+impl sjfiefh 3
+impl sjiabdid 1
+6
+wait 7
+impl shigfdjj 4
+impl sdigjgce 2
+impl schjbhhc 1
+impl sifehif 1
+impl sfaabfdc 4
+6
+wait 7
+impl shigfdjj 2
+impl sjdjjjhb 2
+impl sfjbdfbi 2
+impl schibaja 4
+impl sbighdad 1
+6
+wait 7
+impl sedggfde 1
+impl scheieaf 0
+impl secbeegb 2
+impl scggiiib 3
+impl schecehg 3
+6
+wait 7
+impl sedggfde 0
+impl sghbcfci 0
+impl sbejicdd 4
+impl sidggdcc 4
+impl sccehccd 3
+6
+wait 7
+impl sedggfde 3
+impl shccbhdh 2
+impl seffbejd 1
+impl scdgadgb 0
+impl shdbejaf 3
+6
+wait 7
+impl sedggfde 4
+impl scddfbe 4
+impl sidfeeah 0
+impl siheaehc 3
+impl sbbifbji 1
+6
+wait 7
+impl sedggfde 2
+impl sjeigjb 1
+impl scdhfbed 3
+impl sciccchi 3
+impl sbcbcdhh 2
+6
+wait 7
+impl sfgbdeei 1
+impl sfdjfei 4
+impl scjbfbf 3
+impl sjdfichj 0
+impl scgahjhi 1
+6
+wait 7
+impl sfgbdeei 0
+impl sgbadbhd 2
+impl sdhffia 0
+impl scgfiggd 0
+impl sgdiegej 4
+6
+wait 7
+impl sfgbdeei 3
+impl sdjfaebg 3
+impl sggbfhae 4
+impl shfcbced 2
+impl sjdafgga 4
+6
+wait 7
+impl sfgbdeei 4
+impl secdgbaf 0
+impl sdhbbgef 0
+impl sfigifda 2
+impl sbihgbeg 4
+6
+wait 7
+impl sfgbdeei 2
+impl sdjfaebg 4
+impl secijfjh 2
+impl siaiaibc 4
+impl scjcfach 1
+6
+wait 7
+impl sdbeebij 1
+impl sgbadbhd 1
+impl sfbcfceb 2
+impl sbhbfbic 2
+impl sdfeaifj 0
+6
+wait 7
+impl sdbeebij 0
+impl sdbijbdh 2
+impl schcggjg 0
+impl sjfiefh 4
+impl sccehccd 4
+6
+wait 7
+impl sdbeebij 3
+impl sgfadchh 2
+impl sdjbhjjd 0
+impl sefegb 1
+impl sbjcaedg 2
+6
+wait 7
+impl sdbeebij 4
+impl sdjbbghf 0
+impl seffbejd 0
+impl sggiahai 0
+impl sebfahfh 3
+6
+wait 7
+impl sdbeebij 2
+impl sdfcfda 1
+impl sdhbbgef 3
+impl sejhccjd 3
+impl sdfabbhc 0
+6
+wait 7
+impl sbhgcchg 1
+impl sbeaabfi 2
+impl sdhffia 3
+impl sgihacgi 2
+impl sfghbehb 4
+6
+wait 7
+impl sbhgcchg 0
+impl sgibdhij 2
+impl sddcbijb 4
+impl sfjighe 2
+impl sibebfi 3
+6
+wait 7
+impl sbhgcchg 3
+impl scheieaf 3
+impl sbejicdd 2
+impl sebbegej 4
+impl shahaajb 3
+6
+wait 7
+impl sbhgcchg 4
+impl sfaiegbe 4
+impl sbajfdea 0
+impl sbgdecib 4
+impl sfcggbhj 0
+6
+wait 7
+impl sbhgcchg 2
+impl scheieaf 4
+impl secdjgaj 4
+impl sfjdjbai 3
+impl sccjfcfi 2
+6
+wait 7
+impl shhgdhig 1
+impl sgdebiii 3
+impl scjbfbf 4
+impl segebead 4
+impl scbhjhdh 4
+6
+wait 7
+impl shhgdhig 0
+impl shcaicjd 3
+impl sigiebg 0
+impl schibaja 2
+impl sjiahceh 2
+6
+wait 7
+impl shhgdhig 3
+impl scjeiafe 2
+impl sjhjajhg 0
+impl sefegb 2
+impl sdiheiia 1
+6
+wait 7
+impl shhgdhig 4
+impl sbjdfiid 4
+impl sigiebg 3
+impl sdagdeha 4
+impl sfhggggh 1
+6
+wait 7
+impl shhgdhig 2
+impl sddhaifh 1
+impl shfghbcc 1
+impl sgfcgcfb 0
+impl sggadbdf 3
+6
+wait 7
+impl segjeieg 1
+impl sbjdfiid 1
+impl scdgefie 1
+impl scgfiggd 3
+impl sjjcjgda 1
+6
+wait 7
+impl segjeieg 0
+impl scigiefc 1
+impl sjhfgcaf 4
+impl sgidejij 1
+impl sbbifbji 4
+6
+wait 7
+impl segjeieg 3
+impl sfdjfei 1
+impl seaffdga 2
+impl sidfjiid 0
+impl sbcaecja 4
+6
+wait 7
+impl segjeieg 4
+impl sjihfgec 1
+impl scdgefie 0
+impl sjacbjcc 2
+impl sffehifh 3
+6
+wait 7
+impl segjeieg 2
+impl sfdjfei 0
+impl sfajjbah 1
+impl sgfhgeeh 1
+impl sijcdgee 1
+6
+wait 7
+impl scbddbgf 1
+impl sjihfgec 0
+impl sifjgbac 4
+impl sfdghjbb 4
+impl sbjficec 4
+6
+wait 7
+impl scbddbgf 0
+impl sdjfaebg 2
+impl secifihi 0
+impl scgfiggd 2
+impl sjjcjgda 0
+6
+wait 7
+impl scbddbgf 3
+impl sddjbeih 1
+impl sifjgbac 2
+impl sbjccida 0
+impl sgafhfh 3
+6
+wait 7
+impl scbddbgf 4
+impl sdejeagd 4
+impl schcggjg 3
+impl sjcajeef 1
+impl sgfhdffa 2
+6
+wait 7
+impl scbddbgf 2
+impl sddjbeih 0
+impl secijfjh 0
+impl seeiigcj 1
+impl sbbddaa 1
+6
+wait 7
+impl sdbidffc 1
+impl sddbdhjj 1
+impl sgafdbef 3
+impl sidigb 1
+impl sfcfhdcd 4
+6
+wait 7
+impl sdbidffc 0
+impl scheieaf 2
+impl secdjgaj 2
+impl sjfibbaa 1
+impl sddjcjha 0
+6
+wait 7
+impl sdbidffc 3
+impl sggahbia 4
+impl schidfca 2
+impl sibghdfc 2
+impl sfcdbbbc 2
+6
+wait 7
+impl sdbidffc 4
+impl sghbcfci 3
+impl sbfjgaei 1
+impl sjbfbdhh 2
+impl sjeaefjj 0
+6
+wait 7
+impl sdbidffc 2
+impl sfaiegbe 1
+impl scdhfbed 4
+impl sediaehb 4
+impl sijgdegb 3
+6
+wait 7
+impl sdgajg 1
+impl sfdjfei 2
+impl schbdehe 4
+impl sdagdeha 0
+impl sgffihac 1
+6
+wait 7
+impl sdgajg 0
+impl sjdjjjhb 1
+impl siacijed 3
+impl sfjdjbai 4
+impl sjbdbgic 0
+6
+wait 7
+impl sdgajg 3
+impl sbdbjih 1
+impl siachhgf 1
+impl sfagifeh 2
+impl sbebjibi 4
+6
+wait 7
+impl sdgajg 4
+impl secdgbaf 3
+impl sgbfjcej 3
+impl seejbih 4
+impl sidfejia 4
+6
+wait 7
+impl sdgajg 2
+impl sbdbjih 0
+impl sfieciih 0
+impl sfgecebh 2
+impl shgbahb 0
+5
+wait 7
+impl sffbfbhj 1
+impl sfaiegbe 2
+impl sdbigbjc 1
+impl scjeaebb 2
+6
+wait 7
+impl sffbfbhj 0
+impl sjeigjb 0
+impl sjgfibf 3
+impl sihfbfbj 4
+impl sbbahicd 0
+6
+wait 7
+impl sffbfbhj 3
+impl scddfbe 2
+impl sfaegjb 1
+impl segfddjh 0
+impl shjicibe 2
+6
+wait 7
+impl sffbfbhj 4
+impl sddhaifh 2
+impl sdgidbb 3
+impl sighffbj 2
+impl sgffcgei 3
+6
+wait 7
+impl sffbfbhj 2
+impl sfffdheb 1
+impl sgbhdfg 1
+impl sdffebgd 1
+impl sdiheiia 0
+5
+wait 7
+impl sefehgab 1
+impl sjfbhajh 1
+impl shdifgae 1
+impl sebcdhg 1
+6
+wait 7
+impl sefehgab 0
+impl sfeifchb 0
+impl sbicfijd 1
+impl scggiiib 4
+impl sgaejhje 1
+6
+wait 7
+impl sefehgab 3
+impl shgagcii 2
+impl secbeegb 0
+impl sjffhdjf 1
+impl sgfibcbh 4
+6
+wait 7
+impl sefehgab 4
+impl scheieaf 1
+impl shgfdjb 2
+impl sgehfggd 4
+impl sdfabbhc 3
+6
+wait 7
+impl sefehgab 2
+impl sdaeebic 1
+impl seiiebid 4
+impl sbjecbeb 2
+impl sdiheiia 3
+6
+wait 7
+impl sjafafhh 1
+impl sjfbhajh 2
+impl sfigichb 4
+impl sjdccede 1
+impl sefhjdc 2
+6
+wait 7
+impl sjafafhh 0
+impl sddbdhjj 0
+impl sdjbhjjd 3
+impl sihfbfbj 1
+impl scdejehb 1
+6
+wait 7
+impl sjafafhh 3
+impl sgibdhij 1
+impl siebdfhg 2
+impl sjfiefh 2
+impl scdejehb 0
+6
+wait 7
+impl sjafafhh 4
+impl shgagcii 1
+impl sibageea 1
+impl sfifghfc 3
+impl sbfbehae 3
+6
+wait 7
+impl sjafafhh 2
+impl sgibdhij 0
+impl sbajfdea 3
+impl sjccgebi 3
+impl shicgefd 1
+6
+wait 7
+impl sbjecigf 1
+impl sgbadbhd 0
+impl sgacaee 3
+impl sdagdeha 2
+impl sjhfbhbi 4
+6
+wait 7
+impl sbjecigf 0
+impl sddjbeih 3
+impl siacihhc 0
+impl siiffjha 2
+impl sdaejcgc 3
+6
+wait 7
+impl sbjecigf 3
+impl sdfcfda 0
+impl sgacaee 4
+impl sjigahef 4
+impl sdfaejhb 3
+6
+wait 7
+impl sbjecigf 4
+impl sdjbbghf 3
+impl seffbejd 3
+impl sjffhdjf 0
+impl sdfaejhb 4
+6
+wait 7
+impl sbjecigf 2
+impl sdfcfda 3
+impl sdhffia 2
+impl sdbadjba 1
+impl sjbdbgic 3
+6
+wait 7
+impl shijidi 1
+impl sbjdfiid 2
+impl shieahgf 2
+impl sicfbcdf 3
+impl shdahadg 3
+6
+wait 7
+impl shijidi 3
+impl sbadjgfc 1
+impl sigiebg 4
+impl sjigahef 1
+impl sjiabdid 0
+6
+wait 7
+impl shijidi 4
+impl sjihfgec 4
+impl sggbfhae 2
+impl shfcbced 3
+impl sgffihac 0
+6
+wait 7
+impl shijidi 2
+impl sbadjgfc 0
+impl sceaejee 1
+impl scgfiggd 1
+impl sjfedaji 3
+6
+wait 7
+impl sifjfaid 1
+impl sdbfdaje 4
+impl sjeihfgd 2
+impl seaghdji 1
+impl sbihgbeg 2
+6
+wait 7
+impl sifjfaid 0
+impl sddbdhjj 2
+impl siacijed 4
+impl sidggdcc 1
+impl sibggafa 3
+6
+wait 7
+impl sifjfaid 3
+impl sfeifchb 3
+impl seijhadh 1
+impl scdgadgb 3
+impl sgaejhje 0
+6
+wait 7
+impl sifjfaid 4
+impl sgibdhij 3
+impl scccaahd 0
+impl sfgecebh 1
+impl siiefbja 0
+6
+wait 7
+impl sifjfaid 2
+impl sfeifchb 4
+impl sbfjgaei 0
+impl sciccchi 4
+impl sfcfhdcd 1
+6
+wait 7
+impl sgbaebfg 1
+impl shhaahdg 2
+impl sddcbijb 1
+impl sidigb 0
+impl schjeejj 0
+6
+wait 7
+impl sgbaebfg 0
+impl schfagdd 4
+impl sgbfjcej 4
+impl shdeaedc 1
+impl sbdiggcg 2
+6
+wait 7
+impl sgbaebfg 3
+impl sdbfdaje 2
+impl sfbefbgj 2
+impl shbgbgdf 3
+impl shahaajb 4
+6
+wait 7
+impl sgbaebfg 4
+impl sjddabgj 1
+impl sjhhcigi 3
+impl sibfegfc 0
+impl sbaidbjh 3
+6
+wait 7
+impl sgbaebfg 2
+impl sicgggbd 1
+impl seibeedd 1
+impl sjccgebi 4
+impl siiefbja 2
+6
+wait 7
+impl sjhbahbi 1
+impl seahdibj 1
+impl sjhhcigi 0
+impl sdbefbic 2
+impl sfbgcdfi 3
+6
+wait 7
+impl sjhbahbi 0
+impl shgagcii 0
+impl sfidcaee 3
+impl sjbjeich 3
+impl sfcfhdcd 2
+6
+wait 7
+impl sjhbahbi 3
+impl sdgebbaf 1
+impl scdgefie 3
+impl sdhdffhg 2
+impl sdcaggji 3
+6
+wait 7
+impl sjhbahbi 2
+impl sdgebbaf 0
+impl sjjbghai 1
+impl siccbeee 1
+impl sehechhh 1
+6
+wait 7
+impl sfabcdgh 1
+impl sicgggbd 0
+impl sdbjidge 0
+impl sdfeecga 1
+impl sgaejhje 3
+6
+wait 7
+impl sfabcdgh 0
+impl seahdibj 0
+impl sgbhedbe 4
+impl sjffhdjf 4
+impl sgafhfh 1
+6
+wait 7
+impl sfabcdgh 3
+impl sfeifchb 2
+impl siddbedb 4
+impl shhbijeh 4
+impl scdejehb 3
+6
+wait 7
+impl sfabcdgh 4
+impl sdaeebic 0
+impl segfahjb 0
+impl sjccgebi 2
+impl sfbfhddd 0
+6
+wait 7
+impl sfabcdgh 2
+impl sdebcijc 1
+impl sjchddbg 3
+impl sidggdcc 0
+impl sjdgfcfg 0
+6
+wait 7
+impl sedabjbc 1
+impl sfdjfei 3
+impl siajbfic 3
+impl shaiafid 4
+impl sgghcgif 1
+6
+wait 7
+impl sedabjbc 0
+impl sdigjgce 1
+impl sjdeeijb 1
+impl scggiiib 2
+impl sfbgcdfi 4
+6
+wait 7
+impl sedabjbc 3
+impl secdgbaf 2
+impl scjhgjd 0
+impl sdfeecga 0
+impl scdjdegj 2
+6
+wait 7
+impl sedabjbc 4
+impl sdbijbdh 3
+impl sfdbfecb 1
+impl sicfbcdf 4
+impl scbhjhdh 2
+6
+wait 7
+impl sedabjbc 2
+impl sdjfaebg 1
+impl seaffdga 1
+impl sjcajeef 3
+impl seaecbii 1
+6
+wait 7
+impl scdedcgd 1
+impl sdebcijc 0
+impl siacijed 2
+impl sebbegej 2
+impl sfaabfdc 2
+6
+wait 7
+impl scdedcgd 0
+impl sdgebbaf 3
+impl sigiebg 2
+impl scgfiggd 4
+impl sbbddaa 0
+6
+wait 7
+impl scdedcgd 3
+impl sgejfdcg 4
+impl sjaghhee 0
+impl sjebhahc 3
+impl siggfjed 2
+6
+wait 7
+impl scdedcgd 4
+impl sjeigjb 3
+impl seijhadh 0
+impl sjffhdjf 2
+impl sbjhbcjg 3
+6
+wait 7
+impl scdedcgd 2
+impl sgejfdcg 2
+impl sbiddbhe 0
+impl sigiajgj 3
+impl sejcijhg 3
+6
+wait 7
+impl sibdjica 1
+impl sfaiegbe 0
+impl sdbajbaj 0
+impl sfagifeh 3
+impl seiiacii 2
+6
+wait 7
+impl sibdjica 0
+impl shccbhdh 0
+impl sfieciih 3
+impl sihfbfbj 2
+impl sbbifbji 2
+6
+wait 7
+impl sibdjica 3
+impl shcaicjd 4
+impl scjbfbf 2
+impl sdihcdbd 4
+impl shgggbbj 3
+6
+wait 7
+impl sibdjica 4
+impl sddhaifh 0
+impl sfbefbgj 1
+impl sefajcdd 3
+impl sefhjdc 1
+6
+wait 7
+impl sibdjica 2
+impl shcaicjd 2
+impl schbdehe 2
+impl sjigahef 0
+impl sjajefch 3
+6
+wait 7
+impl sbhghccb 1
+impl sggahbia 1
+impl sgbhdfg 0
+impl segibjfe 2
+impl sffbehea 3
+6
+wait 7
+impl sbhghccb 0
+impl sfffdheb 0
+impl sfieciih 2
+impl seihdhag 1
+impl sidgedag 0
+6
+wait 7
+impl sbhghccb 3
+impl shcaicjd 1
+impl scigeecc 1
+impl sbjccida 3
+impl sijcdgee 0
+6
+wait 7
+impl sbhghccb 4
+impl scjeiafe 4
+impl sbfgdddf 1
+impl sjgfcf 1
+impl sibggafa 4
+6
+wait 7
+impl sbhghccb 2
+impl shcaicjd 0
+impl sjdeeijb 0
+impl sfehjejb 3
+impl sbaggfda 0
+6
+wait 7
+impl sigceidi 1
+impl scddfbe 1
+impl sgjbidi 4
+impl sddigebe 0
+impl scadadgh 0
+6
+wait 7
+impl sigceidi 0
+impl sbjdfiid 0
+impl shdeeiag 1
+impl sddigebe 3
+impl sdgiadhg 1
+6
+wait 7
+impl sigceidi 3
+impl sgddcadd 0
+impl seaahfjj 0
+impl sgigibjg 3
+impl sijhbgi 4
+6
+wait 7
+impl sigceidi 4
+impl scigiefc 0
+impl siachhgf 0
+impl shegiefd 2
+impl sjabdcb 4
+6
+wait 7
+impl sigceidi 2
+impl sgddcadd 3
+impl scjcgihg 2
+impl sebjjdce 2
+impl sejcijhg 4
+6
+wait 7
+impl sdcedajj 1
+impl seahdibj 3
+impl sbicfijd 0
+impl sfegfajb 4
+impl sbighdad 0
+6
+wait 7
+impl sdcedajj 0
+impl shgagcii 3
+impl shdhcdjb 1
+impl sbedhfi 1
+impl sfecijai 0
+6
+wait 7
+impl sdcedajj 3
+impl sdgebbaf 4
+impl shhjbbaj 1
+impl sifehif 0
+impl sbfhaibi 1
+6
+wait 7
+impl sdcedajj 4
+impl sghbcfci 4
+impl scccaahd 3
+impl seihdhag 0
+impl sdgiadhg 0
+6
+wait 7
+impl sdcedajj 2
+impl sdgebbaf 2
+impl shhjbbaj 0
+impl sejdaigd 3
+impl sgghcgif 2
+6
+wait 7
+impl scghcdeg 1
+impl sigjbhfd 0
+impl sgihjihi 4
+impl sjcajeef 4
+impl sejejdd 0
+6
+wait 7
+impl scghcdeg 0
+impl sfgbefgd 1
+impl seibeedd 0
+impl sbgbdegc 0
+impl sddhihdf 0
+6
+wait 7
+impl scghcdeg 3
+impl sbiaacd 1
+impl sgibach 4
+impl scedjcad 0
+impl sbaggfda 3
+6
+wait 7
+impl scghcdeg 4
+impl sgdfhddf 2
+impl secdjgaj 1
+impl sdfeecga 3
+impl schjeejj 3
+6
+wait 7
+impl scghcdeg 2
+impl sbiaacd 0
+impl sgidaidb 4
+impl sjcajeef 2
+impl sejejdd 2
+6
+wait 7
+impl sehchcje 1
+impl sfgbefgd 4
+impl segfahjb 3
+impl sbgbdegc 2
+impl sidgedag 3
+6
+wait 7
+impl sehchcje 0
+impl shhaahdg 1
+impl sbicfijd 3
+impl sibcdhff 1
+impl sbcbcdhh 3
+6
+wait 7
+impl sehchcje 3
+impl sbjghbcf 0
+impl sddcbijb 0
+impl shihcdid 4
+impl sfghbehb 1
+6
+wait 7
+impl sehchcje 4
+impl schfagdd 2
+impl sdhbbgef 4
+impl sidggdcc 2
+impl scdejehb 4
+6
+wait 7
+impl sehchcje 2
+impl sbjghbcf 3
+impl scjcgihg 0
+impl scdgadgb 4
+impl sbaggfda 4
+6
+wait 7
+impl scbjchic 1
+impl sbecbdg 1
+impl shbiaedh 3
+impl siccbhce 1
+impl siigjhge 2
+6
+wait 7
+impl scbjchic 0
+impl shceaigi 1
+impl scaegdd 4
+impl sbedhfi 2
+impl sgaejhje 4
+6
+wait 7
+impl scbjchic 3
+impl sicgggbd 3
+impl sjefiggh 4
+impl sejiahib 1
+impl seejghge 3
+6
+wait 7
+impl scbjchic 4
+impl sjfbhajh 0
+impl sbjghcci 3
+impl sgdgdbgc 3
+impl scabdaha 3
+6
+wait 7
+impl scbjchic 2
+impl sicgggbd 4
+impl sgbhedbe 1
+impl sediaehb 0
+impl shcgdagd 2
+6
+wait 7
+impl sccehjgj 1
+impl scddfbe 0
+impl sddcjeaj 1
+impl seaieahg 1
+impl sddhihdf 3
+6
+wait 7
+impl sccehjgj 0
+impl sbjdfiid 3
+impl sjjbghai 0
+impl sejbhfe 2
+impl seceagd 4
+6
+wait 7
+impl sccehjgj 3
+impl sgddcadd 4
+impl sddcjeaj 0
+impl seihdhag 3
+impl seceagd 2
+6
+wait 7
+impl sccehjgj 4
+impl scigiefc 3
+impl siachhgf 3
+impl scdhgejb 1
+impl sbhheehb 4
+6
+wait 7
+impl sccehjgj 2
+impl sgddcadd 2
+impl sgbhdfg 3
+impl sdhdhddg 2
+impl sjhfica 4
+6
+wait 7
+impl sdfibehb 1
+impl sfffdheb 3
+impl sjfdjfjf 1
+impl sgghdehb 4
+impl sidhhdhi 2
+6
+wait 7
+impl sdfibehb 0
+impl scjeiafe 1
+impl sgidaidb 1
+impl sgfcgcfb 3
+impl sfgdbdbe 3
+6
+wait 7
+impl sdfibehb 3
+impl sfhegjga 0
+impl scccaahd 4
+impl shihcdid 2
+impl sdfaejhb 1
+6
+wait 7
+impl sdfibehb 4
+impl scigiefc 4
+impl sbgefccg 3
+impl sefegb 0
+impl sfbgcdfi 2
+6
+wait 7
+impl sdfibehb 2
+impl sfhegjga 3
+impl sddcbijb 3
+impl sdfeecga 4
+impl sjbgeife 4
+5
+wait 7
+impl sdagieei 1
+impl sifajhfd 1
+impl sgcjbegc 1
+impl sjaaddci 1
+6
+wait 7
+impl sdagieei 0
+impl sccacdgh 0
+impl sddcjeaj 2
+impl sjedbgcd 0
+impl sefhjdc 0
+6
+wait 7
+impl sdagieei 3
+impl shfchddb 0
+impl sfigichb 2
+impl sjbfgdgj 2
+impl scdejehb 2
+6
+wait 7
+impl sdagieei 4
+impl sigjbhfd 3
+impl sdbigbjc 0
+impl scgfcbii 2
+impl shdbejaf 4
+6
+wait 7
+impl sdagieei 2
+impl shfchddb 3
+impl sjefiggh 2
+impl scedjcad 3
+impl sibggafa 1
+5
+wait 7
+impl sjjbecde 1
+impl sbecbdg 0
+impl sgaejhbd 0
+impl sdbeejje 1
+6
+wait 7
+impl sjjbecde 0
+impl shceaigi 0
+impl sjcjddad 0
+impl sbgdecib 1
+impl secjibje 4
+6
+wait 7
+impl sjjbecde 3
+impl sicgggbd 2
+impl sdbjfieb 4
+impl sdffebgd 0
+impl sjbgeife 2
+6
+wait 7
+impl sjjbecde 4
+impl sjfbhajh 3
+impl sdbjidge 3
+impl sgidejij 0
+impl sjbedifb 1
+6
+wait 7
+impl sjjbecde 2
+impl sbabfdhi 1
+impl scfiffjj 0
+impl sbcfaicg 3
+impl sdagbbie 0
+6
+wait 7
+impl sfejbccf 1
+impl sbbajaih 2
+impl seibeedd 4
+impl shbieaid 4
+impl sbaidbjh 4
+6
+wait 7
+impl sfejbccf 0
+impl shhbgbjf 2
+impl sgidaidb 2
+impl sjgfcf 0
+impl sebfahfh 4
+6
+wait 7
+impl sfejbccf 3
+impl sdggbca 4
+impl siefbhb 1
+impl sicfbcdf 2
+impl seejbfbc 1
+6
+wait 7
+impl sfejbccf 4
+impl shfchddb 4
+impl sbicfijd 4
+impl shhbijeh 2
+impl sdhdaa 1
+6
+wait 7
+impl sfejbccf 2
+impl sdggbca 2
+impl sjchddbg 1
+impl sfehjejb 4
+impl sibggafa 2
+6
+wait 7
+impl seeiabga 1
+impl sgibdhij 4
+impl scjcgihg 3
+impl sggiahai 3
+impl sfgdbdbe 4
+6
+wait 7
+impl seeiabga 0
+impl sggahbia 0
+impl sfieciih 4
+impl seihdhag 4
+impl sijcdgee 4
+6
+wait 7
+impl seeiabga 3
+impl sgdebiii 4
+impl sjcjacca 0
+impl sgfhgeeh 0
+impl sgdiegej 2
+6
+wait 7
+impl seeiabga 4
+impl shccbhdh 3
+impl sjfdjfjf 0
+impl seihdhag 2
+impl sbjdibdc 0
+6
+wait 7
+impl seeiabga 2
+impl sgdebiii 2
+impl sceaejee 4
+impl sgfhgeeh 3
+impl sfhggggh 0
+5
+wait 7
+impl sjjihdjc 1
+impl sbbajaih 1
+impl shiddafa 0
+impl sgaaegif 1
+6
+wait 7
+impl sjjihdjc 0
+impl shhbgbjf 1
+impl scecigbb 0
+impl shbieaid 2
+impl seiiacii 3
+6
+wait 7
+impl sjjihdjc 3
+impl sccacdgh 3
+impl sbgefccg 4
+impl shbijjad 3
+impl sdfabbhc 4
+6
+wait 7
+impl sjjihdjc 4
+impl sbfbicab 3
+impl seijhadh 3
+impl shagifcj 1
+impl sjajefch 1
+6
+wait 7
+impl sjjihdjc 2
+impl sccacdgh 4
+impl sidfeeah 3
+impl schadahi 1
+impl sijcdgee 2
+6
+wait 7
+impl sfijieii 1
+impl shceaigi 2
+impl shjgdiae 1
+impl sbceejeh 2
+impl siajjdjf 2
+6
+wait 7
+impl sfijieii 0
+impl sjfbhajh 4
+impl scfiffjj 3
+impl sjidbfhf 0
+impl sdeihiee 1
+6
+wait 7
+impl sfijieii 3
+impl sbeaabfi 1
+impl sfbcfceb 0
+impl sfgecebh 0
+impl sfecijai 3
+6
+wait 7
+impl sfijieii 4
+impl sdebcijc 3
+impl sfgjdjgc 1
+impl sdffebgd 3
+impl sbighdad 3
+6
+wait 7
+impl sfijieii 2
+impl sbeaabfi 0
+impl scigeecc 2
+impl shdeaedc 0
+impl shdahadg 4
+6
+wait 7
+impl scbjcchb 1
+impl sghjghbb 0
+impl sfidcaee 4
+impl sjedbgcd 3
+impl sfgdbdbe 2
+6
+wait 7
+impl scbjcchb 0
+impl sjifccjd 0
+impl sjaghhee 3
+impl sejjaigh 0
+impl siajeib 3
+6
+wait 7
+impl scbjcchb 3
+impl sebfhcf 1
+impl sjcjddad 3
+impl sbaajbce 0
+impl shebdgjj 1
+6
+wait 7
+impl scbjcchb 4
+impl sccacdgh 2
+impl sfaegjb 0
+impl seaieahg 2
+impl sgafhfh 2
+6
+wait 7
+impl scbjcchb 2
+impl sebfhcf 0
+impl sdbajbaj 1
+impl sejjaigh 3
+impl sccbjgdd 3
+6
+wait 7
+impl shhigafj 1
+impl sdejbibh 1
+impl shfjefhg 3
+impl sigiajgj 4
+impl sbjcaedg 3
+6
+wait 7
+impl shhigafj 0
+impl sghjghbb 4
+impl sbicfijd 2
+impl sjfibbaa 0
+impl sbfffebe 0
+5
+wait 7
+impl shhigafj 3
+impl scbechig 0
+impl sgcjbegc 0
+impl scjeaebb 3
+6
+wait 7
+impl shhigafj 4
+impl sbhiijcb 3
+impl sdbjidge 4
+impl sidbjjea 2
+impl sdhdaa 0
+5
+wait 7
+impl shhigafj 2
+impl scbechig 4
+impl shjgdiae 0
+impl sifiaihg 0
+6
+wait 7
+impl sdfdcif 1
+impl sgdfhddf 1
+impl sjcjddad 4
+impl segfddjh 3
+impl sccbjgdd 1
+6
+wait 7
+impl sdfdcif 0
+impl sbabfdhi 0
+impl sdbajbaj 3
+impl shfbbeej 1
+impl sdbaadcf 1
+6
+wait 7
+impl sdfdcif 3
+impl sjddabgj 0
+impl shjgdiae 4
+impl sibfegfc 3
+impl siajeib 4
+6
+wait 7
+impl sdfdcif 4
+impl sbeaabfi 3
+impl sfdbfecb 0
+impl sbhjcdgh 4
+impl sbjjahjf 0
+6
+wait 7
+impl sdfdcif 2
+impl sjddabgj 3
+impl sgbhedbe 2
+impl seaieahg 0
+impl sdfaejhb 2
+6
+wait 7
+impl sfbjeeae 1
+impl sbecbdg 3
+impl sibageea 0
+impl sdfdeadj 4
+impl sfdeehib 1
+6
+wait 7
+impl sfbjeeae 0
+impl siddfbji 1
+impl schidfca 1
+impl sidigb 3
+impl sjajefch 4
+6
+wait 7
+impl sfbjeeae 3
+impl sbabfdhi 2
+impl sbiddbhe 3
+impl sdhghhae 4
+impl shicgefd 2
+6
+wait 7
+impl sfbjeeae 4
+impl sjddabgj 4
+impl sdbajbaj 4
+impl sbgbdegc 3
+impl scadadgh 3
+6
+wait 7
+impl sfbjeeae 2
+impl schfagdd 1
+impl sfbefbgj 0
+impl sfjdjbai 1
+impl sbjdibdc 3
+6
+wait 7
+impl sieijcaa 1
+impl sdaeebic 3
+impl sfidcaee 1
+impl sbgbdegc 4
+impl siifibhj 1
+6
+wait 7
+impl sieijcaa 0
+impl sghbcfci 2
+impl sbiddbhe 4
+impl sfagifeh 1
+impl seejghge 4
+6
+wait 7
+impl sieijcaa 3
+impl sjeigjb 4
+impl sbajfdea 4
+impl shegiefd 4
+impl sfchgifi 4
+6
+wait 7
+impl sieijcaa 4
+impl sfffdheb 4
+impl sjeihfgd 1
+impl shegiefd 1
+impl sdbaadcf 0
+6
+wait 7
+impl sieijcaa 2
+impl sjeigjb 2
+impl sgihjihi 2
+impl sfigifda 1
+impl sbebjibi 2
+6
+wait 7
+impl seahaiii 1
+impl sigjbhfd 4
+impl sgjbidi 2
+impl sddigebe 4
+impl sbjhbcjg 4
+6
+wait 7
+impl seahaiii 0
+impl sfgbefgd 0
+impl shgfdjb 1
+impl siccbhce 0
+impl schceega 1
+6
+wait 7
+impl seahaiii 3
+impl sbiaacd 3
+impl sjchddbg 0
+impl siheaehc 4
+impl sddjcjha 3
+6
+wait 7
+impl seahaiii 4
+impl shhaahdg 0
+impl scccaahd 2
+impl shagifcj 0
+impl sdgiadhg 4
+6
+wait 7
+impl seahaiii 2
+impl sbiaacd 4
+impl siefbhb 0
+impl sdidbefg 0
+impl sfghbehb 2
+6
+wait 7
+impl siidedde 1
+impl shfchddb 2
+impl sfidcaee 2
+impl sjedbgcd 4
+impl shgdhieb 1
+6
+wait 7
+impl siidedde 0
+impl seeddhge 2
+impl sidfeeah 2
+impl schadahi 0
+impl scgahjhi 0
+6
+wait 7
+impl siidedde 3
+impl sfgbefgd 2
+impl scdhfbed 1
+impl sgbidefg 3
+impl siigjhci 3
+6
+wait 7
+impl siidedde 4
+impl sbiaacd 2
+impl sdjbhjjd 2
+impl sdffebgd 4
+impl sjajefch 2
+6
+wait 7
+impl siidedde 2
+impl seeddhge 1
+impl seaahfjj 3
+impl sfajaedg 4
+impl sehechhh 2
+6
+wait 7
+impl sjbgjgb 1
+impl sdaeebic 4
+impl sjgfibf 4
+impl scggiiib 1
+impl sfchgifi 2
+6
+wait 7
+impl sjbgjgb 0
+impl sgejfdcg 1
+impl scfiffjj 4
+impl sciccchi 2
+impl scdjdegj 1
+6
+wait 7
+impl sjbgjgb 3
+impl sgdebiii 1
+impl schcggjg 4
+impl sjfibbaa 2
+impl sibjehd 2
+6
+wait 7
+impl sjbgjgb 4
+impl sfffdheb 2
+impl sgafdbef 4
+impl sgehfggd 0
+impl sgfhdffa 1
+6
+wait 7
+impl sjbgjgb 2
+impl sgdebiii 0
+impl shhjbbaj 3
+impl sbcjeied 1
+impl sdcjfeje 1
+6
+wait 7
+impl sgbdjjih 1
+impl sgfhhhgj 1
+impl sjaghhee 4
+impl sediaehb 3
+impl scabdaha 4
+6
+wait 7
+impl sgbdjjih 0
+impl sbecbdg 4
+impl sdbjidge 2
+impl sebcacbj 2
+impl sbighdad 4
+6
+wait 7
+impl sgbdjjih 3
+impl shhaahdg 3
+impl scccaahd 1
+impl scedjcad 4
+impl sfcfhdcd 0
+6
+wait 7
+impl sgbdjjih 4
+impl siddfbji 4
+impl scdgefie 2
+impl sgjdadie 1
+impl scadadgh 4
+6
+wait 7
+impl sgbdjjih 2
+impl shhaahdg 4
+impl scjcgihg 4
+impl sebjjdce 1
+impl sfcachbe 4
+6
+wait 7
+impl sjccfcec 1
+impl scacecjd 1
+impl sdcgijgg 3
+impl sijhbbcd 1
+impl secjibje 2
+6
+wait 7
+impl sjccfcec 0
+impl sebfhcf 3
+impl sbfjgaei 3
+impl sdfdeadj 1
+impl sggadbdf 4
+6
+wait 7
+impl sjccfcec 3
+impl sebichg 1
+impl seaahfjj 4
+impl sfajaedg 1
+impl sidhhdhi 3
+6
+wait 7
+impl sjccfcec 4
+impl sifaciae 1
+impl shajdiie 2
+impl sidigb 4
+impl scadadgh 2
+6
+wait 7
+impl sjccfcec 2
+impl sebichg 0
+impl sgibach 1
+impl sbgdecib 0
+impl sfbfhddd 3
+6
+wait 7
+impl sdfeiche 1
+impl sbfccieb 0
+impl scfiffjj 2
+impl sejjaigh 4
+impl sjcjdeed 4
+6
+wait 7
+impl sdfeiche 0
+impl scbcceji 0
+impl scdhfbed 2
+impl sediaehb 2
+impl sfcachbe 2
+6
+wait 7
+impl sdfeiche 3
+impl sdejbibh 3
+impl shfigfii 3
+impl sbgcffjj 4
+impl sdagbbie 3
+6
+wait 7
+impl sdfeiche 2
+impl sdejbibh 4
+impl sdcdieeg 2
+impl sbcfaicg 4
+impl sjbgdafd 1
+6
+wait 7
+impl sfedhgce 1
+impl sgdfhddf 0
+impl sdbajbaj 2
+impl sggiahai 2
+impl seaecbii 0
+6
+wait 7
+impl sfedhgce 0
+impl sbabfdhi 3
+impl secdjgaj 0
+impl sfehjejb 2
+impl schceega 0
+6
+wait 7
+impl sfedhgce 3
+impl sjddabgj 2
+impl siebdfhg 1
+impl seaieahg 3
+impl sddjcjha 4
+6
+wait 7
+impl sfedhgce 4
+impl seahdibj 4
+impl sfgiaehj 1
+impl sgghdehb 2
+impl siifibhj 3
+6
+wait 7
+impl sfedhgce 2
+impl sdbfdaje 1
+impl siachhgf 2
+impl sebjjdce 0
+impl sgefbded 3
+6
+wait 7
+impl sfgfajb 1
+impl sceebfid 0
+impl scdhfbed 0
+impl sbgcffjj 1
+impl sdijjdgg 1
+6
+wait 7
+impl sfgfajb 0
+impl sbbajaih 0
+impl sdcgijgg 4
+impl sfijhcgg 1
+impl sfcggbhj 2
+6
+wait 7
+impl sfgfajb 3
+impl sifajhfd 0
+impl seijhadh 4
+impl sihfbfbj 0
+impl sjhfica 1
+6
+wait 7
+impl sfgfajb 4
+impl shhbgbjf 0
+impl seffbejd 4
+impl sefegb 3
+impl sbcbcdhh 4
+6
+wait 7
+impl sfgfajb 2
+impl sifajhfd 3
+impl sfgiaehj 0
+impl sgfcgcfb 4
+impl shgdhieb 0
+6
+wait 7
+impl sejbcdia 1
+impl scacecjd 0
+impl sibageea 3
+impl scdgadgb 2
+impl siigjhge 0
+6
+wait 7
+impl sejbcdia 0
+impl sebfhcf 4
+impl sjhfgcaf 2
+impl sjbfgdgj 1
+impl sbaidbjh 2
+6
+wait 7
+impl sejbcdia 3
+impl sebichg 3
+impl sjfdjfjf 3
+impl sighffbj 0
+impl sidgedag 4
+6
+wait 7
+impl sejbcdia 4
+impl sbfbicab 4
+impl sbiddbhe 2
+impl sdfdeadj 0
+impl sdfabbhc 2
+6
+wait 7
+impl sejbcdia 2
+impl sebichg 4
+impl sdgidbb 4
+impl sgidejij 3
+impl scgahjhi 4
+6
+wait 7
+impl sjfcfjfi 1
+impl sfeifchb 1
+impl sgcjbegc 3
+impl sbgcffjj 2
+impl sjbgdafd 0
+6
+wait 7
+impl sjfcfjfi 0
+impl sfaiegbe 3
+impl sbfjgaei 4
+impl sbaajbce 3
+impl schecehg 4
+6
+wait 7
+impl sjfcfjfi 3
+impl sgejfdcg 0
+impl siddbedb 2
+impl sejhccjd 1
+impl sbebjibi 1
+6
+wait 7
+impl sjfcfjfi 4
+impl shccbhdh 4
+impl sjchddbg 4
+impl schadahi 3
+impl sjcdbghf 1
+6
+wait 7
+impl sjfcfjfi 2
+impl sgejfdcg 3
+impl sbfjgaei 2
+impl sjccgebi 0
+impl scabdaha 1
+6
+wait 7
+impl sgiaefaj 1
+impl sbabfdhi 4
+impl sjaghhee 2
+impl sciccchi 0
+impl siigjhge 3
+6
+wait 7
+impl sgiaefaj 0
+impl seahdibj 2
+impl seijhadh 2
+impl sbhbfbic 1
+impl sgfeafce 0
+6
+wait 7
+impl sgiaefaj 3
+impl sdebcijc 4
+impl scigeecc 0
+impl sifehif 3
+impl seggiejh 2
+6
+wait 7
+impl sgiaefaj 4
+impl shgagcii 4
+impl sfgiaehj 3
+impl sjbfgdgj 0
+impl sebfahfh 2
+6
+wait 7
+impl sgiaefaj 2
+impl sdebcijc 2
+impl sgacaee 1
+impl sfjdjbai 0
+impl sijhbgi 2
+6
+wait 7
+impl sdjecbej 1
+impl scjbiahd 3
+impl sfgiaehj 4
+impl sidbjjea 1
+impl sjhehhja 1
+6
+wait 7
+impl sdjecbej 0
+impl sdchcibg 2
+impl sdbibibi 4
+impl sdfghbfb 2
+impl sbfghjab 0
+6
+wait 7
+impl sdjecbej 3
+impl sjdbiafi 0
+impl sdcdieeg 3
+impl sbcfaicg 2
+impl sfbfhddd 2
+5
+wait 7
+impl sdjecbej 4
+impl sgjjdjbe 1
+impl sibacbbd 3
+impl sijjfbcd 2
+6
+wait 7
+impl sdjecbej 2
+impl sjdbiafi 3
+impl shbiaedh 1
+impl sejjaigh 2
+impl sjiabdid 3
+5
+wait 7
+impl sgjcbcbg 1
+impl sjdbiafi 4
+impl sdcgijgg 2
+impl shbfbjac 1
+6
+wait 7
+impl sgjcbcbg 0
+impl sjbdffbh 1
+impl shdhcdjb 0
+impl sigiajgj 1
+impl siiefbja 3
+6
+wait 7
+impl sgjcbcbg 3
+impl scbcceji 3
+impl sjefiggh 1
+impl sigiajgj 2
+impl sbjcaedg 4
+6
+wait 7
+impl sgjcbcbg 4
+impl sjdafeab 0
+impl siddbedb 1
+impl sfjighe 1
+impl sgfhdffa 0
+6
+wait 7
+impl sgjcbcbg 2
+impl scbcceji 4
+impl segfahjb 4
+impl scdhgejb 0
+impl shicgefd 0
+6
+wait 7
+impl sbhihdea 1
+impl schfagdd 0
+impl siefbhb 4
+impl siachdfj 1
+impl sjiahceh 1
+6
+wait 7
+impl sbhihdea 0
+impl sbeaabfi 4
+impl shdeeiag 0
+impl sjdccede 0
+impl sccehccd 2
+6
+wait 7
+impl sbhihdea 3
+impl sddbdhjj 3
+impl sjhjajhg 3
+impl sjbjeich 4
+impl siajeib 2
+6
+wait 7
+impl sbhihdea 4
+impl sdaeebic 2
+impl siebdfhg 0
+impl sjedbgcd 2
+impl sdhdaa 3
+6
+wait 7
+impl sbhihdea 2
+impl sddbdhjj 4
+impl scjhgjd 3
+impl segibjfe 0
+impl sbfffebe 1
+6
+wait 7
+impl sbcdbbdb 1
+impl shhbgbjf 3
+impl sdgidbb 1
+impl shbijjad 4
+impl seaecbii 3
+6
+wait 7
+impl sbcdbbdb 0
+impl sjjjabha 4
+impl sbejaigj 3
+impl sdbeejje 2
+impl sbfghjab 3
+6
+wait 7
+impl sbcdbbdb 3
+impl segagahg 0
+impl seaahfjj 1
+impl siheaehc 1
+impl sibebfi 4
+6
+wait 7
+impl sbcdbbdb 4
+impl seeddhge 0
+impl sfaegjb 4
+impl shbijjad 2
+impl sccehccd 1
+6
+wait 7
+impl sbcdbbdb 2
+impl segagahg 3
+impl sgbhdfg 4
+impl sfegfajb 1
+impl sibggafa 0
+5
+wait 7
+impl shiafgji 1
+impl shcdaed 1
+impl siabiicg 0
+impl scejbccc 4
+5
+wait 7
+impl shiafgji 0
+impl sjdbiafi 2
+impl sdcgijgg 0
+impl sechfjih 4
+6
+wait 7
+impl shiafgji 3
+impl sbfccieb 3
+impl sfidcaee 0
+impl siacdjde 1
+impl sdjcaga 1
+6
+wait 7
+impl shiafgji 4
+impl sjbdffbh 0
+impl sdbigbjc 3
+impl sibfegfc 4
+impl sggadbdf 1
+6
+wait 7
+impl shiafgji 2
+impl sbfccieb 4
+impl sjgfibf 1
+impl segfddjh 4
+impl sjcjdeed 1
+6
+wait 7
+impl sgjibecb 1
+impl sebfhcf 2
+impl sjgbhhgg 1
+impl sfehjejb 1
+impl siggfjed 3
+6
+wait 7
+impl sgjibecb 0
+impl sbfbicab 2
+impl sbejicdd 1
+impl sighffbj 3
+impl sbbifbji 0
+6
+wait 7
+impl sgjibecb 3
+impl sigjbhfd 2
+impl sbajfdea 1
+impl sejjaigh 1
+impl schceega 3
+6
+wait 7
+impl sgjibecb 4
+impl seeddhge 4
+impl sjfdjfjf 4
+impl sighffbj 4
+impl sbjhbcjg 2
+6
+wait 7
+impl sgjibecb 2
+impl sjjjabha 1
+impl shfjefhg 4
+impl siaihbgf 4
+impl sfcggbhj 3
+6
+wait 7
+impl sjghihj 1
+impl shcfgiea 1
+impl sddcbijb 2
+impl sfjighe 0
+impl sggadbdf 2
+6
+wait 7
+impl sjghihj 0
+impl siddfbji 2
+impl sbfgdddf 0
+impl sejhccjd 0
+impl sdjcaga 0
+6
+wait 7
+impl sjghihj 3
+impl shceaigi 3
+impl sjefiggh 0
+impl sbaajbce 4
+impl sgfeafce 2
+6
+wait 7
+impl sjghihj 4
+impl sdbfdaje 0
+impl sgibach 0
+impl shegiefd 0
+impl sdagbbie 4
+6
+wait 7
+impl sjghihj 2
+impl shceaigi 4
+impl sgbhedbe 0
+impl shfbbeej 0
+impl sjbgdafd 4
+6
+wait 7
+impl seddcbhb 1
+impl sbdfbf 3
+impl sdfccjid 4
+impl sijhbbcd 0
+impl sfbfhddd 4
+6
+wait 7
+impl seddcbhb 0
+impl sbfccieb 2
+impl sfgiaehj 2
+impl sidbjjea 0
+impl sdjcaga 3
+5
+wait 7
+impl seddcbhb 3
+impl sgjjdjbe 0
+impl sgijedei 1
+impl sijjfbcd 3
+6
+wait 7
+impl seddcbhb 4
+impl sifcdica 1
+impl sbjghcci 4
+impl scgfcbii 3
+impl seejghge 2
+5
+wait 7
+impl seddcbhb 2
+impl sgjjdjbe 3
+impl sdfccjid 0
+impl sechfjih 2
+6
+wait 7
+impl scbcbfcf 1
+impl sjifccjd 1
+impl shdhcdjb 3
+impl sbgdecib 2
+impl sdgeieff 1
+5
+wait 7
+impl scbcbfcf 0
+impl sifaciae 0
+impl sbejaigj 4
+impl sdfghbfb 1
+5
+wait 7
+impl scbcbfcf 3
+impl sjjjabha 2
+impl sdcdieeg 1
+impl sgaaegif 0
+6
+wait 7
+impl scbcbfcf 4
+impl sgfhhhgj 0
+impl sgbhdfg 2
+impl sjgfcf 3
+impl sdhdaa 4
+6
+wait 7
+impl scbcbfcf 2
+impl sbfbicab 1
+impl sjcjddad 2
+impl shfbbeej 3
+impl sjabdcb 2
+6
+wait 7
+impl sbdbghg 1
+impl sjdafeab 3
+impl sgihjihi 1
+impl sbhbfbic 0
+impl sgfhdffa 3
+6
+wait 7
+impl sbdbghg 0
+impl sghjghbb 3
+impl shdhcdjb 4
+impl sfagifeh 0
+impl sfjjhhea 1
+6
+wait 7
+impl sbdbghg 3
+impl scacecjd 3
+impl sjhhcigi 4
+impl siaihbgf 1
+impl sbfghjab 4
+6
+wait 7
+impl sbdbghg 4
+impl sjifccjd 3
+impl sjhfgcaf 1
+impl seaghdji 0
+impl sjhfica 2
+6
+wait 7
+impl sbdbghg 2
+impl scacecjd 4
+impl shgfdjb 0
+impl shbieaid 1
+impl seehihd 4
+6
+wait 7
+impl sfiejeid 1
+impl sebichg 2
+impl sgafdbef 2
+impl sgehfggd 3
+impl sdfeaifj 3
+6
+wait 7
+impl sfiejeid 0
+impl sjjjabha 0
+impl shidfhcf 2
+impl sibfegfc 2
+impl sggadbdf 0
+6
+wait 7
+impl sfiejeid 3
+impl sgfhhhgj 2
+impl shfghbcc 0
+impl sfehjejb 0
+impl shgbahb 4
+6
+wait 7
+impl sfiejeid 4
+impl sfgbefgd 3
+impl sfigichb 1
+impl sejiahib 0
+impl seiiacii 1
+6
+wait 7
+impl sfiejeid 2
+impl segagahg 1
+impl sjgbhhgg 0
+impl sfigifda 0
+impl sjdgfcfg 3
+6
+wait 7
+impl sjdjhbdf 1
+impl sifajhfd 4
+impl sdbigbjc 4
+impl sdhghhae 2
+impl sjbgdafd 2
+6
+wait 7
+impl sjdjhbdf 0
+impl sdggbca 1
+impl shfghbcc 3
+impl sjcajeef 0
+impl sefhjdc 3
+6
+wait 7
+impl sjdjhbdf 3
+impl sifaciae 3
+impl shdifgae 0
+impl sjeaafc 2
+impl seehihd 2
+6
+wait 7
+impl sjdjhbdf 4
+impl segagahg 4
+impl sbgefccg 2
+impl siacdjde 0
+impl sccbjgdd 4
+6
+wait 7
+impl sjdjhbdf 2
+impl sifaciae 4
+impl sgaejhbd 3
+impl sgdgdbgc 4
+impl secjibje 0
+6
+wait 7
+impl sbahbcgf 1
+impl shcfgiea 3
+impl sfaegjb 2
+impl seaghdji 2
+impl sddjcjha 1
+6
+wait 7
+impl sbahbcgf 0
+impl sbjghbcf 4
+impl scecigbb 3
+impl sidigb 2
+impl sjhfica 0
+6
+wait 7
+impl sbahbcgf 3
+impl siddfbji 0
+impl sjhjajhg 4
+impl sgfcgcfb 2
+impl shgdhieb 3
+6
+wait 7
+impl sbahbcgf 4
+impl sdbfdaje 3
+impl sidfeeah 1
+impl sidbjjea 3
+impl sjiabdid 4
+6
+wait 7
+impl sbahbcgf 2
+impl siddfbji 3
+impl scjhgjd 4
+impl sjfiefh 1
+impl sjhehhja 0
+6
+wait 7
+impl sjabific 1
+impl sgjcgbc 2
+impl sjiaai 0
+impl sbjecbeb 1
+impl sfjjhhea 0
+6
+wait 7
+impl sjabific 0
+impl sbeefabf 1
+impl shdifgae 3
+impl sddhfecg 4
+impl shebdgjj 3
+5
+wait 7
+impl sjabific 3
+impl seffefgf 0
+impl shiddafa 3
+impl sifiaihg 3
+6
+wait 7
+impl sjabific 4
+impl sifcdica 3
+impl sdbjfieb 1
+impl segfddjh 2
+impl sjiabdid 2
+6
+wait 7
+impl sjabific 2
+impl seffefgf 3
+impl shfigfii 4
+impl scgfcbii 1
+impl scghiegc 2
+6
+wait 7
+impl sfifjbff 1
+impl sdggbca 0
+impl sdgidbb 0
+impl sdffebgd 2
+impl sjiahceh 0
+6
+wait 7
+impl sfifjbff 0
+impl segagahg 2
+impl sddcjeaj 3
+impl sjbjeich 1
+impl seejghge 1
+6
+wait 7
+impl sfifjbff 3
+impl sgfhhhgj 3
+impl scecigbb 1
+impl shfbbeej 4
+impl sgefbded 1
+6
+wait 7
+impl sfifjbff 4
+impl shcfgiea 4
+impl sidfeeah 4
+impl sebbegej 1
+impl sffbehea 4
+6
+wait 7
+impl sfifjbff 2
+impl sgfhhhgj 4
+impl sfaegjb 3
+impl sefegb 4
+impl sjdgfcfg 4
+5
+wait 7
+impl shidbfbf 1
+impl sdggdcjj 0
+impl sjhdihh 3
+impl shbfbjac 0
+5
+wait 7
+impl shidbfbf 0
+impl sfjfdcca 1
+impl sihbadad 2
+impl scjdffaj 3
+6
+wait 7
+impl shidbfbf 3
+impl siieijgi 1
+impl shidfhcf 0
+impl sgdgdbgc 2
+impl sijgdegb 4
+6
+wait 7
+impl shidbfbf 4
+impl sefcfbdi 1
+impl shedhifc 1
+impl sccjbhei 3
+impl sjeaefjj 3
+6
+wait 7
+impl shidbfbf 2
+impl siieijgi 0
+impl shbiaedh 0
+impl sdhghhae 1
+impl sgjadbd 1
+6
+wait 7
+impl sibiijib 1
+impl sbgjfa 3
+impl sjhhcigi 2
+impl sigiajgj 0
+impl sdgeieff 0
+6
+wait 7
+impl sibiijib 0
+impl sicahebi 4
+impl seddgddc 4
+impl sijhbbcd 3
+impl sdgeieff 3
+6
+wait 7
+impl sibiijib 3
+impl sfjfdcca 0
+impl sdfccjid 3
+impl sijhbbcd 4
+impl sgahjjga 2
+5
+wait 7
+impl sibiijib 4
+impl sefcfbdi 2
+impl seddgddc 2
+impl sjaaddci 0
+6
+wait 7
+impl sibiijib 2
+impl sfjfdcca 3
+impl shahbbdg 4
+impl sdhghhae 0
+impl siigjhci 4
+5
+wait 7
+impl sjfhdffg 1
+impl shagigc 3
+impl sgijedei 0
+impl scejbccc 1
+6
+wait 7
+impl sjfhdffg 3
+impl sbdfbf 1
+impl sidaghaa 4
+impl sjebhahc 4
+impl shebdgjj 4
+5
+wait 7
+impl sjfhdffg 4
+impl sfbcebd 1
+impl shhicjfa 1
+impl sidbdgfe 4
+5
+wait 7
+impl sbhcgffi 1
+impl shagigc 2
+impl sbggjced 1
+impl sbefaghj 1
+6
+wait 7
+impl sbhcgffi 0
+impl shcdaed 0
+impl shiddafa 2
+impl sedhifbj 3
+impl sgfeafce 3
+6
+wait 7
+impl sbhcgffi 3
+impl sfeachii 1
+impl seiiebid 1
+impl sdfghbfb 3
+impl siigjhci 2
+5
+wait 7
+impl sbhcgffi 4
+impl sdchcibg 0
+impl shbafhia 0
+impl secfdbdg 1
+6
+wait 7
+impl sbhcgffi 2
+impl sbdfbf 4
+impl shahbbdg 2
+impl sdhghhae 3
+impl sijgdegb 0
+6
+wait 7
+impl sffeacgd 1
+impl seeddhge 3
+impl sgibach 2
+impl scedjcad 2
+impl scdjdegj 0
+6
+wait 7
+impl sffeacgd 0
+impl sgdfhddf 3
+impl siddbedb 0
+impl sebcacbj 1
+impl sgfhdffa 4
+6
+wait 7
+impl sffeacgd 3
+impl sbjghbcf 2
+impl scecigbb 4
+impl siacdjde 3
+impl sjiahceh 3
+6
+wait 7
+impl sffeacgd 4
+impl schfagdd 3
+impl sfbcfceb 3
+impl shagifcj 3
+impl sehechhh 0
+6
+wait 7
+impl sffeacgd 2
+impl sbjghbcf 1
+impl sbejicdd 0
+impl sfegfajb 2
+impl sbighdad 2
+6
+wait 7
+impl siafggbg 1
+impl sccaebgh 1
+impl shfjefhg 2
+impl siaihbgf 0
+impl sjbgdafd 3
+6
+wait 7
+impl siafggbg 0
+impl shcdaed 3
+impl sjiaai 3
+impl sdfdeadj 2
+impl sfdeehib 0
+6
+wait 7
+impl siafggbg 3
+impl sfeachii 0
+impl shjgdiae 2
+impl siaihbgf 3
+impl sgefbded 4
+5
+wait 7
+impl siafggbg 4
+impl sdchcibg 3
+impl sdiccaej 3
+impl sechfjih 1
+5
+wait 7
+impl siafggbg 2
+impl sbdfbf 2
+impl sdiccaej 1
+impl secebbab 0
+6
+wait 7
+impl sibahehf 1
+impl sceebfid 3
+impl sjefiggh 3
+impl scdhgejb 3
+impl sdgeieff 2
+6
+wait 7
+impl sibahehf 0
+impl sbhiijcb 4
+impl segfahjb 2
+impl scdhgejb 4
+impl sfecijai 1
+6
+wait 7
+impl sibahehf 3
+impl sifajhfd 2
+impl sgihjihi 0
+impl sfjighe 3
+impl sdhdaa 2
+6
+wait 7
+impl sibahehf 4
+impl shhbgbjf 4
+impl sfifcddd 1
+impl shihcdid 1
+impl sjbgeife 1
+6
+wait 7
+impl sibahehf 2
+impl sjifccjd 4
+impl seaahfjj 2
+impl sfajaedg 0
+impl sdgiadhg 2
+6
+wait 7
+impl sfibhai 1
+impl sjjjabha 3
+impl sdcdieeg 4
+impl sedhifbj 4
+impl siigjhge 4
+6
+wait 7
+impl sfibhai 0
+impl shcfgiea 2
+impl sgibach 3
+impl sebjjdce 3
+impl seehihd 1
+6
+wait 7
+impl sfibhai 3
+impl shcfgiea 0
+impl shfghbcc 4
+impl sibcdhff 0
+impl sdfeaifj 4
+6
+wait 7
+impl sfibhai 4
+impl sgdfhddf 4
+impl sjgbhhgg 3
+impl sjfibbaa 3
+impl sbdfaicf 4
+6
+wait 7
+impl sfibhai 2
+impl sbecbdg 2
+impl sbjghcci 1
+impl sfijhcgg 4
+impl sfjjhhea 2
+6
+wait 7
+impl sedhhhbf 1
+impl sjdafeab 4
+impl sbajfdea 2
+impl sbaajbce 2
+impl sfjjhhea 3
+6
+wait 7
+impl sedhhhbf 0
+impl scbechig 2
+impl sdegdfja 1
+impl sddhfecg 2
+impl shebdgjj 2
+6
+wait 7
+impl sedhhhbf 3
+impl scacecjd 2
+impl sgcjbegc 4
+impl sjebhahc 2
+impl sejcijhg 1
+6
+wait 7
+impl sedhhhbf 4
+impl sjifccjd 2
+impl sgjbidi 1
+impl sggiahai 4
+impl sbihgbeg 1
+6
+wait 7
+impl sedhhhbf 2
+impl sbbajaih 3
+impl sbejaigj 1
+impl sijhbbcd 2
+impl sgahjjga 1
+6
+wait 7
+impl sicjijba 1
+impl shfijii 4
+impl shajdiie 0
+impl scdhgejb 2
+impl sfecijai 4
+6
+wait 7
+impl sicjijba 0
+impl sbgjfa 4
+impl shgfdjb 3
+impl shbijjad 1
+impl sjhehhja 4
+6
+wait 7
+impl sicjijba 3
+impl sbehjggj 3
+impl sfggacaj 3
+impl siaihbgf 2
+impl sdgeieff 4
+6
+wait 7
+impl sicjijba 4
+impl sghgijac 2
+impl sbjghcci 2
+impl sbgcffjj 0
+impl shcgdagd 0
+5
+wait 7
+impl sicjijba 2
+impl sciicgbc 3
+impl shdifgae 4
+impl sefcicf 2
+5
+wait 7
+impl sjjddjjb 1
+impl scgdajfb 1
+impl shedhifc 0
+impl sgjebgcc 0
+6
+wait 7
+impl sjjddjjb 0
+impl sciicgbc 4
+impl sgaejhbd 4
+impl sbcfaicg 1
+impl siajjdjf 1
+5
+wait 7
+impl sjjddjjb 3
+impl sdggdcjj 3
+impl sbggjced 0
+impl shdbaiac 4
+6
+wait 7
+impl sjjddjjb 4
+impl sfjfdcca 4
+impl sfggacaj 4
+impl sbjecbeb 0
+impl seiiacii 4
+6
+wait 7
+impl sjjddjjb 2
+impl siggdgcc 3
+impl sfjhbfgj 4
+impl sdfghbfb 4
+impl scabdaha 0
+5
+wait 7
+impl siacedeb 1
+impl sdbfabag 1
+impl sbfighaa 1
+impl shdbaiac 2
+5
+wait 7
+impl siacedeb 0
+impl sdiigcif 0
+impl shaffjba 2
+impl siegbfac 1
+5
+wait 7
+impl siacedeb 3
+impl sbehiiba 2
+impl sbfighaa 0
+impl sebcdhg 0
+6
+wait 7
+impl siacedeb 4
+impl sciicgbc 2
+impl seiiebid 0
+impl sdbefbic 1
+impl sgefbded 2
+5
+wait 7
+impl siacedeb 2
+impl sbehiiba 3
+impl shhicjfa 2
+impl sjibgiab 1
+6
+wait 7
+impl sgfcbdcc 1
+impl sccaebgh 0
+impl sjiaai 4
+impl sbgdecib 3
+impl sfchgifi 0
+5
+wait 7
+impl sgfcbdcc 0
+impl shcdaed 4
+impl shfigfii 1
+impl secfdbdg 0
+6
+wait 7
+impl sgfcbdcc 3
+impl sfeachii 3
+impl shdhcdjb 2
+impl siccbhce 3
+impl sjdgfcfg 2
+6
+wait 7
+impl sgfcbdcc 4
+impl sdchcibg 4
+impl sfjhbfgj 0
+impl sgbebfae 3
+impl sbfbehae 4
+5
+wait 7
+impl sgfcbdcc 2
+impl sgjcgbc 1
+impl sfjhbfgj 2
+impl secfdbdg 3
+6
+wait 7
+impl sfedhaha 1
+impl sccebeib 3
+impl sehgfdci 4
+impl sfccaigc 4
+impl seehihd 0
+5
+wait 7
+impl sfedhaha 3
+impl sfigfbhh 0
+impl sdchhbic 3
+impl sgbebfae 0
+5
+wait 7
+impl sfedhaha 4
+impl sdfbhfec 0
+impl sgfieide 1
+impl sjdceaib 2
+6
+wait 7
+impl sbhejgje 1
+impl sbhiijcb 1
+impl shdifgae 2
+impl sfijhcgg 2
+impl sfbgcdfi 1
+6
+wait 7
+impl sbhejgje 0
+impl sifaciae 2
+impl scaegdd 2
+impl sbedhfi 4
+impl sgaejhje 2
+6
+wait 7
+impl sbhejgje 4
+impl sigjbhfd 1
+impl sdbjfieb 0
+impl sgghdehb 1
+impl sjdgfcfg 1
+6
+wait 7
+impl sgjdabef 1
+impl sdejbibh 0
+impl sjiaai 2
+impl sfagifeh 4
+impl schceega 4
+6
+wait 7
+impl sgjdabef 0
+impl sghjghbb 1
+impl sjhhcigi 1
+impl sdbgaihh 0
+impl sdijjdgg 3
+6
+wait 7
+impl sgjdabef 3
+impl scbechig 1
+impl seiiebid 2
+impl sbjecbeb 3
+impl sbcbcdhh 1
+6
+wait 7
+impl sgjdabef 4
+impl sbhiijcb 0
+impl sbjghcci 0
+impl sbedhfi 0
+impl seejghge 0
+6
+wait 7
+impl sgjdabef 2
+impl sbhiijcb 2
+impl sjcjddad 1
+impl scgfcbii 0
+impl sfecijai 2
+5
+wait 7
+impl sfgbgdfe 1
+impl sbeefabf 0
+impl sgcjbegc 2
+impl sjbfbdhh 1
+6
+wait 7
+impl sfgbgdfe 0
+impl scbcceji 1
+impl sibageea 4
+impl sjccgebi 1
+impl sbhheehb 0
+6
+wait 7
+impl sfgbgdfe 3
+impl sdejbibh 2
+impl shidfhcf 1
+impl sbedhfi 3
+impl sfbgcdfi 0
+6
+wait 7
+impl sfgbgdfe 4
+impl sceebfid 2
+impl scfiffjj 1
+impl sgbebfae 4
+impl siajjdjf 0
+6
+wait 7
+impl sfgbgdfe 2
+impl sjdafeab 2
+impl sjgbhhgg 4
+impl sgaabhfg 2
+impl sjhfbhbi 2
+6
+wait 7
+impl sbfigggf 1
+impl scgdajfb 0
+impl sdjcbcgh 4
+impl sgaaegif 2
+impl sdeihiee 2
+5
+wait 7
+impl sbfigggf 0
+impl sdggdcjj 4
+impl sdbibibi 2
+impl secfdbdg 2
+5
+wait 7
+impl sbfigggf 3
+impl siggdgcc 4
+impl sifdffj 0
+impl seabhfgg 3
+6
+wait 7
+impl sbfigggf 4
+impl sfjfdcca 2
+impl shahbbdg 1
+impl sdbefbic 0
+impl seehihd 3
+5
+wait 7
+impl sbfigggf 2
+impl sicahebi 2
+impl sehgfdci 1
+impl secebbab 2
+6
+wait 7
+impl scjaij 1
+impl sjbdffbh 2
+impl sjaghhee 1
+impl sedhifbj 2
+impl sbaggfda 2
+6
+wait 7
+impl scjaij 0
+impl sjdafeab 1
+impl sdbjfieb 3
+impl shihcdid 0
+impl sfdeehib 3
+6
+wait 7
+impl scjaij 3
+impl sceebfid 4
+impl sdegdfja 0
+impl sdfghbfb 0
+impl sdbaadcf 3
+6
+wait 7
+impl scjaij 4
+impl sghjghbb 2
+impl siebdfhg 3
+impl sjbfgdgj 3
+impl sfgdbdbe 1
+6
+wait 7
+impl scjaij 2
+impl sceebfid 1
+impl seiiebid 3
+impl sbjecbeb 4
+impl sdjcaga 4
+6
+wait 7
+impl sdfebhdh 1
+impl sbbajaih 4
+impl scaegdd 0
+impl sgaaegif 3
+impl sdijjdgg 0
+6
+wait 7
+impl sdfebhdh 0
+impl sdggbca 3
+impl schidfca 0
+impl scggiiib 0
+impl shebdgjj 0
+6
+wait 7
+impl sdfebhdh 3
+impl sccacdgh 1
+impl sjhfgcaf 0
+impl sjbjeich 0
+impl sbaggfda 1
+6
+wait 7
+impl sdfebhdh 4
+impl sbfbicab 0
+impl secbeegb 3
+impl sddigebe 2
+impl sbbahicd 3
+6
+wait 7
+impl sdfebhdh 2
+impl shfchddb 1
+impl scaegdd 3
+impl sdbeejje 0
+impl sdeihiee 0
+6
+wait 7
+impl shgbiiif 1
+impl sfeachii 4
+impl sjgfibf 2
+impl sbhbfbic 3
+impl sefhjdc 4
+6
+wait 7
+impl shgbiiif 0
+impl seffefgf 4
+impl shbiaedh 4
+impl siccbhce 4
+impl shjicibe 1
+6
+wait 7
+impl shgbiiif 3
+impl sgjjdjbe 4
+impl sfjhbfgj 3
+impl sdbgaihh 3
+impl sdbaadcf 4
+6
+wait 7
+impl shgbiiif 4
+impl sifcdica 4
+impl secbeegb 4
+impl shihcdid 3
+impl sdfaejhb 0
+6
+wait 7
+impl shgbiiif 2
+impl sjbdffbh 3
+impl sjgbhhgg 2
+impl sebbegej 0
+impl sjcdbghf 0
+6
+wait 7
+impl sgdadeig 1
+impl sicahebi 1
+impl sfggacaj 2
+impl sibfegfc 1
+impl sgfeafce 4
+6
+wait 7
+impl sgdadeig 3
+impl sccaebgh 2
+impl shidfhcf 3
+impl sjidbfhf 3
+impl scabdaha 2
+6
+wait 7
+impl sgdadeig 4
+impl shagigc 4
+impl sgijedei 3
+impl sggfjebe 0
+impl sdagbbie 2
+6
+wait 7
+impl sgdadeig 2
+impl sccaebgh 3
+impl shfigfii 0
+impl sifiaihg 4
+impl sihheidi 3
+5
+wait 7
+impl sceghbch 1
+impl sjhcgibj 0
+impl sedaibgj 1
+impl seahffae 4
+5
+wait 7
+impl sceghbch 0
+impl sdbfabag 0
+impl sdiccaej 0
+impl seabhfgg 4
+6
+wait 7
+impl sceghbch 3
+impl sdbfabag 3
+impl sfggacaj 1
+impl sedhifbj 1
+impl sfcggbhj 1
+5
+wait 7
+impl sceghbch 4
+impl shgfgebg 1
+impl siicebah 2
+impl seejbfbc 0
+6
+wait 7
+impl sceghbch 2
+impl shbggcbb 0
+impl scjgfif 0
+impl sgicfefj 3
+impl scghiegc 1
+6
+wait 7
+impl sceiheaa 1
+impl sgjcgbc 0
+impl shfjefhg 0
+impl sfifghfc 4
+impl shdigjjf 0
+6
+wait 7
+impl sceiheaa 0
+impl sjdhggha 1
+impl sgbhedbe 3
+impl sejiahib 3
+impl scdjdegj 3
+6
+wait 7
+impl sceiheaa 3
+impl sjdhggha 0
+impl secdjgaj 3
+impl sfigifda 3
+impl sfgdbdbe 0
+6
+wait 7
+impl sceiheaa 4
+impl sifcdica 0
+impl sdegdfja 3
+impl sgdgdbgc 1
+impl sihheidi 4
+6
+wait 7
+impl sceiheaa 2
+impl sifcdica 2
+impl siebdfhg 4
+impl sebcacbj 0
+impl sdfeaifj 2
+6
+wait 7
+impl sjgechfg 1
+impl shcdaed 2
+impl shfigfii 2
+impl sdbefbic 3
+impl shdbejaf 2
+6
+wait 7
+impl sjgechfg 0
+impl sfbcebd 0
+impl sdiccaej 4
+impl sebgjdfj 4
+impl shdigjjf 3
+5
+wait 7
+impl sjgechfg 3
+impl sfbcebd 3
+impl sdbibibi 1
+impl sefcicf 1
+6
+wait 7
+impl sjgechfg 4
+impl sjdhggha 3
+impl sdbigbjc 2
+impl sciccchi 1
+impl schecehg 2
+5
+wait 7
+impl sjgechfg 2
+impl sgjjdjbe 2
+impl shahbbdg 0
+impl sfifghfc 1
+5
+wait 7
+impl sijgbefe 1
+impl sgbfibae 0
+impl siaiaibc 2
+impl scgdgfci 1
+6
+wait 7
+impl sijgbefe 0
+impl sfigfbhh 3
+impl sebjaiec 4
+impl sjeaafc 3
+impl sfcggbhj 4
+5
+wait 7
+impl sijgbefe 3
+impl sfigfbhh 4
+impl segfcdea 3
+impl sebcdhg 3
+6
+wait 7
+impl sijgbefe 4
+impl shcgeicf 1
+impl sidaghaa 2
+impl sjidbfhf 4
+impl secjibje 3
+5
+wait 7
+impl sijgbefe 2
+impl shgdijgd 1
+impl scjgfif 3
+impl sibfegf 0
+5
+wait 7
+impl seichbij 1
+impl sccebeib 4
+impl sehgfdci 0
+impl sibgccjd 3
+6
+wait 7
+impl seichbij 0
+impl sjhcgibj 3
+impl sbfighaa 3
+impl sjeaafc 4
+impl sgahjjga 0
+5
+wait 7
+impl seichbij 3
+impl sjhcgibj 4
+impl sgijedei 4
+impl sdjfigf 1
+5
+wait 7
+impl seichbij 2
+impl shcgeicf 0
+impl sihbadad 0
+impl siaaaijf 1
+6
+wait 7
+impl sjhcbiej 1
+impl scjbiahd 4
+impl sbejicdd 3
+impl sfjdjbai 2
+impl sjjcjgda 3
+6
+wait 7
+impl sjhcbiej 0
+impl sbeefabf 3
+impl sfigichb 0
+impl sbhbfbic 4
+impl schjeejj 4
+6
+wait 7
+impl sjhcbiej 3
+impl sbeefabf 4
+impl sdegdfja 4
+impl sbgcffjj 3
+impl sfcachbe 1
+6
+wait 7
+impl sjhcbiej 4
+impl sjdhggha 4
+impl sgjbidi 0
+impl sjffhdjf 3
+impl sbjhbcjg 1
+6
+wait 7
+impl sjhcbiej 2
+impl seffefgf 2
+impl sdcdieeg 0
+impl sdbeejje 3
+impl sjeaefjj 1
+5
+wait 7
+impl sccchhci 1
+impl sccccgig 1
+impl sebfhjaa 1
+impl sfdhciaf 3
+5
+wait 7
+impl sccchhci 0
+impl siieijgi 3
+impl sdcgijgg 1
+impl sbahdcdb 2
+6
+wait 7
+impl sccchhci 3
+impl siieijgi 4
+impl seibeedd 3
+impl sejiahib 4
+impl siajeib 1
+6
+wait 7
+impl sccchhci 4
+impl sefcfbdi 0
+impl sehgfdci 2
+impl sfccaigc 1
+impl sdagbbie 1
+6
+wait 7
+impl sccchhci 2
+impl sefcfbdi 3
+impl sehgfdci 3
+impl sfccaigc 0
+impl sjabdcb 1
+5
+wait 7
+impl sbbhgjgj 1
+impl shgdijgd 0
+impl shhicjfa 0
+impl siaaaijf 0
+6
+wait 7
+impl sbbhgjgj 0
+impl scjdhaf 1
+impl segfcdea 4
+impl sgicfefj 0
+impl shicgefd 3
+5
+wait 7
+impl sbbhgjgj 3
+impl scjdhaf 0
+impl shdhggbj 1
+impl sbaghcei 0
+5
+wait 7
+impl sbbhgjgj 4
+impl scgdajfb 3
+impl shiddafa 4
+impl sifiaihg 1
+5
+wait 7
+impl sbbhgjgj 2
+impl shgfgebg 0
+impl sedcdfhg 1
+impl sgjebgcc 3
+6
+wait 7
+impl siegjfce 1
+impl scjbiahd 2
+impl siddbedb 3
+impl sjfibbaa 4
+impl sibjehd 3
+5
+wait 7
+impl siegjfce 0
+impl sbeefabf 2
+impl sdegdfja 2
+impl sjbfbdhh 0
+5
+wait 7
+impl siegjfce 3
+impl sjdbiafi 1
+impl seddgddc 1
+impl sibgccjd 4
+6
+wait 7
+impl siegjfce 4
+impl sjdhggha 2
+impl sjhfgcaf 3
+impl sibghdfc 0
+impl sjbgeife 0
+6
+wait 7
+impl siegjfce 2
+impl sbfccieb 1
+impl sibageea 2
+impl scdgadgb 1
+impl sejcijhg 2
+5
+wait 7
+impl sfcccaji 1
+impl sccebeib 2
+impl seddgddc 0
+impl sebgjdfj 1
+6
+wait 7
+impl sfcccaji 0
+impl sjhcgibj 2
+impl shbafhia 3
+impl sifiaihg 2
+impl sihheidi 2
+5
+wait 7
+impl sfcccaji 3
+impl sfigfbhh 1
+impl sccihhcb 3
+impl sjjdbia 4
+6
+wait 7
+impl sfcccaji 4
+impl sdddcjbj 2
+impl shajdiie 1
+impl shfbbeej 2
+impl sjabdcb 0
+5
+wait 7
+impl sfcccaji 2
+impl shcgeicf 3
+impl sbggjced 3
+impl sebcdhg 4
+5
+wait 7
+impl seefejh 1
+impl shgfgebg 3
+impl sghchecb 0
+impl sijcbgfi 1
+5
+wait 7
+impl seefejh 0
+impl sccccgig 0
+impl sfjiibae 0
+impl scjdffaj 4
+5
+wait 7
+impl seefejh 3
+impl sccccgig 3
+impl secdijaj 4
+impl sbefaghj 0
+6
+wait 7
+impl seefejh 4
+impl sghgijac 1
+impl sbejaigj 0
+impl sgbidefg 2
+impl sfcachbe 0
+6
+wait 7
+impl seefejh 2
+impl siggdgcc 2
+impl siabiicg 3
+impl sggfjebe 2
+impl scghiegc 0
+6
+wait 7
+impl sihcbjch 1
+impl scjbiahd 1
+impl shgfdjb 4
+impl sgehfggd 1
+impl sgfeafce 1
+5
+wait 7
+impl sihcbjch 0
+impl sfbcebd 4
+impl sgacbhhc 3
+impl sjaaddci 3
+5
+wait 7
+impl sihcbjch 3
+impl sfbcebd 2
+impl sgacbhhc 4
+impl shbfbjac 3
+6
+wait 7
+impl sihcbjch 4
+impl sjbdffbh 4
+impl sgjbidi 3
+impl seaghdji 3
+impl sbbifbji 3
+5
+wait 7
+impl sihcbjch 2
+impl seffefgf 1
+impl sifdffj 1
+impl sbficehi 1
+5
+wait 7
+impl sdbhcjei 1
+impl segchigc 0
+impl sgfieide 0
+impl sbjjahjf 3
+5
+wait 7
+impl sdbhcjei 0
+impl sbahhfha 0
+impl siicbbgj 0
+impl shgcjaig 1
+5
+wait 7
+impl sdbhcjei 3
+impl sbahhfha 3
+impl sbchehcg 1
+impl seejbfbc 3
+5
+wait 7
+impl sdbhcjei 4
+impl shbggcbb 3
+impl shdhggbj 3
+impl sdcaggji 2
+5
+wait 7
+impl sdbhcjei 2
+impl sdbfabag 4
+impl shedhifc 3
+impl sdjfigf 2
+5
+wait 7
+impl sdfcjigf 1
+impl sgbfibae 3
+impl scgfjjeg 1
+impl seejbfbc 4
+5
+wait 7
+impl sdfcjigf 0
+impl sfigfbhh 2
+impl sbadfiih 1
+impl sjiecdh 2
+5
+wait 7
+impl sdfcjigf 3
+impl segchigc 1
+impl scgfjjeg 4
+impl sbbfggfg 1
+5
+wait 7
+impl sdfcjigf 4
+impl sdfbhfec 3
+impl sieeaadc 3
+impl shbfbjac 4
+5
+wait 7
+impl sdfcjigf 2
+impl shgdijgd 3
+impl sihbadad 3
+impl scjdffaj 2
+6
+wait 7
+impl sbicdfag 1
+impl shgdijgd 4
+impl sdfccjid 2
+impl sgbebfae 2
+impl sdeihiee 3
+6
+wait 7
+impl sbicdfag 3
+impl scjdhaf 3
+impl sjbdhiec 4
+impl sjebhahc 1
+impl sijgdegb 1
+6
+wait 7
+impl sbicdfag 2
+impl shgfgebg 4
+impl sebfhjaa 0
+impl sccjbhei 1
+impl siajjdjf 3
+6
+wait 7
+impl shbjgffd 1
+impl sdfbhfec 4
+impl sebfhjaa 3
+impl sggfjebe 3
+impl siiefbja 1
+5
+wait 7
+impl shbjgffd 0
+impl shfijii 3
+impl sdjcbcgh 1
+impl sechfjih 0
+5
+wait 7
+impl shbjgffd 3
+impl shgfgebg 2
+impl scecbgaj 0
+impl shgggbbj 1
+5
+wait 7
+impl shbjgffd 4
+impl sdiigcif 1
+impl siicbbgj 2
+impl seahffae 2
+5
+wait 7
+impl shbjgffd 2
+impl scgdajfb 4
+impl segfjhcb 1
+impl sebcdhg 2
+6
+wait 7
+impl scbfacj 1
+impl shbggcbb 4
+impl sjbdhiec 2
+impl sfifghfc 2
+impl shdigjjf 1
+5
+wait 7
+impl scbfacj 0
+impl sccccgig 4
+impl sibacbbd 4
+impl sjibgiab 0
+5
+wait 7
+impl scbfacj 3
+impl sbehjggj 4
+impl siabiicg 4
+impl shdbaiac 1
+5
+wait 7
+impl scbfacj 4
+impl sghgijac 0
+impl scaegdd 1
+impl sefcicf 0
+6
+wait 7
+impl scbfacj 2
+impl sdggdcjj 2
+impl shbafhia 4
+impl sedhifbj 0
+impl sbjcaedg 1
+6
+wait 7
+impl sbbgdaej 1
+impl segchigc 4
+impl sdchhbic 4
+impl sgbidefg 4
+impl sfcachbe 3
+6
+wait 7
+impl sbbgdaej 0
+impl sbahhfha 4
+impl sedcdfhg 0
+impl sbficehi 0
+impl siajjdjf 4
+6
+wait 7
+impl sbbgdaej 3
+impl sdddcjbj 0
+impl sdjcbcgh 2
+impl sgaaegif 4
+impl shdigjjf 4
+5
+wait 7
+impl sbbgdaej 4
+impl shbggcbb 2
+impl sibacbbd 2
+impl sbefaghj 4
+5
+wait 7
+impl sbbgdaej 2
+impl sbahhfha 1
+impl seagajei 1
+impl sjbdbgic 4
+5
+wait 7
+impl sgigedhh 1
+impl sdiigcif 2
+impl sfaiijie 4
+impl sgajbacd 4
+5
+wait 7
+impl sgigedhh 0
+impl sghgijac 3
+impl sgaejhbd 1
+impl sjaaddci 4
+5
+wait 7
+impl sgigedhh 3
+impl siggdgcc 1
+impl sbggjced 4
+impl secebbab 1
+6
+wait 7
+impl sgigedhh 4
+impl siieijgi 2
+impl seibeedd 2
+impl seaieahg 4
+impl sgafhfh 4
+5
+wait 7
+impl sgigedhh 2
+impl sicahebi 0
+impl siabiicg 2
+impl shdbaiac 0
+5
+wait 7
+impl sbhcjjii 1
+impl scjdhaf 4
+impl shhicjfa 3
+impl scjdffaj 1
+5
+wait 7
+impl sbhcjjii 0
+impl sbehjggj 2
+impl sgacbhhc 1
+impl sbahdcdb 1
+6
+wait 7
+impl sbhcjjii 3
+impl sbgjfa 2
+impl sdbjidge 1
+impl sgghdehb 0
+impl sdfabbhc 1
+5
+wait 7
+impl sbhcjjii 4
+impl siggdgcc 0
+impl sdbibibi 0
+impl sbceejeh 1
+5
+wait 7
+impl sbhcjjii 2
+impl sccccgig 2
+impl sihdhgf 1
+impl sgadeiij 0
+6
+wait 7
+impl shhcgddc 1
+impl sehhdfeb 4
+impl shajdiie 3
+impl sfgecebh 3
+impl shgbahb 2
+5
+wait 7
+impl shhcgddc 0
+impl sdfbhfec 2
+impl sebfhjaa 4
+impl sdjfigf 0
+5
+wait 7
+impl shhcgddc 3
+impl shcgeicf 4
+impl shbafhia 1
+impl sijgffdj 3
+5
+wait 7
+impl shhcgddc 4
+impl sbahhfha 2
+impl sieeaadc 4
+impl sbceejeh 0
+5
+wait 7
+impl shhcgddc 2
+impl sdfbhfec 1
+impl scgfjjeg 2
+impl sjjdbia 1
+5
+wait 7
+impl sciejhhg 1
+impl sbjjaeii 0
+impl sihdhgf 2
+impl siaaaijf 3
+5
+wait 7
+impl sciejhhg 0
+impl sidbigfa 0
+impl sebfhjaa 2
+impl secebbab 4
+6
+wait 7
+impl sciejhhg 3
+impl sidbigfa 3
+impl segfcdea 2
+impl sgicfefj 1
+impl sijgdegb 2
+5
+wait 7
+impl sciejhhg 4
+impl sfjjihfa 0
+impl sieeaadc 2
+impl sijgffdj 4
+5
+wait 7
+impl sciejhhg 2
+impl sidbigfa 1
+impl sedcdfhg 3
+impl seabhfgg 2
+6
+wait 7
+impl seiegagg 1
+impl sccaebgh 4
+impl shidfhcf 4
+impl sjidbfhf 1
+impl sbfbehae 2
+5
+wait 7
+impl seiegagg 0
+impl sgjcgbc 3
+impl sdjcbcgh 3
+impl sdbgaihh 1
+6
+wait 7
+impl seiegagg 3
+impl sfeachii 2
+impl secbeegb 1
+impl sbaajbce 1
+impl sgahjjga 3
+5
+wait 7
+impl seiegagg 4
+impl sdchcibg 1
+impl sihdhgf 0
+impl sbjficec 2
+5
+wait 7
+impl seiegagg 2
+impl sbdfbf 0
+impl sgijedei 2
+impl sdjfigf 3
+5
+wait 7
+impl sdhbgcei 1
+impl sefcfbdi 4
+impl seddgddc 3
+impl sjaaddci 2
+5
+wait 7
+impl sdhbgcei 0
+impl shagigc 1
+impl sihdhgf 3
+impl scfbdabj 3
+6
+wait 7
+impl sdhbgcei 3
+impl shagigc 0
+impl sbggjced 2
+impl sgicfefj 4
+impl sfchgifi 3
+5
+wait 7
+impl sdhbgcei 4
+impl sgjcgbc 4
+impl segfjhcb 0
+impl sibgccjd 1
+6
+wait 7
+impl sdhbgcei 2
+impl scjbiahd 0
+impl sjgfibf 0
+impl sfgecebh 4
+impl schecehg 1
+6
+wait 7
+impl seefjbif 1
+impl sgfcfdbh 4
+impl sjbdhiec 1
+impl sgbidefg 1
+impl sihheidi 1
+5
+wait 7
+impl seefjbif 0
+impl sjfchegd 0
+impl shaffjba 1
+impl sbfhaibi 0
+5
+wait 7
+impl seefjbif 3
+impl sjfchegd 4
+impl sfjiibae 2
+impl sbefaghj 2
+5
+wait 7
+impl seefjbif 4
+impl sbjjaeii 4
+impl sedaibgj 0
+impl sjiecdh 1

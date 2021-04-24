@@ -1,5 +1,6 @@
 from heapq import *
 import random
+import sys
 L, G, S, B, F, N = [int(x) for x in input().split()]
 
 stoi = dict()
@@ -52,7 +53,7 @@ for i in range(Bin, G):
 nt = [0]*G
 for i in range(Bin):
 	for k in range(len(btos[i])//2):
-		if nt[i] + max(len(btos[i]), len(btos[i+Bin])) > 20:
+		if nt[i] + max(len(btos[i]), len(btos[i+Bin])) > int(sys.argv[1]):
 			break
 		nt[i] += max(len(btos[i]), len(btos[i+Bin]))
 		s = random.choice(btos[i])

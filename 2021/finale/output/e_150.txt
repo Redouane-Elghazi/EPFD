@@ -1,0 +1,3171 @@
+1000
+4
+new
+move sbfd 2
+wait 2
+impl sbbcchfb 0
+3
+new
+move sbif 3
+impl seacajee 1
+3
+wait 4
+wait 101
+impl sihaaddd 1
+3
+wait 4
+wait 101
+impl sejcbdfe 0
+3
+wait 4
+wait 101
+impl shfdhehd 0
+3
+wait 4
+wait 101
+impl sebbaaif 1
+3
+wait 4
+wait 101
+impl shghjbi 1
+3
+wait 4
+wait 101
+impl sihbfedi 1
+3
+wait 4
+wait 101
+impl sihbfedi 0
+3
+wait 4
+wait 101
+impl sdaeabdf 1
+3
+wait 4
+wait 101
+impl shhejdab 0
+3
+wait 4
+wait 101
+impl scjajghj 0
+3
+wait 4
+wait 101
+impl sgfeaeej 1
+3
+wait 4
+wait 101
+impl sgfeaeej 0
+3
+wait 4
+wait 101
+impl sgfaddad 1
+3
+wait 4
+wait 101
+impl sgfaddad 0
+3
+wait 4
+wait 101
+impl sbibhdeh 1
+3
+wait 4
+wait 101
+impl sgijcebi 0
+3
+wait 4
+wait 101
+impl sedefdjc 1
+3
+wait 4
+wait 101
+impl sbcdadcj 1
+3
+wait 4
+wait 101
+impl sfgefcfh 1
+3
+wait 4
+wait 101
+impl sfgefcfh 0
+3
+wait 4
+wait 101
+impl sbcbhiaa 1
+3
+wait 4
+wait 101
+impl sbcbhiaa 0
+3
+wait 4
+wait 101
+impl sibjccge 0
+3
+wait 4
+wait 101
+impl sgfbafdh 1
+3
+wait 4
+wait 101
+impl sgfbafdh 0
+3
+wait 4
+wait 101
+impl sbcadbij 1
+3
+wait 4
+wait 101
+impl sbcadbij 0
+3
+wait 4
+wait 101
+impl sbbciefa 1
+3
+wait 4
+wait 101
+impl sbbciefa 0
+3
+wait 4
+wait 101
+impl sdjaeafb 1
+3
+wait 4
+wait 101
+impl scdbgfjf 1
+3
+wait 4
+wait 101
+impl scdbgfjf 0
+3
+wait 4
+wait 101
+impl sehbaiga 1
+3
+wait 4
+wait 101
+impl sehbaiga 0
+3
+wait 4
+wait 101
+impl scicgaji 1
+3
+wait 4
+wait 101
+impl sgcfbd 1
+3
+wait 4
+wait 101
+impl sgcfbd 0
+3
+wait 4
+wait 101
+impl secafejg 1
+3
+wait 4
+wait 101
+impl secafejg 0
+3
+wait 4
+wait 101
+impl seafeafb 0
+3
+wait 4
+wait 101
+impl sdejfiie 1
+3
+wait 4
+wait 101
+impl siabdjfc 1
+3
+wait 4
+wait 101
+impl siabdjfc 0
+3
+wait 4
+wait 101
+impl shgjcdec 1
+3
+wait 4
+wait 101
+impl shgjcdec 0
+3
+wait 4
+wait 101
+impl shacfcbd 1
+3
+wait 4
+wait 101
+impl shacfcbd 0
+3
+wait 4
+wait 101
+impl sddbejje 1
+3
+wait 4
+wait 101
+impl sddbejje 0
+3
+wait 4
+wait 101
+impl seeecgii 1
+3
+wait 4
+wait 101
+impl seeecgii 0
+3
+wait 4
+wait 101
+impl sjeijjdf 1
+3
+wait 4
+wait 101
+impl sjeijjdf 0
+3
+wait 4
+wait 101
+impl sjcbhigg 1
+3
+wait 4
+wait 101
+impl sgbjjahf 1
+3
+wait 4
+wait 101
+impl sgbjjahf 0
+3
+wait 4
+wait 101
+impl sdggidfg 1
+3
+wait 4
+wait 101
+impl sdggidfg 0
+3
+wait 4
+wait 101
+impl sgffhfgb 1
+3
+wait 4
+wait 101
+impl sgffhfgb 0
+3
+wait 4
+wait 101
+impl scafbfej 1
+3
+wait 4
+wait 101
+impl scafbfej 0
+3
+wait 4
+wait 101
+impl sdeechcc 1
+3
+wait 4
+wait 101
+impl sdeechcc 0
+3
+wait 4
+wait 101
+impl sfgiigee 1
+3
+wait 4
+wait 101
+impl sibebcbb 1
+3
+wait 4
+wait 101
+impl sibebcbb 0
+3
+wait 4
+wait 101
+impl scfeajd 1
+3
+wait 4
+wait 101
+impl secfjgaa 0
+3
+wait 4
+wait 101
+impl sfifhbfe 1
+3
+wait 4
+wait 101
+impl sfifhbfe 0
+3
+wait 4
+wait 101
+impl scibehej 1
+3
+wait 4
+wait 101
+impl scibehej 0
+3
+wait 4
+wait 101
+impl sjbccicc 1
+3
+wait 4
+wait 101
+impl sjbccicc 0
+3
+wait 4
+wait 101
+impl siicjdcg 1
+3
+wait 4
+wait 101
+impl siicjdcg 0
+3
+wait 4
+wait 101
+impl sgeaicfb 1
+3
+wait 4
+wait 101
+impl sgeaicfb 0
+3
+wait 4
+wait 101
+impl secghiej 1
+3
+wait 4
+wait 101
+impl secghiej 0
+3
+wait 4
+wait 101
+impl sjjcccia 1
+3
+wait 4
+wait 101
+impl sjjcccia 0
+3
+wait 4
+wait 101
+impl sjhfebca 1
+3
+wait 4
+wait 101
+impl sjhfebca 0
+3
+wait 4
+wait 101
+impl sgeihiic 1
+3
+wait 4
+wait 101
+impl sgeihiic 0
+3
+wait 4
+wait 101
+impl sdcgjcbf 1
+3
+wait 4
+wait 101
+impl sdcgjcbf 0
+3
+wait 4
+wait 101
+impl scbheecj 1
+3
+wait 4
+wait 101
+impl scbheecj 0
+3
+wait 4
+wait 101
+impl seefabdg 1
+3
+wait 4
+wait 101
+impl scfjjdjg 0
+3
+wait 4
+wait 101
+impl shgbegij 1
+3
+wait 4
+wait 101
+impl shgbegij 0
+3
+wait 4
+wait 101
+impl sjgbcffd 1
+3
+wait 4
+wait 101
+impl sjgbcffd 0
+3
+wait 4
+wait 101
+impl scjgafg 1
+3
+wait 4
+wait 101
+impl scjgafg 0
+3
+wait 4
+wait 101
+impl siaejggb 1
+3
+wait 4
+wait 101
+impl siaejggb 0
+3
+wait 4
+wait 101
+impl sgdhijej 1
+3
+wait 4
+wait 101
+impl sgdhijej 0
+3
+wait 4
+wait 101
+impl sebijjdf 1
+3
+wait 4
+wait 101
+impl sebijjdf 0
+3
+wait 4
+wait 101
+impl sidcbdcg 1
+3
+wait 4
+wait 101
+impl scbgehaj 1
+3
+wait 4
+wait 101
+impl scbgehaj 0
+3
+wait 4
+wait 101
+impl shddfeih 1
+3
+wait 4
+wait 101
+impl shddfeih 0
+3
+wait 4
+wait 101
+impl seebgedb 0
+3
+wait 4
+wait 101
+impl sigjbbj 1
+3
+wait 4
+wait 101
+impl sigjbbj 0
+3
+wait 4
+wait 101
+impl sejjjdhh 1
+3
+wait 4
+wait 101
+impl sejjjdhh 0
+3
+wait 4
+wait 101
+impl sdfehjjh 1
+3
+wait 4
+wait 101
+impl sgbfdcdc 0
+3
+wait 4
+wait 101
+impl sjecbaeh 1
+3
+wait 4
+wait 101
+impl sjecbaeh 0
+3
+wait 4
+wait 101
+impl sjhiedfb 1
+3
+wait 4
+wait 101
+impl sjhiedfb 0
+3
+wait 4
+wait 101
+impl sbfahjej 1
+3
+wait 4
+wait 101
+impl sbfahjej 0
+3
+wait 4
+wait 101
+impl scgjjhbh 1
+3
+wait 4
+wait 101
+impl scgjjhbh 0
+3
+wait 4
+wait 101
+impl sejcjbjf 1
+3
+wait 4
+wait 101
+impl sejcjbjf 0
+3
+wait 4
+wait 101
+impl sfacfggi 1
+3
+wait 4
+wait 101
+impl sfacfggi 0
+3
+wait 4
+wait 101
+impl sccihe 1
+3
+wait 4
+wait 101
+impl sccihe 0
+3
+wait 4
+wait 101
+impl shbjhaeh 1
+3
+wait 4
+wait 101
+impl shbjhaeh 0
+3
+wait 4
+wait 101
+impl sheegbcg 1
+3
+wait 4
+wait 101
+impl sheegbcg 0
+3
+wait 4
+wait 101
+impl shicfiag 1
+3
+wait 4
+wait 101
+impl shicfiag 0
+3
+wait 4
+wait 101
+impl segghbga 1
+3
+wait 4
+wait 101
+impl segghbga 0
+3
+wait 4
+wait 101
+impl secgbdah 1
+3
+wait 4
+wait 101
+impl secgbdah 0
+3
+wait 4
+wait 101
+impl scjighfg 1
+3
+wait 4
+wait 101
+impl scjighfg 0
+3
+wait 4
+wait 101
+impl sbcjiie 1
+3
+wait 4
+wait 101
+impl sbcjiie 0
+3
+wait 4
+wait 101
+impl sighiagc 1
+3
+wait 4
+wait 101
+impl sighiagc 0
+3
+wait 4
+wait 101
+impl sgjcibef 1
+3
+wait 4
+wait 101
+impl sfdgggfe 0
+3
+wait 4
+wait 101
+impl sieafdid 1
+3
+wait 4
+wait 101
+impl sieafdid 0
+3
+wait 4
+wait 101
+impl sdehjghc 1
+3
+wait 4
+wait 101
+impl sdehjghc 0
+3
+wait 4
+wait 101
+impl sbjejgjj 1
+3
+wait 4
+wait 101
+impl sbjejgjj 0
+3
+wait 4
+wait 101
+impl sbciihba 1
+3
+wait 4
+wait 101
+impl sbciihba 0
+3
+wait 4
+wait 101
+impl sgbbdeii 1
+3
+wait 4
+wait 101
+impl sgbbdeii 0
+3
+wait 4
+wait 101
+impl seicdjjf 1
+3
+wait 4
+wait 101
+impl seicdjjf 0
+3
+wait 4
+wait 101
+impl sibajfgd 1
+3
+wait 4
+wait 101
+impl sibajfgd 0
+3
+wait 4
+wait 101
+impl sbjafeib 1
+3
+wait 4
+wait 101
+impl sbjafeib 0
+3
+wait 4
+wait 101
+impl segcagid 1
+3
+wait 4
+wait 101
+impl segcagid 0
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
+2
+wait 4
+wait 101
