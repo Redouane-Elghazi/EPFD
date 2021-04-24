@@ -49,9 +49,6 @@ def stats(L, G, S, B, F, N, services, features):
 	print("\tnb initial binaries", B)
 	print("\tnb features", F)
 	print("\tduration to create bin", N)
-	print("")
-	
-	print("\n")
 	
 def features_per_services(NAME, L, G, S, B, F, N, services, features):
 	data = {name : 0 for name, _ in services.items()}
@@ -120,9 +117,18 @@ def binaries_per_features(NAME, L, G, S, B, F, N, services, features):
 
 	pl.savefig(NAME + "_bin_per_ft.png")
 	
+def max_score(L, G, S, B, F, N, services, features):
+	#max si on fait tout les features
+	score = 0
+	for name, (nb_services, difficulty, nb_users, s) in features.items():
+		score += nb_users * max(0, L - difficulty)
+		
+	print("max score", score)
+	
+	
 for k in "abcdef":
 	filename = f"inputs/{k}.txt"
 	L, G, S, B, F, N, services, features = parse(filename)
 	stats(L, G, S, B, F, N, services, features)
-	services_per_features(k, L, G, S, B, F, N, services, features)
-	binaries_per_features(k, L, G, S, B, F, N, services, features)
+	max_score(L, G, S, B, F, N, services, features)
+	print("\n")
