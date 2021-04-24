@@ -1,339 +1,2170 @@
-169
-1
+1000
+2
+new
+impl sbbcchfb 0
+2
+new
+impl seacajee 1
+2
+wait 4
+impl sihaaddd 1
+2
+wait 4
+impl sejcbdfe 0
+2
+wait 4
+impl shfdhehd 0
+2
+wait 4
+impl sebbaaif 1
+2
+wait 4
+impl shghjbi 1
+2
+wait 4
+impl sdaeabdf 1
+2
+wait 4
+impl sihbfedi 1
+2
+wait 4
+impl sihbfedi 0
+2
+wait 4
+impl shhejdab 0
+2
+wait 4
+impl scjajghj 0
+2
+wait 4
+impl sgfeaeej 1
+2
+wait 4
+impl sgfeaeej 0
+2
+wait 4
+impl sgfaddad 1
+2
+wait 4
+impl sgfaddad 0
+2
+wait 4
+impl sbibhdeh 1
+2
+wait 4
+impl sgijcebi 0
+2
+wait 4
+impl sedefdjc 1
+2
+wait 4
+impl sbcdadcj 1
+2
+wait 4
+impl sfgefcfh 1
+2
+wait 4
+impl sfgefcfh 0
+2
+wait 4
+impl sbcbhiaa 1
+2
+wait 4
+impl sbcbhiaa 0
+2
+wait 4
+impl sibjccge 0
+2
+wait 4
+impl sgfbafdh 1
+2
+wait 4
+impl sgfbafdh 0
+2
+wait 4
+impl sbcadbij 1
+2
+wait 4
+impl sbcadbij 0
+2
+wait 4
+impl sbbciefa 1
+2
+wait 4
+impl sbbciefa 0
+2
+wait 4
+impl sdjaeafb 1
+2
+wait 4
+impl scdbgfjf 1
+2
+wait 4
+impl scdbgfjf 0
+2
+wait 4
+impl sehbaiga 1
+2
+wait 4
+impl sehbaiga 0
+2
+wait 4
+impl scicgaji 1
+2
+wait 4
+impl sgcfbd 1
+2
+wait 4
+impl sgcfbd 0
+2
+wait 4
+impl secafejg 1
+2
+wait 4
+impl secafejg 0
+2
+wait 4
+impl seafeafb 0
+2
+wait 4
+impl sdejfiie 1
+2
+wait 4
+impl siabdjfc 1
+2
+wait 4
+impl siabdjfc 0
+2
+wait 4
+impl shgjcdec 1
+2
+wait 4
+impl shgjcdec 0
+2
+wait 4
+impl sddbejje 1
+2
+wait 4
+impl sddbejje 0
+2
+wait 4
+impl shacfcbd 1
+2
+wait 4
+impl shacfcbd 0
+2
+wait 4
+impl seeecgii 1
+2
+wait 4
+impl seeecgii 0
+2
+wait 4
+impl sjeijjdf 1
+2
+wait 4
+impl sjeijjdf 0
+2
+wait 4
+impl sjcbhigg 1
+2
+wait 4
+impl sgbjjahf 1
+2
+wait 4
+impl sgbjjahf 0
+2
+wait 4
+impl sdggidfg 1
+2
+wait 4
+impl sdggidfg 0
+2
+wait 4
+impl scafbfej 1
+2
+wait 4
+impl scafbfej 0
+2
+wait 4
+impl sgffhfgb 1
+2
+wait 4
+impl sgffhfgb 0
+2
+wait 4
+impl sdeechcc 1
+2
+wait 4
+impl sdeechcc 0
+2
+wait 4
+impl sfgiigee 1
+2
+wait 4
+impl sibebcbb 1
+2
+wait 4
+impl sibebcbb 0
+2
+wait 4
+impl scfeajd 1
+2
+wait 4
+impl secfjgaa 0
+2
+wait 4
+impl sfifhbfe 1
+2
+wait 4
+impl sfifhbfe 0
+2
+wait 4
+impl scibehej 1
+2
+wait 4
+impl scibehej 0
+2
+wait 4
+impl sjbccicc 1
+2
+wait 4
+impl sjbccicc 0
+2
+wait 4
+impl siicjdcg 1
+2
+wait 4
+impl siicjdcg 0
+2
+wait 4
+impl sgeaicfb 1
+2
+wait 4
+impl sgeaicfb 0
+2
+wait 4
+impl secghiej 1
+2
+wait 4
+impl secghiej 0
+2
+wait 4
+impl sjjcccia 1
+2
+wait 4
+impl sjjcccia 0
+2
+wait 4
+impl sjhfebca 1
+2
+wait 4
+impl sjhfebca 0
+2
+wait 4
+impl sgeihiic 1
+2
+wait 4
+impl sgeihiic 0
+2
+wait 4
+impl sdcgjcbf 1
+2
+wait 4
+impl sdcgjcbf 0
+2
+wait 4
+impl scbheecj 1
+2
+wait 4
+impl scbheecj 0
+2
+wait 4
+impl seefabdg 1
+2
+wait 4
+impl scfjjdjg 0
+2
+wait 4
+impl shgbegij 1
+2
+wait 4
+impl shgbegij 0
+2
+wait 4
+impl sjgbcffd 1
+2
+wait 4
+impl sjgbcffd 0
+2
+wait 4
+impl scjgafg 1
+2
+wait 4
+impl scjgafg 0
+2
+wait 4
+impl siaejggb 1
+2
+wait 4
+impl siaejggb 0
+2
+wait 4
+impl sgdhijej 1
+2
+wait 4
+impl sgdhijej 0
+2
+wait 4
+impl sebijjdf 1
+2
+wait 4
+impl sebijjdf 0
+2
+wait 4
+impl sidcbdcg 1
+2
+wait 4
+impl scbgehaj 1
+2
+wait 4
+impl scbgehaj 0
+2
+wait 4
+impl shddfeih 1
+2
+wait 4
+impl shddfeih 0
+2
+wait 4
+impl seebgedb 0
+2
+wait 4
+impl sigjbbj 1
+2
+wait 4
+impl sigjbbj 0
+2
+wait 4
+impl sejjjdhh 1
+2
+wait 4
+impl sejjjdhh 0
+2
+wait 4
+impl sdfehjjh 1
+2
+wait 4
+impl sgbfdcdc 0
+2
+wait 4
+impl sjecbaeh 1
+2
+wait 4
+impl sjecbaeh 0
+2
+wait 4
+impl sjhiedfb 1
+2
+wait 4
+impl sjhiedfb 0
+2
+wait 4
+impl sbfahjej 1
+2
+wait 4
+impl sbfahjej 0
+2
+wait 4
+impl scgjjhbh 1
+2
+wait 4
+impl scgjjhbh 0
+2
+wait 4
+impl sejcjbjf 1
+2
+wait 4
+impl sejcjbjf 0
+2
+wait 4
+impl sfacfggi 1
+2
+wait 4
+impl sfacfggi 0
+2
+wait 4
+impl sccihe 1
+2
+wait 4
+impl sccihe 0
+2
+wait 4
+impl shbjhaeh 1
+2
+wait 4
+impl shbjhaeh 0
+2
+wait 4
+impl sheegbcg 1
+2
+wait 4
+impl sheegbcg 0
+2
+wait 4
+impl shicfiag 1
+2
+wait 4
+impl shicfiag 0
+2
+wait 4
+impl segghbga 1
+2
+wait 4
+impl segghbga 0
+2
+wait 4
+impl secgbdah 1
+2
+wait 4
+impl secgbdah 0
+2
+wait 4
+impl scjighfg 1
+2
+wait 4
+impl scjighfg 0
+2
+wait 4
+impl sbcjiie 1
+2
+wait 4
+impl sbcjiie 0
+2
+wait 4
+impl sighiagc 1
+2
+wait 4
+impl sighiagc 0
+2
+wait 4
+impl sgjcibef 1
+2
+wait 4
+impl sfdgggfe 0
+2
+wait 4
+impl sieafdid 1
+2
+wait 4
+impl sieafdid 0
+2
+wait 4
+impl sdehjghc 1
+2
+wait 4
+impl sdehjghc 0
+2
+wait 4
+impl sbjejgjj 1
+2
+wait 4
+impl sbjejgjj 0
+2
+wait 4
+impl sbciihba 1
+2
+wait 4
+impl sbciihba 0
+2
+wait 4
+impl sgbbdeii 1
+2
+wait 4
+impl sgbbdeii 0
+2
+wait 4
+impl seicdjjf 1
+2
+wait 4
+impl seicdjjf 0
+2
+wait 4
+impl sibajfgd 1
+2
+wait 4
+impl sibajfgd 0
+2
+wait 4
+impl sbjafeib 1
+2
+wait 4
+impl sbjafeib 0
+2
+wait 4
 impl segcagid 1
-1
+2
+wait 4
 impl segcagid 0
 1
-impl sbjafeib 1
+wait 4
 1
-impl sbjafeib 0
+wait 4
 1
-impl sibajfgd 1
+wait 4
 1
-impl sibajfgd 0
+wait 4
 1
-impl seicdjjf 1
+wait 4
 1
-impl seicdjjf 0
+wait 4
 1
-impl sgbbdeii 1
+wait 4
 1
-impl sgbbdeii 0
+wait 4
 1
-impl sbciihba 1
+wait 4
 1
-impl sbciihba 0
+wait 4
 1
-impl sbjejgjj 1
+wait 4
 1
-impl sbjejgjj 0
+wait 4
 1
-impl sfdgggfe 0
+wait 4
 1
-impl sgjcibef 1
+wait 4
 1
-impl sdehjghc 1
+wait 4
 1
-impl sdehjghc 0
+wait 4
 1
-impl sieafdid 1
+wait 4
 1
-impl sieafdid 0
+wait 4
 1
-impl sighiagc 1
+wait 4
 1
-impl sighiagc 0
+wait 4
 1
-impl sgbfdcdc 0
+wait 4
 1
-impl shicfiag 1
+wait 4
 1
-impl shicfiag 0
+wait 4
 1
-impl segghbga 1
+wait 4
 1
-impl segghbga 0
+wait 4
 1
-impl sbcjiie 1
+wait 4
 1
-impl sbcjiie 0
+wait 4
 1
-impl sheegbcg 1
+wait 4
 1
-impl sheegbcg 0
+wait 4
 1
-impl sdfehjjh 1
+wait 4
 1
-impl shbjhaeh 1
+wait 4
 1
-impl shbjhaeh 0
+wait 4
 1
-impl secgbdah 1
+wait 4
 1
-impl secgbdah 0
+wait 4
 1
-impl seebgedb 0
+wait 4
 1
-impl sidcbdcg 1
+wait 4
 1
-impl scjighfg 1
+wait 4
 1
-impl scjighfg 0
+wait 4
 1
-impl sccihe 1
+wait 4
 1
-impl sccihe 0
+wait 4
 1
-impl sejcjbjf 1
+wait 4
 1
-impl sejcjbjf 0
+wait 4
 1
-impl sfacfggi 1
+wait 4
 1
-impl sfacfggi 0
+wait 4
 1
-impl scgjjhbh 1
+wait 4
 1
-impl scgjjhbh 0
+wait 4
 1
-impl scfjjdjg 0
+wait 4
 1
-impl seefabdg 1
+wait 4
 1
-impl sbfahjej 1
+wait 4
 1
-impl sbfahjej 0
+wait 4
 1
-impl sjhiedfb 1
+wait 4
 1
-impl sjhiedfb 0
+wait 4
 1
-impl sjecbaeh 1
+wait 4
 1
-impl sjecbaeh 0
+wait 4
 1
-impl shddfeih 1
+wait 4
 1
-impl shddfeih 0
+wait 4
 1
-impl sigjbbj 1
+wait 4
 1
-impl sigjbbj 0
+wait 4
 1
-impl sejjjdhh 1
+wait 4
 1
-impl sejjjdhh 0
+wait 4
 1
-impl secfjgaa 0
+wait 4
 1
-impl scbgehaj 1
+wait 4
 1
-impl scbgehaj 0
+wait 4
 1
-impl scfeajd 1
+wait 4
 1
-impl siaejggb 1
+wait 4
 1
-impl siaejggb 0
+wait 4
 1
-impl sebijjdf 1
+wait 4
 1
-impl sebijjdf 0
+wait 4
 1
-impl sfgiigee 1
+wait 4
 1
-impl shgbegij 1
+wait 4
 1
-impl shgbegij 0
+wait 4
 1
-impl sjcbhigg 1
+wait 4
 1
-impl sjgbcffd 1
+wait 4
 1
-impl sjgbcffd 0
+wait 4
 1
-impl scjgafg 1
+wait 4
 1
-impl scjgafg 0
+wait 4
 1
-impl sdejfiie 1
+wait 4
 1
-impl sgeihiic 1
+wait 4
 1
-impl sgeihiic 0
+wait 4
 1
-impl sgdhijej 1
+wait 4
 1
-impl sgdhijej 0
+wait 4
 1
-impl seafeafb 0
+wait 4
 1
-impl scicgaji 1
+wait 4
 1
-impl sjjcccia 1
+wait 4
 1
-impl sjjcccia 0
+wait 4
 1
-impl sdjaeafb 1
+wait 4
 1
-impl sjhfebca 1
+wait 4
 1
-impl sjhfebca 0
+wait 4
 1
-impl siicjdcg 1
+wait 4
 1
-impl siicjdcg 0
+wait 4
 1
-impl secghiej 1
+wait 4
 1
-impl secghiej 0
+wait 4
 1
-impl scibehej 1
+wait 4
 1
-impl scibehej 0
+wait 4
 1
-impl sdcgjcbf 1
+wait 4
 1
-impl sdcgjcbf 0
+wait 4
 1
-impl scbheecj 1
+wait 4
 1
-impl scbheecj 0
+wait 4
 1
-impl sibjccge 0
+wait 4
 1
-impl sfifhbfe 1
+wait 4
 1
-impl sfifhbfe 0
+wait 4
 1
-impl sbcdadcj 1
+wait 4
 1
-impl sgeaicfb 1
+wait 4
 1
-impl sgeaicfb 0
+wait 4
 1
-impl sedefdjc 1
+wait 4
 1
-impl sgijcebi 0
+wait 4
 1
-impl sjbccicc 1
+wait 4
 1
-impl sjbccicc 0
+wait 4
 1
-impl sbibhdeh 1
+wait 4
 1
-impl sdeechcc 1
+wait 4
 1
-impl sdeechcc 0
+wait 4
 1
-impl scafbfej 1
+wait 4
 1
-impl scafbfej 0
+wait 4
 1
-impl sjeijjdf 1
+wait 4
 1
-impl sjeijjdf 0
+wait 4
 1
-impl sgbjjahf 1
+wait 4
 1
-impl sgbjjahf 0
+wait 4
 1
-impl shgjcdec 1
+wait 4
 1
-impl shgjcdec 0
+wait 4
 1
-impl scjajghj 0
+wait 4
 1
-impl shhejdab 0
+wait 4
 1
-impl sddbejje 1
+wait 4
 1
-impl sddbejje 0
+wait 4
 1
-impl sdaeabdf 1
+wait 4
 1
-impl shghjbi 1
+wait 4
 1
-impl sibebcbb 1
+wait 4
 1
-impl sibebcbb 0
+wait 4
 1
-impl shacfcbd 1
+wait 4
 1
-impl shacfcbd 0
+wait 4
 1
-impl seeecgii 1
+wait 4
 1
-impl seeecgii 0
+wait 4
 1
-impl sebbaaif 1
+wait 4
 1
-impl sgffhfgb 1
+wait 4
 1
-impl sgffhfgb 0
+wait 4
 1
-impl sdggidfg 1
+wait 4
 1
-impl sdggidfg 0
+wait 4
 1
-impl shfdhehd 0
+wait 4
 1
-impl sejcbdfe 0
+wait 4
 1
-impl siabdjfc 1
+wait 4
 1
-impl siabdjfc 0
+wait 4
 1
-impl sgcfbd 1
+wait 4
 1
-impl sgcfbd 0
+wait 4
 1
-impl sehbaiga 1
+wait 4
 1
-impl sehbaiga 0
+wait 4
 1
-impl scdbgfjf 1
+wait 4
 1
-impl scdbgfjf 0
+wait 4
 1
-impl sbbciefa 1
+wait 4
 1
-impl sbbciefa 0
+wait 4
 1
-impl sihaaddd 1
+wait 4
 1
-impl seacajee 1
+wait 4
 1
-impl sbbcchfb 0
+wait 4
 1
-impl secafejg 1
+wait 4
 1
-impl secafejg 0
+wait 4
 1
-impl sbcbhiaa 1
+wait 4
 1
-impl sbcbhiaa 0
+wait 4
 1
-impl sbcadbij 1
+wait 4
 1
-impl sbcadbij 0
+wait 4
 1
-impl sfgefcfh 1
+wait 4
 1
-impl sfgefcfh 0
+wait 4
 1
-impl sgfbafdh 1
+wait 4
 1
-impl sgfbafdh 0
+wait 4
 1
-impl sgfaddad 1
+wait 4
 1
-impl sgfaddad 0
+wait 4
 1
-impl sgfeaeej 1
+wait 4
 1
-impl sgfeaeej 0
+wait 4
 1
-impl sihbfedi 1
+wait 4
 1
-impl sihbfedi 0
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4
+1
+wait 4

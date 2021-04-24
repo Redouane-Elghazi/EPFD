@@ -1,4 +1,5 @@
 from heapq import *
+import random
 L, G, S, B, F, N = [int(x) for x in input().split()]
 
 stoi = dict()
@@ -35,7 +36,37 @@ for f in range(F):
 	U += [u]
 
 res = [[] for _ in range(G)]
-def val(f, L):
+events = []
+cur_t = 0
+for g in range(G):
+	heappush(events, (0, g, None))
+
+Bin = B
+for i in range(Bin):
+	res[i] += ["new"]
+	B += 1
+	btos += [[]]
+for i in range(Bin, G):
+	res[i] += ["wait {}".format(N)]
+
+nt = [0]*G
+for i in range(Bin):
+	for k in range(len(btos[i])//2):
+		if nt[i] + max(len(btos[i]), len(btos[i+Bin])) > 20:
+			break
+		nt[i] += max(len(btos[i]), len(btos[i+Bin]))
+		s = random.choice(btos[i])
+		btos[i].pop(btos[i].index(s))
+		btos[i+Bin] += [s]
+		stob[s] = i+Bin
+		res[i] += ["move {} {}".format(itos[s], i+Bin)]
+	cur_t = max(cur_t, nt[i])
+for i in range(G):
+	if cur_t-nt[i]>0:
+		res[i] += ["wait {}".format(cur_t-nt[i])]
+
+SF = []
+for f in range(F):
 	score = 0
 	cost = 0
 	bins = set()
@@ -44,43 +75,32 @@ def val(f, L):
 		if b not in bins:
 			bins |= {b}
 			### TRY SUM
-			cost = sum([cost, D[f] + len(btos[b]) + btog[b]])
+			cost = sum([cost, len(btos[b])])
+	cost += D[f]
 	### TRY SOMETHING ELSE 
-	score = U[f]*(L-cost)
-	return score
+	score = U[f]/cost
+	SF += [(score, f)]
 
-def get_max_val(F_set, L):
-	res, v = None, -float("inf")
-	for f in F_set:
-		vf = val(f, L)
-		if vf>v:
-			v = vf
-			res = f
-	return res
+SF.sort(reverse=True)
 
 events = []
 for g in range(G):
-	heappush(events, (0, g, None))
+	heappush(events, (cur_t, g, None))
 
 btog = [0]*B
-F_set = set(range(F))
-cur_t = 0
-while len(F_set) != 0:
-	f = get_max_val(F_set, L-cur_t)
+for score, f in SF:
 	bins = set()
 	for s in ftos[f]:
 		b = stob[s]
 		if b not in bins:
 			bins |= {b}
 			t, g, rb = heappop(events)
-			cur_t = t
 			if rb is not None:
 				btog[rb] -= 1
 			nt = t + D[f] + len(btos[b]) + btog[b]
 			heappush(events, (nt, g, b))
 			btog[b] += 1
 			res[g] += ["impl {} {}".format(itof[f], b)]
-	F_set -= {f}
 
 res = [r for r in res if r!=[]]
 print(len(res))
