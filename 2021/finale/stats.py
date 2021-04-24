@@ -92,8 +92,37 @@ def features_per_binaries(NAME, L, G, S, B, F, N, services, features):
 
 	pl.savefig(NAME + "_fts_per_bin.png")
 	
+def services_per_features(NAME, L, G, S, B, F, N, services, features):
+	data = [nb_services for name, (nb_services, difficulty, nb_users, s) in features.items()]
+	
+	#plot
+	nb_bins = 20
+	fig, ax = pl.subplots(1, 1)
+	fig.suptitle(f"{NAME} ({F} features and {S} services and {B} binaries)")
+
+	# We can set the number of bins with the `bins` kwarg
+	ax.set_title("Services per features")
+	ax.hist(data, bins=nb_bins, log=True)
+
+	pl.savefig(NAME + "_ser_per_ft.png")
+	
+def binaries_per_features(NAME, L, G, S, B, F, N, services, features):
+	data = [len(set([services[name] for name in s])) for _, (nb_services, difficulty, nb_users, s) in features.items()]
+	
+	#plot
+	nb_bins = 20
+	fig, ax = pl.subplots(1, 1)
+	fig.suptitle(f"{NAME} ({F} features and {S} services and {B} binaries)")
+
+	# We can set the number of bins with the `bins` kwarg
+	ax.set_title("Binaries per features")
+	ax.hist(data, bins=nb_bins, log=True)
+
+	pl.savefig(NAME + "_bin_per_ft.png")
+	
 for k in "abcdef":
 	filename = f"inputs/{k}.txt"
 	L, G, S, B, F, N, services, features = parse(filename)
 	stats(L, G, S, B, F, N, services, features)
-	features_per_binaries(k, L, G, S, B, F, N, services, features)
+	services_per_features(k, L, G, S, B, F, N, services, features)
+	binaries_per_features(k, L, G, S, B, F, N, services, features)
