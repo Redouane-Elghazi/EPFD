@@ -1,0 +1,6 @@
+2
+2
+impl bar 1
+impl foo 2
+1
+impl foo 1

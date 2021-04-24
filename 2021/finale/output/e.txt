@@ -1,0 +1,339 @@
+169
+1
+impl segcagid 1
+1
+impl segcagid 0
+1
+impl sbjafeib 1
+1
+impl sbjafeib 0
+1
+impl sibajfgd 1
+1
+impl sibajfgd 0
+1
+impl seicdjjf 1
+1
+impl seicdjjf 0
+1
+impl sgbbdeii 1
+1
+impl sgbbdeii 0
+1
+impl sbciihba 1
+1
+impl sbciihba 0
+1
+impl sbjejgjj 1
+1
+impl sbjejgjj 0
+1
+impl sfdgggfe 0
+1
+impl sgjcibef 1
+1
+impl sdehjghc 1
+1
+impl sdehjghc 0
+1
+impl sieafdid 1
+1
+impl sieafdid 0
+1
+impl sighiagc 1
+1
+impl sighiagc 0
+1
+impl sgbfdcdc 0
+1
+impl shicfiag 1
+1
+impl shicfiag 0
+1
+impl segghbga 1
+1
+impl segghbga 0
+1
+impl sbcjiie 1
+1
+impl sbcjiie 0
+1
+impl sheegbcg 1
+1
+impl sheegbcg 0
+1
+impl sdfehjjh 1
+1
+impl shbjhaeh 1
+1
+impl shbjhaeh 0
+1
+impl secgbdah 1
+1
+impl secgbdah 0
+1
+impl seebgedb 0
+1
+impl sidcbdcg 1
+1
+impl scjighfg 1
+1
+impl scjighfg 0
+1
+impl sccihe 1
+1
+impl sccihe 0
+1
+impl sejcjbjf 1
+1
+impl sejcjbjf 0
+1
+impl sfacfggi 1
+1
+impl sfacfggi 0
+1
+impl scgjjhbh 1
+1
+impl scgjjhbh 0
+1
+impl scfjjdjg 0
+1
+impl seefabdg 1
+1
+impl sbfahjej 1
+1
+impl sbfahjej 0
+1
+impl sjhiedfb 1
+1
+impl sjhiedfb 0
+1
+impl sjecbaeh 1
+1
+impl sjecbaeh 0
+1
+impl shddfeih 1
+1
+impl shddfeih 0
+1
+impl sigjbbj 1
+1
+impl sigjbbj 0
+1
+impl sejjjdhh 1
+1
+impl sejjjdhh 0
+1
+impl secfjgaa 0
+1
+impl scbgehaj 1
+1
+impl scbgehaj 0
+1
+impl scfeajd 1
+1
+impl siaejggb 1
+1
+impl siaejggb 0
+1
+impl sebijjdf 1
+1
+impl sebijjdf 0
+1
+impl sfgiigee 1
+1
+impl shgbegij 1
+1
+impl shgbegij 0
+1
+impl sjcbhigg 1
+1
+impl sjgbcffd 1
+1
+impl sjgbcffd 0
+1
+impl scjgafg 1
+1
+impl scjgafg 0
+1
+impl sdejfiie 1
+1
+impl sgeihiic 1
+1
+impl sgeihiic 0
+1
+impl sgdhijej 1
+1
+impl sgdhijej 0
+1
+impl seafeafb 0
+1
+impl scicgaji 1
+1
+impl sjjcccia 1
+1
+impl sjjcccia 0
+1
+impl sdjaeafb 1
+1
+impl sjhfebca 1
+1
+impl sjhfebca 0
+1
+impl siicjdcg 1
+1
+impl siicjdcg 0
+1
+impl secghiej 1
+1
+impl secghiej 0
+1
+impl scibehej 1
+1
+impl scibehej 0
+1
+impl sdcgjcbf 1
+1
+impl sdcgjcbf 0
+1
+impl scbheecj 1
+1
+impl scbheecj 0
+1
+impl sibjccge 0
+1
+impl sfifhbfe 1
+1
+impl sfifhbfe 0
+1
+impl sbcdadcj 1
+1
+impl sgeaicfb 1
+1
+impl sgeaicfb 0
+1
+impl sedefdjc 1
+1
+impl sgijcebi 0
+1
+impl sjbccicc 1
+1
+impl sjbccicc 0
+1
+impl sbibhdeh 1
+1
+impl sdeechcc 1
+1
+impl sdeechcc 0
+1
+impl scafbfej 1
+1
+impl scafbfej 0
+1
+impl sjeijjdf 1
+1
+impl sjeijjdf 0
+1
+impl sgbjjahf 1
+1
+impl sgbjjahf 0
+1
+impl shgjcdec 1
+1
+impl shgjcdec 0
+1
+impl scjajghj 0
+1
+impl shhejdab 0
+1
+impl sddbejje 1
+1
+impl sddbejje 0
+1
+impl sdaeabdf 1
+1
+impl shghjbi 1
+1
+impl sibebcbb 1
+1
+impl sibebcbb 0
+1
+impl shacfcbd 1
+1
+impl shacfcbd 0
+1
+impl seeecgii 1
+1
+impl seeecgii 0
+1
+impl sebbaaif 1
+1
+impl sgffhfgb 1
+1
+impl sgffhfgb 0
+1
+impl sdggidfg 1
+1
+impl sdggidfg 0
+1
+impl shfdhehd 0
+1
+impl sejcbdfe 0
+1
+impl siabdjfc 1
+1
+impl siabdjfc 0
+1
+impl sgcfbd 1
+1
+impl sgcfbd 0
+1
+impl sehbaiga 1
+1
+impl sehbaiga 0
+1
+impl scdbgfjf 1
+1
+impl scdbgfjf 0
+1
+impl sbbciefa 1
+1
+impl sbbciefa 0
+1
+impl sihaaddd 1
+1
+impl seacajee 1
+1
+impl sbbcchfb 0
+1
+impl secafejg 1
+1
+impl secafejg 0
+1
+impl sbcbhiaa 1
+1
+impl sbcbhiaa 0
+1
+impl sbcadbij 1
+1
+impl sbcadbij 0
+1
+impl sfgefcfh 1
+1
+impl sfgefcfh 0
+1
+impl sgfbafdh 1
+1
+impl sgfbafdh 0
+1
+impl sgfaddad 1
+1
+impl sgfaddad 0
+1
+impl sgfeaeej 1
+1
+impl sgfeaeej 0
+1
+impl sihbfedi 1
+1
+impl sihbfedi 0
