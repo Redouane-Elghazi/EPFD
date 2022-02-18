@@ -1,0 +1,6 @@
+Google Hashcode cheatsheet :
+
+	-Solution benête
+	-Optimal sur les exemples
+	-Calcul du score (pour faire du hill climbing et de l'exploration d'hyperparamètres)
+	-Analyse des samples
