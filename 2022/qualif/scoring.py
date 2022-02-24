@@ -1,6 +1,8 @@
 import tools
+import copy
 
-def verif(contributors, c2S, projects, p2D, p2W, p2B, p2S, p_order, p2C_order):
+def verif(contributors, _c2S, projects, p2D, p2W, p2B, p2S, p_order, p2C_order):
+	c2S = copy.deepcopy(_c2S)
 	for p, C in zip(p_order, p2C_order):
 		for i in range(len(C)):
 			s, l = p2S[p][i]
@@ -8,9 +10,10 @@ def verif(contributors, c2S, projects, p2D, p2W, p2B, p2S, p_order, p2C_order):
 				return False
 			if c2S[C[i]].get(s, 0) < l:
 				exist = False
-				for j in range(len(C)):
-					if c2S[C[j]].get(s, 0) >= l:
+				for c in C:
+					if c2S[c].get(s, 0) >= l:
 						exist = True
+						break
 				if not exist:
 					return False
 		for i in range(len(C)):
