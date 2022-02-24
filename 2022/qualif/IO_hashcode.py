@@ -26,7 +26,7 @@ def read_input():
 	return (contributors, c2S, projects, p2D, p2W, p2B, p2S)
 
 
-def read_input(filename):
+def read_input_file(filename):
 	file = open(filename, "r")
 	C, P = [int(x) for x in file.readline().strip().split()]
 	contributors, c2S = [], []
@@ -75,7 +75,7 @@ def read_output():
 	return (projects, contributors, projects_order, p2C_order)
 
 
-def read_output(filename):
+def read_output_file(filename):
 	file = open(filename, "r")
 	P = int(file.readline().strip())
 	name2i = dict()
@@ -96,7 +96,7 @@ def read_output(filename):
 	return (projects, contributors, projects_order, p2C_order)
 
 
-def read_output(projects, contributors):
+def read_output_init(projects, contributors):
 	p2i = dict()
 	c2i = dict()
 	for i in range(len(projects)):
@@ -116,7 +116,7 @@ def read_output(projects, contributors):
 	return projects_order, p2C_order
 
 
-def read_output(filename, projects, contributors):
+def read_output_init_file(filename, projects, contributors):
 	file = open(filename, "r")
 	p2i = dict()
 	c2i = dict()
@@ -137,9 +137,16 @@ def read_output(filename, projects, contributors):
 	return projects_order, p2C_order
 
 
-
 def print_output(projects, contributors, projects_order, p2C_order):
 	print(len(projects_order))
 	for p, C in zip(projects_order, p2C_order):
 		print(projects[p])
 		print(" ".join(contributors[c] for c in C))
+
+
+def write_output(filename, projects, contributors, projects_order, p2C_order):
+	with open(filename, "w") as file:
+		file.write(str(len(projects_order)) + "\n")
+		for p, C in zip(projects_order, p2C_order):
+			file.write(projects[p] + "\n")
+			file.write(" ".join(contributors[c] for c in C) + "\n")
