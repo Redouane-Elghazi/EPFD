@@ -1,7 +1,6 @@
 from typing import List, Dict, Tuple
 
 
-# fait des copies
 def learning(project: List[Tuple[str, int]], contributors: List[Dict[str, int]]) -> List[Dict[str, int]]:
 	new_contributors = [d for d in contributors]
 	n = len(project)
@@ -11,8 +10,18 @@ def learning(project: List[Tuple[str, int]], contributors: List[Dict[str, int]])
 	return new_contributors
 
 
+def find_contributor(project: List[Tuple[str, int]], contributors: List[Dict[str, int]], role: int, mentor: bool,
+					 start: int):
+	for i in range(start, len(contributors)):
+		if mentor and contributors[i][project[role][0]] >= project[role][1] - 1:
+			return i
+		elif contributors[i][project[role][0]] >= project[role][1]:
+			return i
+	return None
+
+
 def find_contributors(project: List[Tuple[str, int]], contributors: List[Dict[str, int]], role: int):
 	no_mentor = [i for i in range(len(contributors)) if contributors[i][project[role][0]] >= project[role][1]]
-	with_mentor = [i for i in range(len(contributors)) if contributors[i][project[role][0]] == project[role][1]-1]
+	with_mentor = [i for i in range(len(contributors)) if contributors[i][project[role][0]] == project[role][1] - 1]
 
 	return no_mentor, with_mentor
