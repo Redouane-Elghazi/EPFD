@@ -1,36 +1,44 @@
 from typing import List, Dict, Tuple
 
 
-def learning(project: List[Tuple[str, int]], contributors: List[Dict[str, int]]) -> List[Dict[str, int]]:
-	new_contributors = [d for d in contributors]
-	n = len(project)
+def learning(p2S: List[Tuple[str, int]], p2C_order: List[int], c2S: List[Dict[str, int]]):
+	n = len(p2S)
 	for i in range(n):
-		if contributors[i][project[0][i]] <= project[1][i]:
-			new_contributors[i][project[1][i]] += 1
-	return new_contributors
+		contrib = p2C_order[i]
+		role = p2S[i]
+		if c2S[contrib].get(role[0], 0) <= role[1]:
+			c2S[contrib][role[0]] = c2S[contrib].get(role[0], 0) + 1
 
 
-def find_contributor(project: List[Tuple[str, int]], contributors: List[Dict[str, int]], role: int, mentor: bool,
-					 start: int):
-	for i in range(start, len(contributors)):
-		if mentor and contributors[i][project[role][0]] >= project[role][1] - 1:
+def find_contributor(p2S: List[Tuple[str, int]], c2S: List[Dict[str, int]], role: int, mentor=False, start=0):
+	for i in range(start, len(c2S)):
+		value = c2S[i].get(p2S[role][0], 0)
+		if mentor and value >= p2S[role][1] - 1:
 			return i
-		elif contributors[i][project[role][0]] >= project[role][1]:
+		elif value >= p2S[role][1]:
 			return i
 	return None
 
 
-def find_contributors(project: List[Tuple[str, int]], contributors: List[Dict[str, int]], role: int):
-	no_mentor = [i for i in range(len(contributors)) if contributors[i][project[role][0]] >= project[role][1]]
-	with_mentor = [i for i in range(len(contributors)) if contributors[i][project[role][0]] == project[role][1] - 1]
+def find_contributors(p2S: List[Tuple[str, int]], c2S: List[Dict[str, int]], role: int):
+	no_mentor = [i for i in range(len(c2S)) if c2S[i].get(p2S[role][0], 0) >= p2S[role][1]]
+	with_mentor = [i for i in range(len(c2S)) if c2S[i].get(p2S[role][0], 0) == p2S[role][1] - 1]
 
 	return no_mentor, with_mentor
 
+#value = c2S[i].get(p2S[role][0], 0)
+def find_contributors_yield(p2S: List[Tuple[str, int]], c2S: List[Dict[str, int]], role: int, mentor=False, start=0):
+	for i in range(start, len(c2S)):
+		if mentor and c2S[i][p2S[role][0]] >= p2S[role][1] - 1:
+			yield i
+		elif c2S[i][p2S[role][0]] >= p2S[role][1]:
+			yield i
 
-def find_contributors_yield(project: List[Tuple[str, int]], contributors: List[Dict[str, int]], role: int, mentor: bool,
-							start=0):
-	for i in range(start, len(contributors)):
-		if mentor and contributors[i][project[role][0]] >= project[role][1] - 1:
-			yield i
-		elif contributors[i][project[role][0]] >= project[role][1]:
-			yield i
+
+def score_project(current_day: int, ind_proj: int, p2D, p2W, p2B):
+	end = current_day + p2D[ind_proj]
+	late = end - p2B[ind_proj]
+	if late <= 0:
+		return p2W[ind_proj]
+	else:
+		return max(0, p2W[ind_proj] - late)
