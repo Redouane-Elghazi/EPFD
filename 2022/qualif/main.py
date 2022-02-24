@@ -1,5 +1,4 @@
-import m_input
-import m_output
+import io
 import scoring
 
 print(scoring.score())
