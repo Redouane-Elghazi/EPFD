@@ -36,7 +36,7 @@ while True:
 			lastcont = (res[-1]+1)%C
 			done_projects += [cur]
 			p2c += [res]
-			#learning(p2S, res, c2S)
+			#learning(p2S[cur], res, c2S)
 	cur = (cur+1)%P
 	if last == cur:
 		break
