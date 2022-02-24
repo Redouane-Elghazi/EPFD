@@ -18,7 +18,7 @@ save_step = 100000
 last_save = score
 nb_save = 0
 
-max_nb_test = 10000
+max_nb_test = 1000
 nb_test = 0
 
 print(score)
