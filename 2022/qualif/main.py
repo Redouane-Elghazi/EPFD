@@ -33,11 +33,25 @@ def attrib(p, res):
 	tab = [[1 if c2S[c].get(p2S[p][s][0], 0) >= p2S[p][s][1] else 0 for s in range(S)] for c in range(C)]
 	g = BpM(tab)
 	result = g.maxBPM()
+	good = True
 	for s in range(S):
 		if result[s] == -1:
-			return False
+			good = False
 		res[s] = result[s]
-	return True
+	if good:
+		return True
+	for s1 in range(S):
+		tab = [[1 if c2S[c].get(p2S[p][s][0], 0) >= p2S[p][s][1] - (1 if s==s1 else 0) else 0 for s in range(S)] for c in range(C)]
+		g = BpM(tab)
+		result = g.maxBPM()
+		good = True
+		for s in range(S):
+			if result[s] == -1:
+				good = False
+			res[s] = result[s]
+		if good:
+			return True
+	return False
 
 contributors, c2S, projects, p2D, p2W, p2B, p2S = read_input()
 
