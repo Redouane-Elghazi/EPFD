@@ -1,10 +1,10 @@
 from IO_hashcode import read_input, print_output
-from tools import find_contributors_yield
+from tools import find_contributors_yield, learning
 import scoring
 from random import shuffle
 
 def attrib(p, i, res, used):
-	if i == len(p2S):
+	if i == len(p2S[p]):
 		return True
 	for cont in find_contributors_yield(p2S[p], c2S, i, start=lastcont):
 		if cont not in used:
@@ -33,9 +33,10 @@ while True:
 		if attrib(cur, 0, res, set()):
 			done[cur] = True
 			last = cur
-			lastcont = res[-1]
+			lastcont = (res[-1]+1)%C
 			done_projects += [cur]
 			p2c += [res]
+			#learning(p2S[cur], res, c2S)
 	cur = (cur+1)%P
 	if last == cur:
 		break
