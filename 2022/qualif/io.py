@@ -9,7 +9,7 @@ def read_input():
 		for i in range(N):
 			s, l = input().split()
 			c2S[-1][s] = int(l)
-	
+
 	projects, p2D, p2W, p2B, p2S = [], [], [], [], []
 	for p in range(P):
 		name, D, W, B, r = input().split()
@@ -22,5 +22,12 @@ def read_input():
 		for i in range(r):
 			s, l = input().split()
 			p2S[-1] += [(s, int(l))]
-		
+
 	return (contributors, c2S, projects, p2D, p2W, p2B, p2S)
+
+
+def print_output(projects, contributors, projects_order, p2C_order):
+	print(len(projects_order))
+	for p, C in zip(projects_order, p2C_order):
+		print(projects[p])
+		print(" ".join(contributors[c] for c in C))
