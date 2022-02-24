@@ -32,3 +32,12 @@ def find_contributors_yield(p2S: List[Tuple[str, int]], c2S: List[Dict[str, int]
 			yield i
 		elif c2S[i][p2S[role][0]] >= p2S[role][1]:
 			yield i
+
+
+def score_project(current_day: int, ind_proj: int, p2D, p2W, p2B):
+	end = current_day + p2D[ind_proj]
+	late = end - p2B[ind_proj]
+	if late <= 0:
+		return p2W[ind_proj]
+	else:
+		return max(0, p2W[ind_proj] - late)
