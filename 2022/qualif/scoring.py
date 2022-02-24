@@ -3,4 +3,3 @@ def verif(contributors, c2S, projects, p2D, p2W, p2B, p2S, ):
 
 def score():
     return 1
-
