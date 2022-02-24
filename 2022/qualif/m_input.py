@@ -1,9 +1,10 @@
 def read_input():
 	C, P = [int(x) for x in input().split()]
-	constributors, c2S = [], []
+	contributors, c2S = [], []
 	for c in range(C):
-		contributors += [input()]
-		N = int(input())
+		name, N = input().split()
+		contributors += [name]
+		N = int(N)
 		c2S += [dict()]
 		for i in range(N):
 			s, l = input().split()
@@ -11,14 +12,15 @@ def read_input():
 	
 	projects, p2D, p2W, p2B, p2S = [], [], [], [], []
 	for p in range(P):
-		projects += [input()]
-		p2D += [int(input())]
-		p2W += [int(input())]
-		p2B += [int(input())]
-		r = int(input())
-		p2S += [dict()]
+		name, D, W, B, r = input().split()
+		projects += [name]
+		p2D += [int(D)]
+		p2W += [int(W)]
+		p2B += [int(B)]
+		r = int(r)
+		p2S += [[]]
 		for i in range(r):
 			s, l = input().split()
-			p2S[-1][s] = int(l)
+			p2S[-1] += [(s, int(l))]
 		
 	return (contributors, c2S, projects, p2D, p2W, p2B, p2S)
