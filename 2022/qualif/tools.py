@@ -25,3 +25,12 @@ def find_contributors(project: List[Tuple[str, int]], contributors: List[Dict[st
 	with_mentor = [i for i in range(len(contributors)) if contributors[i][project[role][0]] == project[role][1] - 1]
 
 	return no_mentor, with_mentor
+
+
+def find_contributors_yield(project: List[Tuple[str, int]], contributors: List[Dict[str, int]], role: int, mentor: bool,
+							start=0):
+	for i in range(start, len(contributors)):
+		if mentor and contributors[i][project[role][0]] >= project[role][1] - 1:
+			yield i
+		elif contributors[i][project[role][0]] >= project[role][1]:
+			yield i
