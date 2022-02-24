@@ -30,7 +30,7 @@ def find_contributors(p2S: List[Tuple[str, int]], c2S: List[Dict[str, int]], rol
 #value = c2S[i].get(p2S[role][0], 0)
 def find_contributors_yield(p2S: List[Tuple[str, int]], c2S: List[Dict[str, int]], role: int, mentor=False, start=0):
 	for i in range(start, len(c2S)+start):
-		value = c2S[i%len(c2S)][p2S[role][0]] if p2S[role][0] in c2S[i%len(c2S)] else 0
+		value = c2S[i%len(c2S)].get(p2S[role][0], 0)
 		if mentor and value == p2S[role][1] - 1:
 			yield i%len(c2S)
 		elif value >= p2S[role][1]:
