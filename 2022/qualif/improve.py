@@ -18,7 +18,7 @@ save_step = 100000
 last_save = score
 nb_save = 0
 
-max_nb_test = 1000
+max_nb_test = 1000000
 nb_test = 0
 
 print(score)
@@ -38,7 +38,7 @@ while nb_test < max_nb_test:
 	if not scoring.verif(contributors, c2S, projects, p2D, p2W, p2B, p2S, p_order, p2C_order):
 		p_order[p1], p_order[p2] = p_order[p2], p_order[p1]
 		p2C_order[p1], p2C_order[p2] = p2C_order[p2], p2C_order[p1]
-		print("nul")
+		#print("nul")
 	else:
 		new_score = scoring.score(contributors, c2S, projects, p2D, p2W, p2B, p2S, p_order, p2C_order)
 		if new_score <= score:
@@ -55,3 +55,7 @@ nb_save += 1
 last_save = score
 
 
+
+def save():
+	print("Saving")
+	io.write_output("output/optim{}.out".format(nb_save), projects, contributors, p_order, p2C_order)
