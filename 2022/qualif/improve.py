@@ -25,7 +25,7 @@ print(score)
 while nb_test < max_nb_test:
 	if score - last_save > save_step:
 		print("Saving")
-		io.write_output("output/optim{}.out".format(nb_save), projects, contributors, p_order, p2C_order)
+		io.write_output("output/{}-optim{}.out".format(test_set, nb_save), projects, contributors, p_order, p2C_order)
 		nb_save += 1
 		last_save = score
 	nb_test += 1
