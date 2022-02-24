@@ -26,6 +26,26 @@ def read_input():
 	return (contributors, c2S, projects, p2D, p2W, p2B, p2S)
 
 
+def read_output():
+	P = int(input())
+	name2i = dict()
+	projects = []
+	contributors = []
+	projects_order = []
+	p2C_order = []
+	for i in range(P):
+		projects_order += [len(projects)]
+		projects += [input()]
+		p2C_order += [[]]
+		names = input().split()
+		for n in names:
+			if n not in name2i:
+				name2i[n] = len(contributors)
+				contributors += [n]
+			p2C_order[-1] += [name2i[n]]
+	return (projects, contributors, projects_order, p2C_order)
+
+
 def print_output(projects, contributors, projects_order, p2C_order):
 	print(len(projects_order))
 	for p, C in zip(projects_order, p2C_order):

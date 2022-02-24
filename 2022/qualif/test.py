@@ -1,5 +1,5 @@
-import m_input
-import m_output
+import IO_hashcode as io
 import scoring
 
-print(0)
+p, c, po, pco = io.read_output()
+io.print_output(p, c, po, pco)
