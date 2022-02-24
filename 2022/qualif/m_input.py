@@ -1,6 +1,5 @@
 def read_input():
-	C = int(input())
-	P = int(input())
+	C, P = [int(x) for x in input().split()]
 	constributors, c2S = [], []
 	for c in range(C):
 		contributors += [input()]
