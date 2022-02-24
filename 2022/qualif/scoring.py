@@ -1,3 +1,5 @@
+import tools
+
 def verif(contributors, c2S, projects, p2D, p2W, p2B, p2S, p_order, p2C_order):
 	for p, C in zip(p_order, p2C_order):
 		for i in range(len(C)):
@@ -20,10 +22,15 @@ def verif(contributors, c2S, projects, p2D, p2W, p2B, p2S, p_order, p2C_order):
 
 def score(contributors, c2S, projects, p2D, p2W, p2B, p2S, p_order, p2C_order):
 	free_at = [0]*len(contributors)
+	res = 0
 	for p, C in zip(p_order, p2C_order):
-		first = -1
 		last_free = -1
 		for i in range(len(C)):
-			return 0
+			if free_at[C[i]] > last_free:
+				last_free = free_at[C[i]]
+		res += tools.score_project(last_free, p, p2D, p2W, p2B)
+		for i in range(len(C)):
+			free_at[C[i]] = last_free + p2D[p]
+	return res
 
 
