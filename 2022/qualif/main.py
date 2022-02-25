@@ -4,6 +4,7 @@ import scoring
 from random import shuffle
 import sys
 from GfGmatching import BpM
+import atexit
 
 def attribold(p, i, res, used, o):
 	if i == len(p2S[p]):
@@ -57,6 +58,8 @@ contributors, c2S, projects, p2D, p2W, p2B, p2S = read_input()
 
 C = len(contributors)
 P = len(projects)
+o = [i for i in range(P)]
+o.sort(key=lambda p:len(p2S[p]))
 
 bestS = dict()
 for p in range(P):
@@ -81,9 +84,6 @@ while True:
 		for s, v in p2S[cur]:
 			if bestS[s]<v:
 				poss = False
-		nb = {s:len([c for c in range(C) if s in c2S[c] and c2S[c][s]>=v]) for s,v in p2S[cur]}
-		o = [i for i in range(len(p2S[cur]))]
-		o.sort(key=lambda i:nb[p2S[cur][i][0]])
 		#if poss and attribold(cur, 0, res, set(), o):
 		if poss and attrib(cur, res):
 			done[cur] = True
@@ -96,5 +96,7 @@ while True:
 	if last == cur:
 		break
 
-print("", file=sys.stderr)
-print_output(projects, contributors, done_projects, p2c)
+def sortie():
+	print("", file=sys.stderr)
+	print_output(projects, contributors, done_projects, p2c)
+atexit.register(sortie)
